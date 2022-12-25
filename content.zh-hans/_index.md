@@ -13,3 +13,7 @@ bookToc: false
 ## 受众
 
 简体中文版本的本手册主要的目标受众是生活在中国大陆地区的伙伴。
+
+## 联系方式
+
+[contact@transacademic.org](mailto:contact@transacademic.org)

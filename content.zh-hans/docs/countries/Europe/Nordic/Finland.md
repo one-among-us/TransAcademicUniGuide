@@ -28,6 +28,8 @@ bookToc: true
 
 而计算机类专业主要的毕业去向为咨询，即为其他公司提供解决方案，工资较为可观。因而对于计算机类的学生来说，一定的工程、开发能力可以让他们更好的找到工作。
 
+数据显示，2022年芬兰收入中位数超过 €3,300。[^2]
+
 ## 居留
 
 对于芬兰，他们发给学生的不是签证，而是居留许可。
@@ -46,8 +48,7 @@ A类居留许可持有满四年，可以申请永久居留。在满足一定条�
 
 ## 跨性别医疗资源
 
-学生医疗服务，由[Finnish Student Health Service](https://www.yths.fi/en/frontpage/)负责。FSHS提供了牙科心理科与一般门诊， 当医师认为有必要的时候，会请求转诊至其他医院。在赫尔辛基大区往往为[赫尔辛基大学附属医院（HUS）](https://www.hus.fi/en)。
-
+学生医疗服务，由[Finnish Student Health Service](https://www.yths.fi/en/frontpage/)负责。FSHS提供了牙科心理科与一般门诊， 当医师无法处理您的状况/请求时，会转诊至其他医院。在赫尔辛基大区往往为[赫尔辛基大学附属医院（HUS）](https://www.hus.fi/en)。
 
 芬兰的激素类药物相对容易获取，FSHS往往可以提供医嘱。在转诊至HUS后，若官方文件（如护照）中仍为被指派性别，可提供相关文件至HUS进行性别更改。
 
@@ -58,3 +59,4 @@ A类居留许可持有满四年，可以申请永久居留。在满足一定条�
 
 
 [^1][芬兰移民局：芬兰国籍](https://migri.fi/en/faq-finnish-citizenship)
+[^2][Finland's median monthly income surpasses €3,300 - yle](https://yle.fi/a/3-12647702)
