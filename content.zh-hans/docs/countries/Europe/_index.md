@@ -16,5 +16,7 @@ bookToc: false
 其详细PDF版地图与表格可点击如下连接查看：
 
 [彩虹欧洲地图和表格 2022版](https://www.ilga-europe.org/report/rainbow-europe-2022/)
+
 [2022 地图 PDF](http://www.ilga-europe.org/files/uploads/2022/06/rainbow-map-2022.pdf)
+
 [2022 表格 PDF](https://www.ilga-europe.org/files/uploads/2022/06/rainbow-index-2022.pdf)
