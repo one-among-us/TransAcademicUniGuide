@@ -22,18 +22,24 @@ enableGitInfo = true
 [languages]
 [languages.en]
   languageName = 'English'
+  title = 'Transgender University Guidance'
   contentDir = 'content.en'
   weight = 1
-
+  [languages.en.params]
+  
 [languages.zh-hans]
   languageName = 'Simplified Chinese'
+  title = '跨性别选校手册'
   contentDir = 'content.zh-hans'
   weight = 2
+  [languages.zh-hans.params]
 
 [languages.zh-hant]
   languageName = 'Traditional Chinese'
+  title = '跨性別選校手冊'
   contentDir = 'content.zh-hant'
   weight = 3
+  [languages.zh-hant.params]
 
 [menu]
 # [[menu.before]]
