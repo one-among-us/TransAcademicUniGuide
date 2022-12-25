@@ -1,4 +1,4 @@
-baseURL = 'https://uniguidance.transacademic.org/'
+baseURL = 'https://uniguide.transacademic.org/'
 languageCode = 'en-us'
 title = 'Transgender University Guidance'
 theme = 'book'
