@@ -1,0 +1,23 @@
+{{ $caption := .Get "caption" }}
+{{ $useHeaderRow := .Get "header" }}
+{{ $rows := .Inner | transform.Unmarshal }}
+
+<table>
+    {{ with $caption }}<caption>{{ . }}</caption>{{ end }}
+    {{ if $useHeaderRow }}
+    {{ $headerRow := index $rows 0 }}
+    {{ $rows = after 1 $rows }}
+    <tr> {{ range $headerRow }} <th>{{ . }}</th> {{ end }} </tr>
+    {{ end }}
+    {{ range $rows }}
+    <tr>
+        {{ range . }}
+        {{ if (findRE "^\\d+$" .) }}
+        <td class="numeric">{{ . }}</td>
+        {{ else }}
+        <td>{{ . }}</td>
+        {{ end }}
+        {{ end }}
+    </tr>
+    {{ end }}
+</table>
