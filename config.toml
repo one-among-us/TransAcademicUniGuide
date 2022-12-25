@@ -1,6 +1,6 @@
-baseURL = 'https://manual.transacademic.org/'
+baseURL = 'https://uniguidance.transacademic.org/'
 languageCode = 'en-us'
-title = 'Transgender Academic Manual'
+title = 'Transgender University Guidance'
 theme = 'book'
 
 # Book configuration
@@ -25,12 +25,12 @@ enableGitInfo = true
   contentDir = 'content.en'
   weight = 1
 
-[languages.ru]
+[languages.zh-hans]
   languageName = 'Simplified Chinese'
   contentDir = 'content.zh-hans'
   weight = 2
 
-[languages.zh]
+[languages.zh-hant]
   languageName = 'Traditional Chinese'
   contentDir = 'content.zh-hant'
   weight = 3
