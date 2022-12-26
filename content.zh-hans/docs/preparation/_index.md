@@ -1,6 +1,6 @@
 ---
 weight: 10
-bookCollapseSection: true
+bookFlatSection: true
 title: "前期准备"
 bookToc: true
 ---
