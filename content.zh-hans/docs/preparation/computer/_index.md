@@ -1,13 +1,6 @@
 ---
 weight: 10
-bookFlatSection: true
-title: "理學"
+bookCollapseSection: true
+title: "計算機相關專業"
 bookToc: false
 ---
-
-# 理學
-
-理學包括數學，物理，化學等基礎研究性學科。理論性強，注重推導、實驗、觀察。
-
-但因為許多綜合性大學將部分電子信息、計算機類的工學部分和理學部分混合培養，因而我們在行文中可能也可能會模糊兩者的區別。
-
