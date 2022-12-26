@@ -58,5 +58,5 @@ A类居留许可持有满四年，可以申请永久居留。在满足一定条�
 
 
 
-[^1][芬兰移民局：芬兰国籍](https://migri.fi/en/faq-finnish-citizenship)
-[^2][Finland's median monthly income surpasses €3,300 - yle](https://yle.fi/a/3-12647702)
+[^1]: [芬兰移民局：芬兰国籍](https://migri.fi/en/faq-finnish-citizenship)
+[^2]: [Finland's median monthly income surpasses €3,300 - yle](https://yle.fi/a/3-12647702)

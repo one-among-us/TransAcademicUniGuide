@@ -35,4 +35,4 @@ bookToc: true
 待补充。
 
 
-[^1][Average Salary in Canada - Talent.com](https://ca.talent.com/salary?job=average)
+[^1]: [Average Salary in Canada - Talent.com](https://ca.talent.com/salary?job=average)
