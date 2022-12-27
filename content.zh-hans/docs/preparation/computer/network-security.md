@@ -12,4 +12,4 @@ bookToc: true
 
 ## 网络安全夺旗战
 
-[CTF Wiki](https://ctf-wiki.org/)也提供了很好的入门与进阶内容。
+[CTF Wiki](https://ctf-wiki.org/) 也提供了很好的入门与进阶内容。

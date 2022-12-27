@@ -19,7 +19,13 @@ bookToc: true
 
 ### 第二步：学校列表
 
-首先我们需要准备一些工具，比如说各种的学校排名[QS](https://www.topuniversities.com/university-rankings)、[THE](https://www.timeshighereducation.com/world-university-rankings)、[USNews](https://www.usnews.com/education/best-global-universities/rankings)、[ARWU](https://www.shanghairanking.cn/rankings/arwu/2022)、[CWUR](https://cwur.org/)等等。有些排名并不能代表学校的实际水平，所以说他只能做一个参考，但是对于我们如果没有其他的信息来源的话，这个参考可能也是比较有价值的。同时注意他们往往每年都会进行排名，所以说可能您要注意去切换到最新的年份。
+首先我们需要准备一些工具，比如说各种的学校排名
+[QS](https://www.topuniversities.com/university-rankings) / 
+[THE](https://www.timeshighereducation.com/world-university-rankings) / 
+[USNews](https://www.usnews.com/education/best-global-universities/rankings) / 
+[ARWU](https://www.shanghairanking.cn/rankings/arwu/2022) / 
+[CWUR](https://cwur.org/) 
+等等。排名并不能代表学校的实际水平，因为不同排名的侧重点不一样，部分侧重点可能是我们并不在意的，但是对于我们如果没有其他的信息来源的话，这个参考可能也是比较有价值的。同时注意他们往往每年都会进行排名，所以说可能您要注意去切换到最新的年份。
 
 还有一点需要提醒的是，学校排名不代表学科排名，其学科排名也是一个值得考量的因素。也可以通过一些学科排名机构看到，虽然这些机构同样不甚准确，但是他是免费的开放数据，有相当的参考价值。
 

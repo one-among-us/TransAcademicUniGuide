@@ -20,15 +20,15 @@ bookToc: true
 
 #### Kaggle
 
-[Kaggle](https://www.kaggle.com/competitions)既提供数据集，也提供论坛，还提供竞赛，非常有价值的网站。
+[Kaggle](https://www.kaggle.com/competitions) 既提供数据集，也提供论坛，还提供竞赛，非常有价值的网站。
 
 #### KDD
 
-[KDD](https://www.kdd.org/)，ACM旗下，认可度高、难度大。
+[KDD](https://www.kdd.org/) ，ACM旗下，认可度高、难度大。
 
 #### Drivendata
 
-[各种比赛](https://www.drivendata.org/)，有奖金。
+[各种比赛](https://www.drivendata.org/) ，有奖金。
 
 #### ICME
 
@@ -39,16 +39,16 @@ bookToc: true
 
 #### 阿里巴巴 天池
 
-[天池大赛](https://tianchi.aliyun.com/competition/activeList)不仅提供了一些实习的机会，如果想要在国内工作的话，也提供了丰富的奖金。
+[天池大赛](https://tianchi.aliyun.com/competition/activeList) 不仅提供了一些实习的机会，如果想要在国内工作的话，也提供了丰富的奖金。
 
 #### 百度 AI studio
 
-[AI studio](https://aistudio.baidu.com/aistudio/competition)也是提供实习和奖金的平台，还可以和Google Colab一样蹭免费计算卡（可以使用巧妙的方法安装Tensorflow等表面上不支持的框架）
+[AI studio](https://aistudio.baidu.com/aistudio/competition) 也是提供实习和奖金的平台，还可以和Google Colab一样蹭免费计算卡（可以使用巧妙的方法安装Tensorflow等表面上不支持的框架）
 
 #### 华为
 
-[华为](https://developer.huawei.com/consumer/cn/activity/digixActivity/digixHome)同样，也是奖金+实习机会。
+[华为](https://developer.huawei.com/consumer/cn/activity/digixActivity/digixHome) 同样，也是奖金+实习机会。
 
 #### 京东
 
-[京东](https://jdata.jd.com/html/list.html)，奖金+实习机会。
+[京东](https://jdata.jd.com/html/list.html) ，奖金+实习机会。
