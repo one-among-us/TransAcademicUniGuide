@@ -2,7 +2,7 @@
 weight: 20
 bookFlatSection: true
 title: "大学选择"
-bookToc: false
+bookToc: true
 ---
 
 # 大学选择
