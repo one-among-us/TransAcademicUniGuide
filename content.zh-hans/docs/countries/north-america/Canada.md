@@ -35,5 +35,4 @@ bookToc: true
 加拿大不同省的要求有一定的差別。比如安大略省要求用於生活的資金和魁北克省，要求法語水平阿爾伯塔省海邊區別往往將拿大都使用打分至滿足一定條件可以獲得一定的分數，如果分數越高，分數要滿足一定條件，才有可能進入可能申請
 
 
-
 [^1]: [Average Salary in Canada - Talent.com](https://ca.talent.com/salary?job=average)
