@@ -16,4 +16,6 @@
 .DS_Store
 /public/
 /themes/book/exampleSite/
-/content.zh-hans/posts
+/content.zh-hans/posts/
+/content.zh-hant/posts/
+/script/
