@@ -13,4 +13,4 @@ bookToc: false
 
 我们也提供了 [Asher & Lyric](https://www.asherfergusson.com/) 发布的世界范围的LGBTQA+权利、现状的调查，[点击此处查看报告](https://www.asherfergusson.com/lgbtq-travel-safety/)
 
-[Rainbow Europe](https://www.rainbow-europe.org/)也对欧洲国家做了更细緻的统计，具体信息可在[欧洲页面](../../docs/countries/Europe/)查看。
+[Rainbow Europe](https://www.rainbow-europe.org/)也对欧洲国家做了更细緻的统计，具体信息可在[欧洲页面](../../docs/countries/Europe/) 查看。
