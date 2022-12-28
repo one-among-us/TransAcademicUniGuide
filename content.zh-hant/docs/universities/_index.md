@@ -7,6 +7,33 @@ bookToc: true
 
 # 大學選擇
 
+## 獎學金
+
+### LGBTQA+群體的獎學金
+
+許多機構會提供受助者為LGBTQA+的獎學金，此處我們列舉幾個項目：
+
+- [Grad School Application Funding - ostem.org](https://www.ostem.org/page/grad-app-funding)
+- [LGBT Scholarships Around the World - QS](https://www.topuniversities.com/student-info/scholarship-advice/lgbt-scholarships-around-world)
+- [Scholarships & Financial Aid For LGBTQ Students - gograd.org](https://www.gograd.org/financial-aid/scholarships/lgbtq)
+
+可以去廣泛的搜索一下，關鍵詞舉例：lgbt, queer, transgender, scholarship, [STEM, Science, Art, etc.]
+
+### 大學獎學金
+
+各大學會在入學前或入學後按成績、表現等為學生提供一定的獎學金。比如在美國詞條下，有評論者指出「即使是碩士，足夠獎學金能夠把成本拉到歐洲水準」。
+
+此部分的獎學金明細需要咨詢學校相關部門。
+
+### 研究方向獎學金
+
+部分基金會會向一些潛在的研究領域提前投入資金來資助研究，比如生物安全、人工智能安全、環境問題等。
+
+部分機構舉例：
+
+- [Open Philanthropy](https://www.openphilanthropy.org/)
+- [Center on Long-Term Risk](https://longtermrisk.org/)
+
 ## 從開始到申請
 
 在選擇大學中，最難的一步實際上是找到目前的成績和就讀學校匹配的目標大學範圍。因為我們沒有經驗告訴我們哪一個範圍是我們所匹配的。

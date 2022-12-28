@@ -7,6 +7,33 @@ bookToc: true
 
 # 大学选择
 
+## 奖学金
+
+### LGBTQA+群体的奖学金
+
+许多机构会提供受助者为LGBTQA+的奖学金，此处我们列举几个项目：
+
+- [Grad School Application Funding - ostem.org](https://www.ostem.org/page/grad-app-funding)
+- [LGBT Scholarships Around the World - QS](https://www.topuniversities.com/student-info/scholarship-advice/lgbt-scholarships-around-world)
+- [Scholarships & Financial Aid For LGBTQ Students - gograd.org](https://www.gograd.org/financial-aid/scholarships/lgbtq)
+
+可以去广泛的搜索一下，关键词举例：lgbt, queer, transgender, scholarship, [STEM, Science, Art, etc.]
+
+### 大学奖学金
+
+各大学会在入学前或入学后按成绩、表现等为学生提供一定的奖学金。比如在美国词条下，有评论者指出「即使是硕士，足够奖学金能够把成本拉到欧洲水准」。
+
+此部分的奖学金明细需要咨询学校相关部门。
+
+### 研究方向奖学金
+
+部分基金会会向一些潜在的研究领域提前投入资金来资助研究，比如生物安全、人工智能安全、环境问题等。
+
+部分机构举例：
+
+- [Open Philanthropy](https://www.openphilanthropy.org/)
+- [Center on Long-Term Risk](https://longtermrisk.org/)
+
 ## 从开始到申请
 
 在选择大学中，最难的一步实际上是找到目前的成绩和就读学校匹配的目标大学范围。因为我们没有经验告诉我们哪一个范围是我们所匹配的。
@@ -39,10 +66,10 @@ bookToc: true
 
 到这一步，你使用一个表格来记录所有的你找到的项目的详细信息。比如这个项目的语言要求、GPA要求、学分要求等。此外往往项目的页面上还包含了学费和奖学金的信息，这个也是很重要的考量因素。
 
-这样，我们把所有学校的可申请项目整理出来后，若您处在本科的前期或者高中阶段你就可以按照项目要求继续准备；如果将要到达到申请阶段，那麽也可以开始排除一些没有满足条件的项目。
+这样，我们把所有学校的可申请项目整理出来后，若您处在本科的前期或者高中阶段你就可以按照项目要求继续准备；如果将要到达到申请阶段，那么也可以开始排除一些没有满足条件的项目。
 
 ### 第四步：正式申请
 
-到这一步，我们或许就没有什麽特别的细节可以讲述了，因为每个学校的要求都不一样，也就是可能要求提交的材料和阐述的内容也不一样。
+到这一步，我们或许就没有什么特别的细节可以讲述了，因为每个学校的要求都不一样，也就是可能要求提交的材料和阐述的内容也不一样。
 
 祝大家申请顺利。
