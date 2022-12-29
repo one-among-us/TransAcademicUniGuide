@@ -1,11 +1,11 @@
 ---
 weight: 20
 bookFlatSection: true
-title: "University Choise"
+title: "Universities"
 bookToc: true
 ---
 
-# University Choise
+# Universities
 
 ## Scholarships
 

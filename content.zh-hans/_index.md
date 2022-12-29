@@ -12,16 +12,30 @@ bookToc: false
 
 ## 受众
 
-简体中文版本的本手册主要的目标受众是生活在中国大陆地区的伙伴。
+简体中文版本手册的主要目标受众是生活在中国大陆地区的伙伴。
 
 ## 联系方式
 
 [contact@transacademic.org](mailto:contact@transacademic.org)
 
-若您不会操作GitHub，则您可以使用上方的邮箱发送您想修改或添加的内容，也可以通过如下表单提交您的看法：
+## 参与更新与维护
 
-[国家](https://docs.google.com/forms/d/e/1FAIpQLSfm40NK_kWylDTy-cIhUibpX1LaVx-6vw4EF2x7SgXSIhlXOA/viewform)
+### 内容取向
 
-[大学](https://docs.google.com/forms/d/e/1FAIpQLSdTduZ0wpgJ3W4LDPQ6u_Vm6Gi_AMZYZnwYFl5ifT8SO4yJmA/viewform)
+我们希望收到更多信息关于：
+- 不同国家\学校的状况，可以指明具体的大学\研究机构；
+- 如何更好的在高中\本科阶段完成**学术道路**的探索；
+- 有什么样的技能是**工业界的研究或开发**常用的，如何准备此类技能；
+- 如何在不同国家、不同的领域内找到适合跨性别者的工作；
+- 等任何您认为适合添加至本手册的内容。
 
-[研究领域](https://docs.google.com/forms/d/e/1FAIpQLScgX2iVOC2_5Z3tmbp4kJq6Es2RrEOypUpzaoNIEg-5yNmqFw/viewform)
+如果您认为有另外的领域值得我们共同探讨和分享，也可以使用邮箱联系我们。
+
+### 参与方式
+
+- 提交 [pull request](https://github.com/Linzh7/TransAcademicUniGuide/pulls)
+- 提交 [issue](https://github.com/Linzh7/TransAcademicUniGuide/issues)
+- 若您不会操作GitHub，则您可以使用上方的邮箱发送您想修改或添加的内容，也可以通过如下表单提交您的看法：
+  - [国家](https://docs.google.com/forms/d/e/1FAIpQLSfm40NK_kWylDTy-cIhUibpX1LaVx-6vw4EF2x7SgXSIhlXOA/viewform)
+  - [大学](https://docs.google.com/forms/d/e/1FAIpQLSdTduZ0wpgJ3W4LDPQ6u_Vm6Gi_AMZYZnwYFl5ifT8SO4yJmA/viewform)
+  - [研究领域](https://docs.google.com/forms/d/e/1FAIpQLScgX2iVOC2_5Z3tmbp4kJq6Es2RrEOypUpzaoNIEg-5yNmqFw/viewform)

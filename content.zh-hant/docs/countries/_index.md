@@ -1,5 +1,5 @@
 ---
-weight: 20
+weight: 10
 bookFlatSection: true
 title: "地區與國家"
 bookToc: false
