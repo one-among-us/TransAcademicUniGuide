@@ -15,12 +15,29 @@ The primary target audience for the English version is our friends all over the 
 
 ## Contact
 
-[contact@transacademic.org](mailto:contact@transacademic.org)
+Github: [TransAcademicUniGuidance](https://github.com/Linzh7/TransAcademicUniGuide)
 
-If you do not operate GitHub, you can use the email address above to send any changes or additions you would like to make, or you can submit your comments via the following form.
+Email: [contact@transacademic.org](mailto:contact@transacademic.org)
 
-[country](https://docs.google.com/forms/d/e/1FAIpQLSfm40NK_kWylDTy-cIhUibpX1LaVx-6vw4EF2x7SgXSIhlXOA/viewform)
+## Contribute
 
-[University](https://docs.google.com/forms/d/e/1FAIpQLSdTduZ0wpgJ3W4LDPQ6u_Vm6Gi_AMZYZnwYFl5ifT8SO4yJmA/viewform)
+### Content orientation
 
-[Field of study](https://docs.google.com/forms/d/e/1FAIpQLScgX2iVOC2_5Z3tmbp4kJq6Es2RrEOypUpzaoNIEg-5yNmqFw/viewform)
+We would like to receive more information about.
+- The status of different countries \ schools, which can indicate specific universities \ research institutions.
+- How best to complete the exploration of **academic paths** at the high school \ undergraduate level.
+- what skills are available that are **commonly used in research or development in industry** and how to prepare for such skills
+- How to find jobs for transgender people in different countries and in different fields
+- etc. Anything you think would be a good addition to this handbook.
+
+If there is another area you think we should discuss and share, you can also contact us using the email address.
+
+### How to participate
+
+- Submit a [pull request](https://github.com/Linzh7/TransAcademicUniGuide/pulls)
+- Submit an [issue](https://github.com/Linzh7/TransAcademicUniGuide/issues)
+- Send an email to [this address](mailto:contact@transacademic.org)
+- Submit your comments using the following form (can be filled out in any language you want to use):
+  - [Country](https://docs.google.com/forms/d/e/1FAIpQLSfm40NK_kWylDTy-cIhUibpX1LaVx-6vw4EF2x7SgXSIhlXOA/viewform)
+  - [University](https://docs.google.com/forms/d/e/1FAIpQLSdTduZ0wpgJ3W4LDPQ6u_Vm6Gi_AMZYZnwYFl5ifT8SO4yJmA/viewform)
+  - [Field of study](https://docs.google.com/forms/d/e/1FAIpQLScgX2iVOC2_5Z3tmbp4kJq6Es2RrEOypUpzaoNIEg-5yNmqFw/viewform)

@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 1
 bookFlatSection: true
 title: "前期準備"
 bookToc: true
