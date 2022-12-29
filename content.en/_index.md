@@ -24,8 +24,8 @@ Email: [contact@transacademic.org](mailto:contact@transacademic.org)
 ### Content orientation
 
 We would like to receive more information about.
-- The status of different countries \ schools, which can indicate specific universities \ research institutions.
-- How best to complete the exploration of **academic paths** at the high school \ undergraduate level.
+- The status of different countries/universities, which can indicate specific universities/research institutions.
+- How best to complete the exploration of **academic paths** at the high school/undergraduate level.
 - what skills are available that are **commonly used in research or development in industry** and how to prepare for such skills
 - How to find jobs for transgender people in different countries and in different fields
 - etc. Anything you think would be a good addition to this handbook.
