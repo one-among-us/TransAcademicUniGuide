@@ -37,7 +37,7 @@ Email: [contact@transacademic.org](mailto:contact@transacademic.org)
 
 - 提交 [pull request](https://github.com/Linzh7/TransAcademicUniGuide/pulls)
 - 提交 [issue](https://github.com/Linzh7/TransAcademicUniGuide/issues)
-- 使用[邮箱](mailto:contact@transacademic.org)发送您想修改或添加的内容
+- 使用 [邮箱](mailto:contact@transacademic.org) 发送您想修改或添加的内容
 - 通过如下表单提交您的看法（可使用中文）
   - [国家](https://docs.google.com/forms/d/e/1FAIpQLSfm40NK_kWylDTy-cIhUibpX1LaVx-6vw4EF2x7SgXSIhlXOA/viewform)
   - [大学](https://docs.google.com/forms/d/e/1FAIpQLSdTduZ0wpgJ3W4LDPQ6u_Vm6Gi_AMZYZnwYFl5ifT8SO4yJmA/viewform)
