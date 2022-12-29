@@ -8,12 +8,15 @@
 
 Now we are trying to add more content.
 
-We are currently compiling a Simplified Chinese version, targeting transgender people in mainland China.
-
+- The primary target audience for the English version is our friends all over the world.
+- 简体中文版本手册的主要目标受众是生活在中国大陆地区的伙伴。
+- 正體中文版本手冊的主要目標受眾是生活在台灣\香港\澳門的夥伴，我們正在嘗試讓內容更適合當地大學情況。
 
 ## Contribute to this repo
 
-Welcome to submit PR or submit feedback in the following form:
+- New a [pull request](https://github.com/Linzh7/TransAcademicUniGuide/pulls)
+- new an [issue](https://github.com/Linzh7/TransAcademicUniGuide/issues)
+- submit your feedback(s) in the following form:
 
 [Country](https://docs.google.com/forms/d/e/1FAIpQLSfm40NK_kWylDTy-cIhUibpX1LaVx-6vw4EF2x7SgXSIhlXOA/viewform)
 
