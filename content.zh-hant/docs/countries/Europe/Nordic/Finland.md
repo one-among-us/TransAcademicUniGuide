@@ -20,7 +20,14 @@ bookToc: true
 
 ### 費用
 
-芬蘭學費大約為每年 EUR 8,000 至 EUR 15,000。在赫爾辛基大區有HOAS等多個學生住房機構可以提供相對低廉價格的租房。
+芬蘭學費大約為每年 EUR 4,000 至 EUR 18,000。[StudyInFinland](https://www.studyinfinland.fi/admissions/fees-and-costs)也有總括性的網頁。不同學校也有對所在城市的消費情況的介紹網頁，比如：
+- [生活費用和財務事宜 - 赫爾辛基大學](https://www.helsinki.fi/en/admissions-and-education/international-students/student-life-helsinki/cost-living-and-financial-matters)
+- [學費和獎學金 - 阿爾托大學](https://into.aalto.fi/display/enopisk/Tuition+fees+and+scholarships)
+- [財務事宜 - 阿爾托大學](https://into.aalto.fi/display/enopisk/Financial+matters)
+
+*阿爾托大學的相關網頁在遷徙中，可能未來網址會發生變更*
+
+在赫爾辛基大區有HOAS等多個學生住房機構可以提供相對低廉價格的租房。
 
 ## 就業
 

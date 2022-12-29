@@ -14,7 +14,7 @@ bookToc: true
 
 ### 费用
 
-根据加拿大政府的数据，2022年，加拿大公立大学的本科学费约为每学年2万至6万加币不等，而私立大学的本科学费则约为每学年6万至20万加币不等。
+根据加拿大統計局的数据，2022年，加拿大公立大学的本科学费约为每学年2万至6万加币不等，而私立大学的本科学费则约为每学年6万至20万加币不等。[^1]
 
 资助和奖学金也较为普遍，如政府资助、大学资助、社会组织资助和企业资助等多种形式的资助。此外也可以申请助学贷款，分期付款等方式减轻学费压力。
 
@@ -22,7 +22,7 @@ bookToc: true
 
 加拿大的经济主要依赖于服务业和制造业。
 
-数据显示，2022年加拿大的月薪中位数为 CAD 6,000（年薪 CAD 72,000）。[^1]
+数据显示，2022年加拿大的月薪中位数为 CAD 6,000（年薪 CAD 72,000）。[^2]
 
 ## 签证
 
@@ -34,5 +34,5 @@ bookToc: true
 
 加拿大基本上使用积分制，满足一定条件可以获得一定的分数，比如加拿大大学的学历、本地工作经历等。类似于北上广落户的积分制。
 
-
-[^1]: [Average Salary in Canada - Talent.com](https://ca.talent.com/salary?job=average)
+[^1]: [Tuition fees by university - Universities Canada](https://www.univcan.ca/universities/facts-and-stats/tuition-fees-by-university/)
+[^2]: [Average Salary in Canada - Talent.com](https://ca.talent.com/salary?job=average)

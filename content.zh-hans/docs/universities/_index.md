@@ -17,7 +17,9 @@ bookToc: true
 - [LGBT Scholarships Around the World - QS](https://www.topuniversities.com/student-info/scholarship-advice/lgbt-scholarships-around-world)
 - [Scholarships & Financial Aid For LGBTQ Students - gograd.org](https://www.gograd.org/financial-aid/scholarships/lgbtq)
 
-可以去广泛的搜索一下，关键词举例：lgbt, queer, transgender, scholarship, [STEM, Science, Art, etc.]
+可以去广泛的搜索一下，关键词举例：
+
+```lgbt, queer, transgender, scholarship, [STEM, Science, Art, etc.]```
 
 ### 大学奖学金
 
