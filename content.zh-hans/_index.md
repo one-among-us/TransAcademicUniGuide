@@ -10,6 +10,10 @@ bookToc: false
 
 欢迎贡献、完善本手册。
 
+## 快速导航
+
+[高考志愿填报](docs/universities/Asia/East-Asia/PROC-undergraduate/)
+
 ## 受众
 
 简体中文版本手册的主要目标受众是生活在中国大陆地区的伙伴。
