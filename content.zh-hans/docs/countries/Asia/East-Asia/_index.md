@@ -1,5 +1,5 @@
 ---
 bookCollapseSection: true
-weight: 40
+weight: 10
 title: "东亚地区"
 ---
