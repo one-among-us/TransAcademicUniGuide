@@ -27,7 +27,7 @@ We would like to receive more information about.
 - The status of different countries/universities, which can indicate specific universities/research institutions.
 - How best to complete the exploration of **academic paths** at the high school/undergraduate level.
 - what skills are available that are **commonly used in research or development in industry** and how to prepare for such skills
-- How to find jobs for transgender people in different countries and in different fields
+- How to find jobs for transgenders in different countries and in different fields
 - etc. Anything you think would be a good addition to this handbook.
 
 If there is another area you think we should discuss and share, you can also contact us using the email address.

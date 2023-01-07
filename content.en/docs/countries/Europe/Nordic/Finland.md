@@ -58,7 +58,7 @@ Student Medical Services, run by [Finnish Student Health Service (FSHS/YTHS)](ht
 
 Hormonal medications are relatively easy to obtain in Finland and FSHS can often provide medical advice. After a referral to HUS, if the assigned gender is still in the official documents (e.g. passport), the relevant documents can be provided to HUS for gender change. However, the queue is longer.
 
-In the fall of 2022, the Finnish government submitted a new transgender law that aims to remove the restriction that transgender people must complete a de-sexing procedure in order to undergo a gender change. Feedback from transgender people in Finland says that the new transgender law is effectively BS.
+In the fall of 2022, the Finnish government submitted a new transgender law that aims to remove the restriction that transgenders must complete a de-sexing procedure in order to undergo a gender change. Feedback from transgenders in Finland says that the new transgender law is effectively BS.
 
 
 [^1]: [Finnish Immigration Service: Finnish Nationality](https://migri.fi/en/faq-finnish-citizenship)

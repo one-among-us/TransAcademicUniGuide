@@ -12,7 +12,7 @@ The United States of America is currently the world's leading country in science
 
 The United States has a large number of top schools in engineering, science, business, medicine and many other fields, as well as a very large number of head schools, etc. From the point of view of teaching quality it can be said that American education is quite well guaranteed.
 
-However, the biggest problem in the United States is that red states (conservative states) and blue states (liberal states) have different attitudes towards the rights of transgender people. In addition, even within liberal states, there are still transphobic and homophobic attitudes and behaviors.
+However, the biggest problem in the United States is that red states (conservative states) and blue states (liberal states) have different attitudes towards the rights of transgenders. In addition, even within liberal states, there are still transphobic and homophobic attitudes and behaviors.
 
 If you are going to a blue state, please check carefully about transgender laws and health care coverage. 
 **If you are going to a red state, please make sure to double check the state's transgender criminalization, laws and regulations regarding transgender**.
@@ -105,11 +105,11 @@ We use italics to add missing parts of the grammar for comprehension. Please pro
 
 ### Anonymous 1
 
-1. this country is crap, no comment. (No reason, capitalist government not acting, homeless people everywhere. The streets are dirty and disorganized, hostile people exist everywhere, not just against transgender people, but probably against minorities as well.)
+1. this country is crap, no comment. (No reason, capitalist government not acting, homeless people everywhere. The streets are dirty and disorganized, hostile people exist everywhere, not just against transgenders, but probably against minorities as well.)
 1. there are no special details about applying to *US colleges*. (Just apply and be done with it)
 1. more scholarships, human rights persecution masters. (Even for a master's degree, enough scholarships can bring the cost to European levels. See the next article about human rights.)
 1. you do not solve them they solve you. (Do not believe that the school is looking out for your interests, if your presence infringes on the school's interests, even if you are right, will be 100% fucked)
-1. about 50% of people are assholes. (referring to hostility towards transgender people)
+1. about 50% of people are assholes. (referring to hostility towards transgenders)
 
 ### Carole
 
