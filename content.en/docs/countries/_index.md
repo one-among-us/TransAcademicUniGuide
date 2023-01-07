@@ -11,6 +11,8 @@ It is important for us to choose a region to study, work, and live in. In a plac
 
 ## Surveys and Reports
 
+Before looking at any report, we need to point out one thing: most of the reports are not a complete reflection of the situation of transgenders in the country. Most rankings will focus on freedom of expression, legal protections, etc., but the difficulty of accessing medical resources and the extent to which medications and surgeries are covered by commercial insurance/social security, which are equally important for trans people, are often overlooked [^1]. **Thus, if possible, ask partners living locally and look for local transgender exchange groups in various online platforms to get more information.**
+
 There is a worldwide [survey of LGBTQA+ rights](https://www.asherfergusson.com/lgbtq-travel-safety/) published by [Asher & Lyric](https://www.asherfergusson.com/).
 
 [Rainbow Europe](https://www.rainbow-europe.org/) also provides more detailed statistics on European countries, with specific information available on the [Europe page](../../docs/countries/Europe/).
