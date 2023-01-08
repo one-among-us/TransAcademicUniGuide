@@ -7,7 +7,7 @@ type: docs
 
 > May we be able to break the chains and fly freely.
 
-Please feel free to contribute to this handbook.
+Please feel free to contribute to this handbook. If there are any problems with the hyperlink, please also inform us.
 
 ## Audience
 

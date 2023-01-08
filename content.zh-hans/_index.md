@@ -8,7 +8,7 @@ bookToc: false
 
 > 愿我们可以挣脱枷锁、自由飞翔。
 
-欢迎贡献、完善本手册。
+欢迎贡献、完善本手册。若页面超连结出现失效等问题，也烦请反馈，感谢。
 
 ## 快速导航
 
@@ -46,3 +46,5 @@ Email: [contact@transacademic.org](mailto:contact@transacademic.org)
   - [国家](https://docs.google.com/forms/d/e/1FAIpQLSfm40NK_kWylDTy-cIhUibpX1LaVx-6vw4EF2x7SgXSIhlXOA/viewform)
   - [大学](https://docs.google.com/forms/d/e/1FAIpQLSdTduZ0wpgJ3W4LDPQ6u_Vm6Gi_AMZYZnwYFl5ifT8SO4yJmA/viewform)
   - [研究领域](https://docs.google.com/forms/d/e/1FAIpQLScgX2iVOC2_5Z3tmbp4kJq6Es2RrEOypUpzaoNIEg-5yNmqFw/viewform)
+
+
