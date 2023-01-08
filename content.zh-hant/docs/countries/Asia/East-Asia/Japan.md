@@ -25,3 +25,8 @@ bookToc: true
 此外，如果要讀語校，記得不要缺勤，如果表現好、語言成績過關，無論是工作還是學習都會簡單很多。
 
 [日本移居指南 - 郭宇](https://guoyu.mirror.xyz/bPaDKAcrhJGUbaXu9BWDcdD-F46gBFATTvf_qwZ9Bso)
+
+## 跨性別醫療資源
+
+由[説鴨話](https://t.me/drukbugchannel/80)提供，可點擊連結獲取更多信息。選校時可以參考醫院的地點進行進一步篩選。
+
