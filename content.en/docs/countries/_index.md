@@ -16,3 +16,5 @@ Before looking at any report, we need to point out one thing: most of the report
 There is a worldwide [survey of LGBTQA+ rights](https://www.asherfergusson.com/lgbtq-travel-safety/) published by [Asher & Lyric](https://www.asherfergusson.com/).
 
 [Rainbow Europe](https://www.rainbow-europe.org/) also provides more detailed statistics on European countries, with specific information available on the [Europe page](../../docs/countries/Europe/).
+
+[^1]: [Trans student denied coverage for hormone therapy says policy is 'rooted in transphobia' - Henrike Wilhelm · CBC News](https://www.cbc.ca/news/canada/newfoundland-labrador/trans-student-no-hormone-therapy-1-6269186-1.6269186)

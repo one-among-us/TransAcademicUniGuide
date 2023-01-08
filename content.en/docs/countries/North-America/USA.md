@@ -14,8 +14,7 @@ The United States has a large number of top schools in engineering, science, bus
 
 However, the biggest problem in the United States is that red states (conservative states) and blue states (liberal states) have different attitudes towards the rights of transgenders. In addition, even within liberal states, there are still transphobic and homophobic attitudes and behaviors.
 
-If you are going to a blue state, please check carefully about transgender laws and health care coverage. 
-**If you are going to a red state, please make sure to double check the state's transgender criminalization, laws and regulations regarding transgender**.
+If you are going to a blue state, please check carefully about transgender laws and health care coverage. **If you are going to a red state, please make sure to double check the state's transgender criminalization, laws and regulations regarding transgender**.
 
 [Red states and blue states - Wikipedia](https://en.wikipedia.org/wiki/Red_states_and_blue_states)
 
