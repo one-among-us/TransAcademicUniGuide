@@ -2,7 +2,7 @@
 title: Canada
 weight: 5
 bookToc: true
----bookToc: true
+---
 
 # Canada
 

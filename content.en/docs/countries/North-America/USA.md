@@ -2,11 +2,13 @@
 title: United States of America
 weight: 1
 bookToc: true
----bookToc: true
+---
 
 # United States of America
 
 The United States of America is currently the world's leading country in science and technology, and offers a relatively sophisticated system in many areas, including education and employment. Although the law prohibits discrimination against transgenders, transgenders are still treated unfairly in many ways, such as prejudice, violence, harassment and some local laws.
+
+[Erin Reed](https://twitter.com/ErinInTheMorn) published the [2022 Final Anti-Trans Legislation Risk Map](https://erininthemorn.substack.com/p/the-final-anti-trans-legislative). Please be sure to double-check the laws and regulations when you visit dark-red/red/orange states.
 
 ## Study
 
