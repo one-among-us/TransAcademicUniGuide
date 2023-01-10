@@ -20,7 +20,7 @@ Many Finnish universities, especially the newly established Aalto University, te
 
 Tuition fees in Finland range from approximately EUR 4,000 to EUR 18,000 per year.[StudyInFinland](https://www.studyinfinland.fi/admissions/fees-and-costs) also has an overview page. Different universities also have information on their website to introduce the cost of living in their cities, such as:
 
-- [Cost of Living and Financial Matters - University of Helsinki](https://www.helsinki.fi/en/admissions-and-education/international-students/student-life-helsinki/cost-living-and -financial-matters)
+- [Cost of Living and Financial Matters - University of Helsinki](https://www.helsinki.fi/en/admissions-and-education/international-students/student-life-helsinki/cost-living-and-financial-matters)
 - [Tuition and scholarships - Aalto University](https://into.aalto.fi/display/enopisk/Tuition+fees+and+scholarships)
 - [Financial matters - Aalto University](https://into.aalto.fi/display/enopisk/Financial+matters)
 

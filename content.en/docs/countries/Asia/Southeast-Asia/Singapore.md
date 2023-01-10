@@ -10,7 +10,7 @@ Singapore is an island nation located in Southeast Asia and is known as the fina
 
 Singapore is not very LGBTQA+ inclusive, and only completed the decriminalization of gay sex for men in mid-2022, while at the same time recognizing marriage as a relationship between a "man and a woman" in the constitution. At the same time, there are official restrictions on the promotion of LGBTQA+ content, and the population has become more conservative in its thinking. In some ways, Singapore is only legally open, but still does things in a conservative way in real life.
 
-[LGBT rights in Singapore from wikipedia](https://zh.wikipedia.org/zh-cn/%E6%96%B0%E5%8A%A0%E5%9D%A1LGBT%E6%9D%83%E7%9B%8A)
+[LGBT rights in Singapore from wikipedia](https://en.wikipedia.org/wiki/LGBT_rights_in_Singapore)
 
 ## Study
 
@@ -37,7 +37,3 @@ The bigger cost of living comes from renting an apartment. According to data, th
 ## Employment
 
 On the issue of employment, it is difficult to find employment in Singapore. According to the feedback of a partner who studied in the above two schools, even if ta participated in various internships, it is not always guaranteed to stay in Singapore after graduation.
-
-
-
-Translated with www.DeepL.com/Translator (free version)
