@@ -26,6 +26,17 @@ The top schools in the United States tend to be private universities and therefo
 
 According to the College Board, the average tuition in 2022 will be around $26,000 for public universities and $36,000 for private universities. In addition, there is a deposit, the amount of which varies by variable.
 
+Some colleges and universities may reimburse transgender individuals for medical expenses, but it is important to note that some states may not be transgender-friendly, so please consider this.
+
+- [Colleges and Universities that Cover Transition-Related Medical Expenses Under Student Health Insurance - campuspride.org](https://www.campuspride.org/tpc/student-health-insurance/)
+
+Some schools will also provide information on their official websites, such as.
+- [Insurance Benefits for Transgender Students - Berkeley](https://uhs.berkeley.edu/insurance-ship/ship-benefits/insurance-benefits-transgender-students)
+- [Transgender Health Benefits - University of California](https://ucnet.universityofcalifornia.edu/forms/pdf/transgender-health-benefits-fact-sheet.pdf)
+
+Some organizations also provide references to costs and considerations in the United States, such as:
+- [Financing & Support for Gender Confirmation Surgery - Laura Dorwart](https://www.moneygeek.com/financial-planning/paying-for-gender-confirmation-surgery/)
+
 ## Employment
 
 Employment varies from university to university, so if you already have a target university, you can check the data for that university directly.

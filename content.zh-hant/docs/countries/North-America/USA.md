@@ -23,6 +23,18 @@ bookToc: true
 
 根據美國大學協會（College Board）的數據，2022 年美國公立大學的平均學費為 $26,000 美元左右，私立大學的平均學費為 $36,000 美元左右。此外嗎，還有保證金，其金額也隨各變量而不同。
 
+部分大學可以報銷跨性別者所使用的醫療資源，但需注意的是，部分大學所在州不一定對跨性別者友好，因而請多方考慮。
+
+- [Colleges and Universities that Cover Transition-Related Medical Expenses Under Student Health Insurance - campuspride.org](https://www.campuspride.org/tpc/student-health-insurance/)
+- [美国能报销跨性别费用的大学 - MtF指南針](https://mtf.party/2018/02/%e8%83%bd%e6%8a%a5%e9%94%80%e8%b7%a8%e6%80%a7%e5%88%ab%e8%b4%b9%e7%94%a8%e7%9a%84%e5%a4%a7%e5%ad%a6/)
+
+部分學校也會在其官網提供相關信息，如：
+- [Insurance Benefits for Transgender Students - berkeley](https://uhs.berkeley.edu/insurance-ship/ship-benefits/insurance-benefits-transgender-students)
+- [Transgender Health Benefits - University of California](https://ucnet.universityofcalifornia.edu/forms/pdf/transgender-health-benefits-fact-sheet.pdf)
+
+部分組織也提供了在美國的相關費用參考與注意事項，如:
+- [Financing & Support for Gender Confirmation Surgery - Laura Dorwart](https://www.moneygeek.com/financial-planning/paying-for-gender-confirmation-surgery/)
+
 ## 就業
 
 不同學校的就業情況不同，如果已經有目標大學，可以直接查看該大學的相關數據。

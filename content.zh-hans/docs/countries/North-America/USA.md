@@ -23,6 +23,18 @@ bookToc: true
 
 根据美国大学协会（College Board）的数据，2022 年美国公立大学的平均学费为 $26,000 美元左右，私立大学的平均学费为 $36,000 美元左右。此外吗，还有保证金，其金额也随各变量而不同。
 
+部分大学可以报销跨性别者所使用的医疗资源，但需注意的是，部分大学所在州不一定对跨性别者友好，因而请多方考虑。
+
+- [Colleges and Universities that Cover Transition-Related Medical Expenses Under Student Health Insurance - campuspride.org](https://www.campuspride.org/tpc/student-health-insurance/)
+- [美国能报销跨性别费用的大学 - MtF指南针](https://mtf.party/2018/02/%e8%83%bd%e6%8a%a5%e9%94%80%e8%b7%a8%e6%80%a7%e5%88%ab%e8%b4%b9%e7%94%a8%e7%9a%84%e5%a4%a7%e5%ad%a6/)
+
+部分学校也会在其官网提供相关信息，如：
+- [Insurance Benefits for Transgender Students - berkeley](https://uhs.berkeley.edu/insurance-ship/ship-benefits/insurance-benefits-transgender-students)
+- [Transgender Health Benefits - University of California](https://ucnet.universityofcalifornia.edu/forms/pdf/transgender-health-benefits-fact-sheet.pdf)
+
+部分组织也提供了在美国的相关费用参考与注意事项，如:
+- [Financing & Support for Gender Confirmation Surgery - Laura Dorwart](https://www.moneygeek.com/financial-planning/paying-for-gender-confirmation-surgery/)
+
 ## 就业
 
 不同学校的就业情况不同，如果已经有目标大学，可以直接查看该大学的相关数据。
