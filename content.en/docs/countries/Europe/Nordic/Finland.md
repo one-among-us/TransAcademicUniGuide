@@ -42,6 +42,8 @@ For Finland, they do not issue students visas, but residence permits.
 
 At the beginning of 2022, Finland updated its own student residence permit policy, which allows students to obtain a Class A residence permit. And they also give visas to find a job for two years after graduation, which makes it less difficult for international students to find a job after graduation.
 
+For proof of property, Finland requires 6,720€/year in [InfoFinland](https://www.infofinland.fi/zh/moving-to-finland/non-eu-citizens/study-in-finland), which can be reduced when the school provides housing or food. This term can be reduced when the school provides housing or food.
+
 ### Residence permit A type
 
 A residence permit is a long-term residence permit that allows the holder to stay and work in Finland, and is usually valid for a period of one to five years, which can be extended on demand.

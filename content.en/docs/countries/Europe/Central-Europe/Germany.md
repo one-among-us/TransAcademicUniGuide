@@ -16,4 +16,10 @@ bookToc: true
 
 ## Residence
 
+For proof of property, Germany requires in [Study in Germany](https://www.study-in-germany.de/en/plan-your-studies/requirements/proof-of-financing/)
+- Provide proof of parental income or proof of property.
+- deposit 11,208 EUR/year into a security deposit account.
+- Present a bank guarantee
+It is recommended to contact the German Embassy or German Consulate in your country in advance.
+
 Eight years of continuous residence in Germany are required, but this can be shortened to six years if you have graduated from a German university. German language proficiency test and naturalization test are required.

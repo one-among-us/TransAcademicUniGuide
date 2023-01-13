@@ -19,4 +19,6 @@ bookToc: true
 
 ## 居留
 
+关于财产证明，瑞典在 [Migrationsverket](https://www.migrationsverket.se/English/Private-individuals/Studying-and-researching-in-Sweden/Higher-education/Residence-permit-for-higher-education.html) 中要求 2023 年后的申请，需准备 113,400 瑞典克朗/年，当学校提供住房或食物时此条款可降低。
+
 瑞典在获得工作签证后，连续持有五年即可申请入籍，且无需瑞典语考试。但随着近年来保守党的上台，可能移民政策会有所调整。

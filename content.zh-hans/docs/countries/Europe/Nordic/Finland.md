@@ -43,6 +43,8 @@ bookToc: true
 
 2022年初，芬兰更新了自己的学生居留许可政策，学生可以获得A类居留许可。且畢業後也給兩年找工作的簽證，降低了留学生毕业后的找工作难度。
 
+关于财产证明，芬兰在 [InfoFinland](https://www.infofinland.fi/zh/moving-to-finland/non-eu-citizens/study-in-finland) 中要求 6,720 欧元/年，当学校提供住房或食物时此条款可降低。
+
 ### A类居留许可
 
 A类居留许可是长期居留许可，可以让持有人在芬兰居留、工作。A类居留许可的有效期限通常为一年至五年不等，可以按需求延长。
