@@ -48,7 +48,7 @@ This step is more subjective, and you can combine our country and region profile
 
 ### Step 2: School List
 
-First we need to prepare some tools, such as various school rankings,
+First of all we need to prepare some tools, such as various school rankings. Such lists are mainly used to let you know which schools you can choose, but please make sure not to be trapped by the rankings, but more importantly to be happy with your life and be able to do research in a field you relatively like. For example:
 [QS](https://www.topuniversities.com/university-rankings) , 
 [THE](https://www.timeshighereducation.com/world-university-rankings) , 
 [USNews](https://www.usnews.com/education/best-global-universities/rankings) , 

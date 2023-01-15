@@ -62,7 +62,7 @@ bookToc: true
 
 ### 第二步：學校列表
 
-首先我們需要準備一些工具，比如說各種的學校排名，這種榜單主要用來讓你了解自己可以選擇哪些學校，但請務必不要被排名所困。比如：
+首先我們需要準備一些工具，比如說各種的學校排名，這種榜單主要用來讓你了解自己可以選擇哪些學校，但請務必**不要被排名所困**，更重要的是自己活得開心、能在相對喜歡的領域做研究。比如：
 [QS](https://www.topuniversities.com/university-rankings) / 
 [THE](https://www.timeshighereducation.com/world-university-rankings) / 
 [USNews](https://www.usnews.com/education/best-global-universities/rankings) / 
