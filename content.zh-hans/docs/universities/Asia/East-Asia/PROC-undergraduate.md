@@ -8,6 +8,12 @@ bookToc: true
 
 对于统招，流程往往比较明确，主要准备时间是高考后。而非统招，材料的准备时间是当年三四月份开始，因而建议提前准备。
 
+关于学校的状况与跨性别友善程度，可以参考：
+- [colleges chat](https://colleges.chat/)
+- [RLE.wiki](https://rle.wiki/).
+
+其中，[colleges chat](https://colleges.chat/) 亦提供了一定 [出国相关信息](https://colleges.chat/choose-a-college/%E5%87%BA%E5%9B%BD%E5%8F%97%E9%98%BB/) 与 [择校细节](https://colleges.chat/choose-a-college/%E5%A6%82%E4%BD%95%E6%AD%A3%E4%B9%89%E5%8A%9D%E9%80%80%EF%BC%9F/) 。
+
 ## 统招
 
 对于绝大部分考生，统招是必须经过的阶段，无论ta是否参加了下述的 [非统招计划](PROC-undergraduate/#非统招)，如 [强基计划](PROC-undergraduate/#强基计划)、 [综合素质招生](PROC-undergraduate/#综合素质招生) 等。因而我们建议所有志愿的填报都要认真对待。
