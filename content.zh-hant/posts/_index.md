@@ -1,7 +1,7 @@
 ---
 menu:
   after:
-    name: 經驗分享
+    name: 经验分享
     weight: 100
-title: 經驗分享
+title: 经验分享
 ---

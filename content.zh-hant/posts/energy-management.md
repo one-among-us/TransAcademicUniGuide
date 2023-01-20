@@ -3,7 +3,7 @@ author: "Anonymous"
 date: 2023-01-19
 linktitle: 申請過程中的精力管理
 tags: [
-    "精力"]
+    "資源管理"]
 categories: [
     "申請",
 ]
