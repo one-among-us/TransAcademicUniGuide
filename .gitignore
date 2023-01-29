@@ -1,3 +1,5 @@
+/removed/
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -20,17 +22,6 @@
 /public/
 /themes/book/exampleSite/
 /script/
-
-
-
-
-
-
-
-
-
-
-
 
 # Python
 
