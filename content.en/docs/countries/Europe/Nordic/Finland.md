@@ -8,6 +8,14 @@ bookToc: true
 
 Finland is a country located in Northern Europe, with Helsinki as its capital. Finland is a developed industrial country with major industries such as electronics, telecommunications, chemicals, wood processing and financial services.
 
+## Transgender medical resources
+
+Student Medical Services, run by [Finnish Student Health Service (FSHS/YTHS)](https://www.yths.fi/en/frontpage/). FSHS provides dental psychology and general outpatient services, and will refer you to other hospitals when the physician cannot handle your condition/request. In the Helsinki metropolitan area it is often redirect to [HUS](https://www.hus.fi/en).
+
+Hormonal medications are relatively easy to obtain in Finland and FSHS can often provide medical advice. After a referral to HUS, if the assigned gender is still in the official documents (e.g. passport), the relevant documents can be provided to HUS for gender change. However, the queue is longer.
+
+On February 1, 2023, Finland passed the gender self-identification act [^3], which allows transgender people to change their gender on their own, without any additional steps such as diagnosis by a doctor, surgery, etc.
+
 ## Study
 
 Universities in Finland are not ranked too highly. However, the atmosphere for study and research is wonderful.
@@ -54,14 +62,8 @@ After five years of holding an A permit, the holder can apply for permanent resi
 
 A mine-clearance residence permit is a temporary residence permit that does not count towards the application for permanent residence.
 
-## Transgender medical resources
-
-Student Medical Services, run by [Finnish Student Health Service (FSHS/YTHS)](https://www.yths.fi/en/frontpage/). FSHS provides dental psychology and general outpatient services, and will refer you to other hospitals when the physician cannot handle your condition/request. In the Helsinki metropolitan area it is often redirect to [HUS](https://www.hus.fi/en).
-
-Hormonal medications are relatively easy to obtain in Finland and FSHS can often provide medical advice. After a referral to HUS, if the assigned gender is still in the official documents (e.g. passport), the relevant documents can be provided to HUS for gender change. However, the queue is longer.
-
-In the fall of 2022, the Finnish government submitted a new transgender law that aims to remove the restriction that transgenders must complete a de-sexing procedure in order to undergo a gender change. Feedback from transgenders in Finland says that the new transgender law is effectively BS.
 
 
 [^1]: [Finnish Immigration Service: Finnish Nationality](https://migri.fi/en/faq-finnish-citizenship)
 [^2]: [Finland's median monthly income surpasses €3,300 - yle](https://yle.fi/a/3-12647702)
+[^3]: [Parliament passes long-awaited amendments to Finland's transgender law - yle](https://yle.fi/a/74-20015866)

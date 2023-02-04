@@ -10,6 +10,14 @@ bookToc: true
 
 芬兰提供全民健康保险和（对本国居民的）免费教育。芬兰的生活水平和福利水平也较高，移民政策也相对宽松。
 
+## 跨性别医疗资源
+
+学生医疗服务，由[Finnish Student Health Service](https://www.yths.fi/en/frontpage/)负责。FSHS提供了牙科心理科与一般门诊， 当医师无法处理您的状况/请求时，会转诊至其它医院。在赫尔辛基大区往往为[赫尔辛基大学附属医院（HUS）](https://www.hus.fi/en)。
+
+芬兰的激素类药物相对容易获取，FSHS往往可以提供医嘱。在转诊至HUS后，若官方文件（如护照）中仍为被指派性别，可提供相关文件至HUS进行性别更改。但排隊時間較長。
+
+2023 年 2 月 1 日，芬兰通过了 gender self-identification 法案[^3]，允许跨性别人士自行更改性别，而不需要医生的诊断、手术等任何额外步骤。
+
 ## 学习
 
 芬兰的学校排名并不算太高。但学习与科研氛围较好。
@@ -55,17 +63,8 @@ A类居留许可持有满五年，可以申请永久居留。在满足一定条�
 
 避雷居留许可是临时居留许可，不计入申请永久居留权的时间。
 
-## 跨性别医疗资源
-
-学生医疗服务，由[Finnish Student Health Service](https://www.yths.fi/en/frontpage/)负责。FSHS提供了牙科心理科与一般门诊， 当医师无法处理您的状况/请求时，会转诊至其它医院。在赫尔辛基大区往往为[赫尔辛基大学附属医院（HUS）](https://www.hus.fi/en)。
-
-芬兰的激素类药物相对容易获取，FSHS往往可以提供医嘱。在转诊至HUS后，若官方文件（如护照）中仍为被指派性别，可提供相关文件至HUS进行性别更改。但排隊時間較長。
-
-2022年秋，芬兰政府提交了新的跨性别法，旨在去除跨性别必须要完成去势手术才能进行性别更改的限制条件。芬兰的跨性别者反馈说：新的跨性别法实际上就是BS。
-
-
-
 
 
 [^1]: [芬兰移民局：芬兰国籍](https://migri.fi/en/faq-finnish-citizenship)
 [^2]: [Finland's median monthly income surpasses €3,300 - yle](https://yle.fi/a/3-12647702)
+[^3]: [Parliament passes long-awaited amendments to Finland's transgender law - yle](https://yle.fi/a/74-20015866)
