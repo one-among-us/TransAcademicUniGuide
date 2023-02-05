@@ -10,14 +10,6 @@ bookToc: true
 
 芬蘭提供全民健康保險和（對本國居民的）免費教育。芬蘭的生活水平和福利水平也較高，移民政策也相對寬鬆。
 
-## 跨性別醫療資源
-
-學生醫療服務，由[Finnish Student Health Service](https://www.yths.fi/en/frontpage/)負責。FSHS提供了牙科心理科與一般門診， 當醫師無法處理您的狀況/請求時，會轉診至其它醫院。在赫爾辛基大區往往為[赫爾辛基大學附屬醫院（HUS）](https://www.hus.fi/en)。
-
-芬蘭的激素類藥物相對容易獲取，FSHS往往可以提供醫囑。在轉診至HUS後，若官方文件（如護照）中仍為被指派性別，可提供相關文件至HUS進行性別更改。但排隊時間較長。
-
-2023 年 2 月 1 日，芬蘭通過了 gender self-identification 法案[^3]，允許跨性別人士自行更改性別，而不需要醫生的診斷、手術等任何額外步驟。
-
 ## 學習
 
 芬蘭的學校排名並不算太高。但學習與科研氛圍較好。
@@ -62,6 +54,19 @@ A類居留許可持有滿五年，可以申請永久居留。在滿足一定條�
 ### B類居留許可
 
 避雷居留許可是臨時居留許可，不計入申請永久居留權的時間。
+
+## 跨性別醫療資源
+
+{{< hint info >}}
+**內容時效性、準確性有待觀察**
+{{< /hint >}}
+
+學生醫療服務，由[Finnish Student Health Service](https://www.yths.fi/en/frontpage/)負責。FSHS提供了牙科心理科與一般門診， 當醫師無法處理您的狀況/請求時，會轉診至其它醫院。在赫爾辛基大區往往為[赫爾辛基大學附屬醫院（HUS）](https://www.hus.fi/en)。
+
+芬蘭的激素類藥物相對容易獲取，FSHS往往可以提供醫囑。在轉診至HUS後，若官方文件（如護照）中仍為被指派性別，可提供相關文件至HUS進行性別更改。但排隊時間較長。
+
+2023 年 2 月 1 日，芬蘭通過了 gender self-identification 法案[^3]，允許跨性別人士自行更改性別，而不需要醫生的診斷、手術等任何額外步驟。
+
 
 [^1]: [芬蘭移民局：芬蘭國籍](https://migri.fi/en/faq-finnish-citizenship)
 [^2]: [Finland's median monthly income surpasses €3,300 - yle](https://yle.fi/a/3-12647702)
