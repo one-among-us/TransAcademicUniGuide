@@ -9,6 +9,8 @@ type: docs
 
 Please feel free to contribute to this handbook. If there are any problems with the hyperlink, please also inform us.
 
+**NB! Due to the limited number of contributors, much of the content does not fully reflect the actual situation and is for reference only. **
+
 ## Audience
 
 The primary target audience for the English version is our friends all over the world.

@@ -10,6 +10,8 @@ bookToc: false
 
 欢迎贡献、完善本手册。若页面超链接出现失效等问题，也烦请反馈，感谢。
 
+**烦请注意，目前因贡献者数量有限，许多内容无法完整反应实际情况，仅供参考。**
+
 ## 快速导航
 
 [高考志愿填报](docs/universities/Asia/East-Asia/PROC-undergraduate/)
