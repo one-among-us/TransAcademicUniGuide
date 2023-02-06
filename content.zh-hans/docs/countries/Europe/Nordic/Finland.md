@@ -59,6 +59,8 @@ A类居留许可持有满五年，可以申请永久居留。在满足一定条�
 
 {{< hint info >}}
 **内容时效性、准确性有待观察**
+
+相关讨论详见 [Github issue](https://github.com/Linzh7/TransAcademicUniGuide/issues/2) .
 {{< /hint >}}
 
 学生医疗服务，由 [Finnish Student Health Service](https://www.yths.fi/en/frontpage/) 负责。 FSHS 提供了牙科心理科与一般门诊，当医师无法处理您的状况/请求时，会转诊至其它医院。在赫尔辛基大区往往为 [赫尔辛基大学附属医院（HUS）](https://www.hus.fi/en) 。
@@ -88,3 +90,4 @@ ta们通过芬兰官方途径获取性别肯定激素治疗时不得不面临极
 [^2]: [Finland's median monthly income surpasses €3,300 - yle](https://yle.fi/a/3-12647702)
 [^3]: [Parliament passes long-awaited amendments to Finland's transgender law - yle](https://yle.fi/a/74-20015866)
 [^4]: [煙月映雪 - Twitter](https://mobile.twitter.com/SnowPoetess/status/1621093325569953792)、[煙月映雪 - Twitter](https://mobile.twitter.com/SnowPoetess/status/1621958970733641728)
+
