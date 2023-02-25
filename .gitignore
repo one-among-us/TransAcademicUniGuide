@@ -1,4 +1,5 @@
 /removed/
+*/_gen/
 
 # Binaries for programs and plugins
 *.exe
