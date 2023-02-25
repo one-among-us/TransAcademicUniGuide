@@ -25,11 +25,14 @@ https://transitionftmuk.co.uk/
 uk跨男帮助
 
 ## AT
+https://t.me/drukbugchannel/115
+
 
 https://www.reddit.com/r/asktransgender/comments/owa7lf/german_transgender_articles_situation_with_trans/?sort=confidence
 德语地区跨性别医疗提问，里面comment里奥地利的部分写的比较好，推荐想去奥地利的朋友阅读
 
 ## Japan
+https://t.me/drukbugchannel/80
 
 你日开药医院一览
 作者博客：http://wasadasan.com/voice2/hormon-byouin/
@@ -44,6 +47,7 @@ http://naowasada.xsrv.jp/
 https://t.me/fluff_social
 
 ## US map
+https://t.me/c/1782609737/5909 以及 https://t.me/fluff_social/368
 
 https://erininthemorn.substack.com/p/the-final-anti-trans-legislative
 （隨時更新，已在正文中補充作者連結）
