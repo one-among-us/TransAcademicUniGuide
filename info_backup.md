@@ -1,4 +1,5 @@
 # 説鴨話
+https://t.me/drukbugchannel
 
 ## UK
 
@@ -40,6 +41,7 @@ http://naowasada.xsrv.jp/
 いや見た目では怪しすぎる
 
 # Fluff Social
+https://t.me/fluff_social
 
 ## US map
 
