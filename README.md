@@ -1,6 +1,6 @@
 # TransAcademicUniGuidance
 <p align="center">
-<a href="https://uniguide.transacademic.org/">Website</a>
+<a href="https://uniguide.transacademic.org/">Website</a>｜<a href="https://uniguide.transacademic.org/zh-hans/">网站</a>｜<a href="https://uniguide.transacademic.org/zh-hant/">網站</a>
 </p>
 
 
