@@ -26,7 +26,6 @@ bookToc: true
 部分大學可以報銷跨性別者所使用的醫療資源，但需注意的是，部分大學所在州不一定對跨性別者友好，因而請多方考慮。
 
 - [Colleges and Universities that Cover Transition-Related Medical Expenses Under Student Health Insurance - campuspride.org](https://www.campuspride.org/tpc/student-health-insurance/)
-- [美国能报销跨性别费用的大学 - MtF指南針](https://mtf.party/2018/02/%e8%83%bd%e6%8a%a5%e9%94%80%e8%b7%a8%e6%80%a7%e5%88%ab%e8%b4%b9%e7%94%a8%e7%9a%84%e5%a4%a7%e5%ad%a6/)
 
 部分學校也會在其官網提供相關信息，如：
 - [Insurance Benefits for Transgender Students - berkeley](https://uhs.berkeley.edu/insurance-ship/ship-benefits/insurance-benefits-transgender-students)
