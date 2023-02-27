@@ -54,7 +54,23 @@ After five years of holding an A permit, the holder can apply for permanent resi
 
 A mine-clearance residence permit is a temporary residence permit that does not count towards the application for permanent residence.
 
-## Transgender medical resources
+## Policies and Resources
+
+### Policy
+
+The Finnish Digital Population Authority (DVV) has amended the gender change recognition provisions in accordance with the latest Transgender Act, which is expected to take effect on April 3, 2023.
+
+At that time, the conditions will be:
+
+- Reaching legal age.
+- Citizenship/permit to remain.
+- An official declaration is issued.
+
+After the application is made, the applicant must reconfirm the application within 30 days to 6 months, after which the application will be processed.
+
+The above information is subject to change after the effective date, please refer to [Sukupuolen vahvistaminen (in Finnish) - DVV](https://dvv.fi/sukupuolen-vahvistaminen) for the latest information.
+
+### Medical Resources
 
 {{< hint info >}}
 **Content timeliness and accuracy remain to be seen**
