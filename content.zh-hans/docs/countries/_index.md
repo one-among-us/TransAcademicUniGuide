@@ -19,7 +19,7 @@ bookToc: false
 
 [Rainbow Europe](https://www.rainbow-europe.org/)也对欧洲国家做了更细緻的统计，具体信息可在[欧洲页面](../../docs/countries/Europe/) 查看。
 
-即便跨性别者在法律上的权利得到保障，甚至已经可以称作「pass」了，跨性别者（尤其是跨性别女性）也会面临体系性的性别歧视。因而我们提供世界经济论坛给出的《全球性别差距报告》以供参考。目前最新报告年份为 2022 年， [点击此处可以查看2022年报告](https://www.weforum.org/reports/global-gender-gap-report-2022/) 。
+即便跨性别者在法律上的权利得到保障，甚至已经可以称作「pass」了，跨性别者（尤其是跨性别女性）也会面临体系性的性别歧视。因而我们提供世界经济论坛给出的《全球性别差距报告》以供参考， [点击此处可以查看2022年报告](https://www.weforum.org/reports/global-gender-gap-report-2022/) 。但此排名也受到了一定的质疑，指责其选用的指标与衡量指标的方式不准确，因而会出现并不能真正代表性别差距的结果，如卢旺达排名虚高。
 
 [^1]: [Trans student denied coverage for hormone therapy says policy is 'rooted in transphobia' - Henrike Wilhelm · CBC News](https://www.cbc.ca/news/canada/newfoundland-labrador/trans-student-no-hormone-therapy-1-6269186-1.6269186)
 [^2]: 条目名往往为 LGBT rights in xxx。如 [LGBT rights in China](https://en.wikipedia.org/wiki/LGBT_rights_in_China).
