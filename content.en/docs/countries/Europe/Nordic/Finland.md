@@ -86,7 +86,7 @@ On February 1, 2023, Finland passed the gender self-identification act [^3], whi
 
 ## Comments and Feedback
 
-### [***REMOVED***](mailto:***REMOVED***) Translated from Chinese
+### Anonymous (Translated from Chinese)
 
 *Personal details of some of the content providers are omitted*. I recently looked up some English-language content about transgender healthcare in Finland - and what I read about the living conditions of transgender people in Finland seems to be at odds with your tweet [^4] that "if you can get a prescription (and it's not hard), you can get the drugs for half the price in China (the list price)" and that "the drugs are also cheap".
 
