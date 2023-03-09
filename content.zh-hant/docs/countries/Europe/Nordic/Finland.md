@@ -18,6 +18,16 @@ bookToc: true
 
 芬蘭的博士畢業時還會給一把劍。
 
+## 住宿
+
+大部分大學的住宿並非由學校提供，而是各機構或公司。在赫爾辛基地區，常見的組織包括 [HOAS](https://www.hoas.fi/en/), [BOTH](https://bothxhome.fi/en/), [UniHome](https://unihome.fi/en/home)。
+
+其中，[HOAS](https://www.hoas.fi/en/) 在 2023 年 2 月更新的新 [申請系統](https://application.hoas.fi/) 中提供了 "Other" 性別選項。
+
+[BOTH](https://bothxhome.fi/en/) 提供的大多數房間是性別中性的，如 Studio。
+
+[UniHome](https://unihome.fi/en/home) 與上相似，不過更多的是提供短期公寓。
+
 ### 費用
 
 芬蘭學費大約為每年 EUR 4,000 至 EUR 18,000。[StudyInFinland](https://www.studyinfinland.fi/admissions/fees-and-costs)也有總括性的網頁。不同學校也有對所在城市的消費情況的介紹網頁，比如：
@@ -26,8 +36,6 @@ bookToc: true
 - [財務事宜 - 阿爾托大學](https://into.aalto.fi/display/enopisk/Financial+matters)
 
 *阿爾托大學的相關網頁在遷徙中，可能未來網址會發生變更*
-
-在赫爾辛基大區有HOAS等多個學生住房機構可以提供相對低廉價格的租房。
 
 ## 就業
 
@@ -89,6 +97,7 @@ B類居留許可是臨時居留許可，不計入申請永久居留權的時間�
 2023 年 2 月 1 日，芬蘭通過了 gender self-identification 法案[^3]，允許跨性別人士自行更改性別，而不需要醫生的診斷、手術等任何額外步驟。
 
 關於激素等各類藥物的報銷規則，請參考 [kela](https://www.kela.fi/medicine-expenses) 的網站。請注意，如果已經在 DVV 註冊成功，則可以計入報銷額度，否則不計入。
+
 
 ## 評論與反饋
 

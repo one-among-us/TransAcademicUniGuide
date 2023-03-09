@@ -27,7 +27,15 @@ bookToc: true
 
 *阿尔托大学的相关网页在迁徙中，可能未来网址会发生变更*
 
-在赫尔辛基大区有HOAS等多个学生住房机构可以提供相对低廉价格的租房。
+## 住宿
+
+大部分大学的住宿并非由学校提供，而是各机构或公司。在赫尔辛基地区，常见的组织包括 [HOAS](https://www.hoas.fi/en/), [BOTH](https://bothxhome.fi/en/), [UniHome](https://unihome.fi/en/home)。
+
+其中，[HOAS](https://www.hoas.fi/en/) 在 2023 年 2 月更新的新 [申请系统](https://application.hoas.fi/) 中提供了 "Other" 性别选项。
+
+[BOTH](https://bothxhome.fi/en/) 提供的大多数房间是性别中性的，如 Studio。
+
+[UniHome](https://unihome.fi/en/home) 与上相似，不过更多的是提供短期公寓。
 
 ## 就业
 

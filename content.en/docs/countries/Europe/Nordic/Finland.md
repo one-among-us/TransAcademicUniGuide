@@ -16,6 +16,16 @@ Many Finnish universities, especially the newly established Aalto University, te
 
 (Finland also gives a sword at the end of a PhD.)
 
+## Accommodation
+
+Most university accommodation is not provided by the university, but by various organizations or companies. In the Helsinki area, common organizations include [HOAS](https://www.hoas.fi/en/), [BOTH](https://bothxhome.fi/en/), [UniHome](https://unihome.fi/en/home).
+
+Among them, [HOAS](https://www.hoas.fi/en/) provides the "Other" gender option in the new [Application System](https://application.hoas.fi/) updated in February 2023.
+
+Most of the rooms offered by [BOTH](https://bothxhome.fi/en/) are gender neutral, such as Studio.
+
+[UniHome](https://unihome.fi/en/home) is similar to above, but offers more short-term apartments.
+
 ### Costs
 
 Tuition fees in Finland range from approximately EUR 4,000 to EUR 18,000 per year.[StudyInFinland](https://www.studyinfinland.fi/admissions/fees-and-costs) also has an overview page. Different universities also have information on their website to introduce the cost of living in their cities, such as:
