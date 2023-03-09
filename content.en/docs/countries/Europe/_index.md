@@ -13,11 +13,11 @@ Attitudes toward LGBTQA+ vary widely across Europe, with Western and Northern Eu
 
 ### Public Health Care
 
-There may be public health care in your country that can support the prescription of transgender-related medications and periodic diagnoses, but there are problems with long wait times and high rates of refusal for underage transgender people.
+There may be public health care in your country that can support the prescription of transgender-related medications and periodic diagnoses, but there are problems with long wait times and high rates of refusal for underage transgenders.
 
 ### GenderGP
 
-In our survey, we found that the services provided by [GenderGP](https://www.gendergp.com/) are used by many transgender people.
+In our survey, we found that the services provided by [GenderGP](https://www.gendergp.com/) are used by many transgenders.
 
 #### Price
 

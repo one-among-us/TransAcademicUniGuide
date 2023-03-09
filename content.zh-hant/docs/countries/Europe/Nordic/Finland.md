@@ -92,31 +92,13 @@ B類居留許可是臨時居留許可，不計入申請永久居留權的時間�
 
 學生醫療服務，由 [Finnish Student Health Service](https://www.yths.fi/en/frontpage/) 負責。 FSHS 提供了牙科心理科與一般門診，當醫師無法處理您的狀況/請求時，會轉診至其它醫院。在赫爾辛基大區往往為 [赫爾辛基大學附屬醫院（HUS）](https://www.hus.fi/en) 。
 
-作為留學生，芬蘭的激素類藥物相對容易獲取，FSHS往往可以提供處方（需核實）。若有額外需求，可以申請轉診，但排隊時間較長。
+作為留學生，芬蘭的激素類藥物相對容易獲取，FSHS往往可以提供處方（*此信息需進一步核實*）。若有額外需求，可以申請轉診，但排隊時間較長。因而部分跨性別者申請在 [GenderGP](../#gendergp) 中獲取處方。
 
 2023 年 2 月 1 日，芬蘭通過了 gender self-identification 法案[^3]，允許跨性別人士自行更改性別，而不需要醫生的診斷、手術等任何額外步驟。
 
-關於激素等各類藥物的報銷規則，請參考 [kela](https://www.kela.fi/medicine-expenses) 的網站。請注意，如果已經在 DVV 註冊成功，則可以計入報銷額度，否則不計入。
+關於激素等各類藥物的報銷規則，請參考 [kela](https://www.kela.fi/medicine-expenses) 的網站。請注意，如果已經在 DVV 註冊成功，則可以計入報銷額度，否則不計入。標準藥物價格可以在 [Medicinal Products Database - Kela](https://asiointi.kela.fi/laakekys_app/LaakekysApplication?kieli=en) 上查詢，若在藥房取藥，需要額外支付 3 歐元左右的遞送費。
 
-
-## 評論與反饋
-
-### Anonymous
-
-*省略部分內容提供者的個人情況*。我近期查閱了一些關於芬蘭跨性別醫療的英文內容——而我讀到的芬蘭跨性別者之生活狀況似乎與您推文[^4]中講的「只要能開出來處方（也不難），就可以以中國（標價）一半的價格拿到藥物」、「藥物也便宜」有所出入。
-
-因此，我想在此友善地提醒您：您在生殖器手術後在芬蘭共和國就診、並轉診婦科、後取得藥物的流程，可能對生殖器手術前的芬蘭跨性別居民並無參考價值。
-
-僅就我讀到的，芬蘭居民自述來說：
-
-近期通過的性別自決法案並未——至少暫未——改變芬蘭的跨性別醫療體系。更改證件性別流程的簡化可能會讓一些被歸類為性別特定用藥的激素藥物更容易通過保險報銷，但性別肯定醫療的等待期等問題尚未得到改善。
-
-ta們通過芬蘭官方途徑獲取性別肯定激素治療時不得不面臨極長的等待期，一些人因此轉而尋求合法但非官方的途徑——從其他歐盟國家的醫生處取得處方後到芬蘭的藥房取藥，而一次開方取藥的價格可能高達數十歐元。
-
-*省略部分內容提供者的個人情況*
 
 [^1]: [芬蘭移民局：芬蘭國籍](https://migri.fi/en/faq-finnish-citizenship)
 [^2]: [Finland's median monthly income surpasses €3,300 - yle](https://yle.fi/a/3-12647702)
 [^3]: [Parliament passes long-awaited amendments to Finland's transgender law - yle](https://yle.fi/a/74-20015866)
-[^4]: [煙月映雪 - Twitter](https://mobile.twitter.com/SnowPoetess/status/1621093325569953792)、[煙月映雪 - Twitter](https://mobile.twitter.com/SnowPoetess/status/1621958970733641728)
-
