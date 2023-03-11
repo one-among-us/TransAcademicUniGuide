@@ -34,6 +34,14 @@ bookToc: true
 部分組織也提供了在美國的相關費用參考與注意事項，如:
 - [Financing & Support for Gender Confirmation Surgery - Laura Dorwart](https://www.moneygeek.com/financial-planning/paying-for-gender-confirmation-surgery/)
 
+## 跨性別相關政策與資源
+
+### 醫療資源
+
+#### 荷爾蒙與拮抗劑獲取
+
+[美国 HRT 综述 - MtF.wiki](https://mtf.wiki/zh-cn/docs/hrt/us/overview/)
+
 ## 就業
 
 不同學校的就業情況不同，如果已經有目標大學，可以直接查看該大學的相關數據。
