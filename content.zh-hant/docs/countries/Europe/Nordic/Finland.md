@@ -10,59 +10,6 @@ bookToc: true
 
 芬蘭提供全民健康保險和（對本國居民的）免費教育。芬蘭的生活水平和福利水平也較高，移民政策也相對寬松。
 
-## 學習
-
-芬蘭的學校排名並不算太高。但學習與科研氛圍較好。
-
-由於芬蘭大學的名氣不大，因而許多大學，尤其是新成立的阿爾托大學往往會被人忽視，而且阿爾托大學的藝術設計非常好與計算機科學也不錯。
-
-芬蘭的博士畢業時還會給一把劍。
-
-## 住宿
-
-大部分大學的住宿並非由學校提供，而是各機構或公司。在赫爾辛基地區，常見的組織包括 [HOAS](https://www.hoas.fi/en/), [BOTH](https://bothxhome.fi/en/), [UniHome](https://unihome.fi/en/home)。
-
-其中，[HOAS](https://www.hoas.fi/en/) 在 2023 年 2 月更新的新 [申請系統](https://application.hoas.fi/) 中提供了 "Other" 性別選項。
-
-[BOTH](https://bothxhome.fi/en/) 提供的大多數房間是性別中性的，如 Studio。
-
-[UniHome](https://unihome.fi/en/home) 與上相似，不過更多的是提供短期公寓。
-
-### 費用
-
-芬蘭學費大約為每年 EUR 4,000 至 EUR 18,000。[StudyInFinland](https://www.studyinfinland.fi/admissions/fees-and-costs)也有總括性的網頁。不同學校也有對所在城市的消費情況的介紹網頁，比如：
-- [生活費用和財務事宜 - 赫爾辛基大學](https://www.helsinki.fi/en/admissions-and-education/international-students/student-life-helsinki/cost-living-and-financial-matters)
-- [學費和獎學金 - 阿爾托大學](https://into.aalto.fi/display/enopisk/Tuition+fees+and+scholarships)
-- [財務事宜 - 阿爾托大學](https://into.aalto.fi/display/enopisk/Financial+matters)
-
-*阿爾托大學的相關網頁在遷徙中，可能未來網址會發生變更*
-
-## 就業
-
-芬蘭的本地就業要求往往要求學會芬蘭語，因而非計算機類專業較難找到工作。
-
-而計算機類專業主要的畢業去向為咨詢，即為其它公司提供解決方案，工資較為可觀。因而對於計算機類的學生來說，一定的工程、開發能力可以讓ta們更好的找到工作。
-
-數據顯示，2022年芬蘭收入中位數超過 €3,300。[^2]
-
-## 居留
-
-芬蘭發給學生的不是簽證，而是居留許可。
-
-2022年初，芬蘭更新了自己的學生居留許可政策，學生可以獲得A類居留許可。且畢業後也給兩年找工作的簽證，降低了留學生畢業後的找工作難度。
-
-關於財產證明，芬蘭在 [InfoFinland](https://www.infofinland.fi/zh/moving-to-finland/non-eu-citizens/study-in-finland) 中要求 6,720 歐元/年，當學校提供住房或食物時此條款可降低。
-
-### A類居留許可
-
-A類居留許可是長期居留許可，可以讓持有人在芬蘭居留、工作。A類居留許可的有效期限通常為一年至五年不等，可以按需求延長。
-
-A類居留許可持有滿五年，可以申請永久居留。在滿足一定條件的情況下，四年也足以申請加入芬蘭國籍。[^1]
-
-### B類居留許可
-
-B類居留許可是臨時居留許可，不計入申請永久居留權的時間。
-
 ## 跨性別相關政策與資源
 
 關於在申請居留許可前後與到達後的一些細節，此處有 [文章](https://verbose.linzh.me/posts/2023-start-at-finland/) 可供參考。
@@ -97,6 +44,60 @@ B類居留許可是臨時居留許可，不計入申請永久居留權的時間�
 2023 年 2 月 1 日，芬蘭通過了 gender self-identification 法案[^3]，允許跨性別人士自行更改性別，而不需要醫生的診斷、手術等任何額外步驟。
 
 關於激素等各類藥物的報銷規則，請參考 [kela](https://www.kela.fi/medicine-expenses) 的網站。請注意，如果已經在 DVV 註冊成功，則可以計入報銷額度，否則不計入。標準藥物價格可以在 [Medicinal Products Database - Kela](https://asiointi.kela.fi/laakekys_app/LaakekysApplication?kieli=en) 上查詢，若在藥房取藥，需要額外支付 3 歐元左右的遞送費。
+
+## 學習
+
+芬蘭的學校排名並不算太高。但學習與科研氛圍較好。
+
+由於芬蘭大學的名氣不大，因而許多大學，尤其是新成立的阿爾托大學往往會被人忽視，而且阿爾托大學的藝術設計非常好與計算機科學也不錯。
+
+芬蘭的博士畢業時還會給一把劍。
+
+## 住宿
+
+大部分大學的住宿並非由學校提供，而是各機構或公司。在赫爾辛基地區，常見的組織包括 [HOAS](https://www.hoas.fi/en/), [BOTH](https://bothxhome.fi/en/), [UniHome](https://unihome.fi/en/home)。
+
+其中，[HOAS](https://www.hoas.fi/en/) 在 2023 年 2 月更新的新 [申請系統](https://application.hoas.fi/) 中提供了 "Other" 性別選項。
+
+[BOTH](https://bothxhome.fi/en/) 提供的大多數房間是性別中性的，如 Studio。
+
+[UniHome](https://unihome.fi/en/home) 與上相似，不過更多的是提供短期公寓。
+
+### 費用
+
+芬蘭學費大約為每年 EUR 4,000 至 EUR 18,000。[StudyInFinland](https://www.studyinfinland.fi/admissions/fees-and-costs)也有總括性的網頁。不同學校也有對所在城市的消費情況的介紹網頁，比如：
+- [生活費用和財務事宜 - 赫爾辛基大學](https://www.helsinki.fi/en/admissions-and-education/international-students/student-life-helsinki/cost-living-and-financial-matters)
+- [學費和獎學金 - 阿爾托大學](https://into.aalto.fi/display/enopisk/Tuition+fees+and+scholarships)
+- [財務事宜 - 阿爾托大學](https://into.aalto.fi/display/enopisk/Financial+matters)
+
+*阿爾托大學的相關網頁在遷徙中，可能未來網址會發生變更*
+
+
+## 就業
+
+芬蘭的本地就業要求往往要求學會芬蘭語，因而非計算機類專業較難找到工作。
+
+而計算機類專業主要的畢業去向為咨詢，即為其它公司提供解決方案，工資較為可觀。因而對於計算機類的學生來說，一定的工程、開發能力可以讓ta們更好的找到工作。
+
+數據顯示，2022年芬蘭收入中位數超過 €3,300。[^2]
+
+## 居留
+
+芬蘭發給學生的不是簽證，而是居留許可。
+
+2022年初，芬蘭更新了自己的學生居留許可政策，學生可以獲得A類居留許可。且畢業後也給兩年找工作的簽證，降低了留學生畢業後的找工作難度。
+
+關於財產證明，芬蘭在 [InfoFinland](https://www.infofinland.fi/zh/moving-to-finland/non-eu-citizens/study-in-finland) 中要求 6,720 歐元/年，當學校提供住房或食物時此條款可降低。
+
+### A類居留許可
+
+A類居留許可是長期居留許可，可以讓持有人在芬蘭居留、工作。A類居留許可的有效期限通常為一年至五年不等，可以按需求延長。
+
+A類居留許可持有滿五年，可以申請永久居留。在滿足一定條件的情況下，四年也足以申請加入芬蘭國籍。[^1]
+
+### B類居留許可
+
+B類居留許可是臨時居留許可，不計入申請永久居留權的時間。
 
 
 [^1]: [芬蘭移民局：芬蘭國籍](https://migri.fi/en/faq-finnish-citizenship)

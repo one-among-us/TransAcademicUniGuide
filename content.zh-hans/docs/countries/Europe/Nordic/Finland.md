@@ -10,59 +10,6 @@ bookToc: true
 
 芬兰提供全民健康保险和（对本国居民的）免费教育。芬兰的生活水平和福利水平也较高，移民政策也相对宽松。
 
-## 学习
-
-芬兰的学校排名并不算太高。但学习与科研氛围较好。
-
-由于芬兰大学的名气不大，因而许多大学，尤其是新成立的阿尔托大学往往会被人忽视，而且阿尔托大学的艺术设计非常好与计算机科学也不错。
-
-芬兰的博士毕业时还会给一把剑。
-
-### 费用
-
-芬兰学费大约为每年 EUR 4,000 至 EUR 18,000。[StudyInFinland](https://www.studyinfinland.fi/admissions/fees-and-costs)也有总括性的网页。不同学校也有对所在城市的消费情况的介绍网页，比如：
-- [生活费用和财务事宜 - 赫尔辛基大学](https://www.helsinki.fi/en/admissions-and-education/international-students/student-life-helsinki/cost-living-and-financial-matters)
-- [学费和奖学金 - 阿尔托大学](https://into.aalto.fi/display/enopisk/Tuition+fees+and+scholarships)
-- [财务事宜 - 阿尔托大学](https://into.aalto.fi/display/enopisk/Financial+matters)
-
-*阿尔托大学的相关网页在迁徙中，可能未来网址会发生变更*
-
-## 住宿
-
-大部分大学的住宿并非由学校提供，而是各机构或公司。在赫尔辛基地区，常见的组织包括 [HOAS](https://www.hoas.fi/en/), [BOTH](https://bothxhome.fi/en/), [UniHome](https://unihome.fi/en/home)。
-
-其中，[HOAS](https://www.hoas.fi/en/) 在 2023 年 2 月更新的新 [申请系统](https://application.hoas.fi/) 中提供了 "Other" 性别选项。
-
-[BOTH](https://bothxhome.fi/en/) 提供的大多数房间是性别中性的，如 Studio。
-
-[UniHome](https://unihome.fi/en/home) 与上相似，不过更多的是提供短期公寓。
-
-## 就业
-
-芬兰的本地就业要求往往要求学会芬兰语，因而非计算机类专业较难找到工作。
-
-而计算机类专业主要的毕业去向为咨询，即为其它公司提供解决方案，工资较为可观。因而对于计算机类的学生来说，一定的工程、开发能力可以让ta们更好的找到工作。
-
-数据显示，2022年芬兰收入中位数超过 €3,300。[^2]
-
-## 居留
-
-芬兰发给学生的不是签证，而是居留许可。
-
-2022年初，芬兰更新了自己的学生居留许可政策，学生可以获得A类居留许可。且畢業後也給兩年找工作的簽證，降低了留学生毕业后的找工作难度。
-
-关于财产证明，芬兰在 [InfoFinland](https://www.infofinland.fi/zh/moving-to-finland/non-eu-citizens/study-in-finland) 中要求 6,720 欧元/年，当学校提供住房或食物时此条款可降低。
-
-### A类居留许可
-
-A类居留许可是长期居留许可，可以让持有人在芬兰居留、工作。A类居留许可的有效期限通常为一年至五年不等，可以按需求延长。
-
-A类居留许可持有满五年，可以申请永久居留。在满足一定条件的情况下，四年也足以申请加入芬兰国籍。[^1]
-
-### B类居留许可
-
-B类居留许可是临时居留许可，不计入申请永久居留权的时间。
-
 ## 跨性别相关政策与资源
 
 关于在申请居留许可前后与到达后的一些细节，此处有 [文章](https://verbose.linzh.me/posts/2023-start-at-finland/) 可供参考。
@@ -81,7 +28,9 @@ B类居留许可是临时居留许可，不计入申请永久居留权的时间�
 
 以上信息可能会在生效后进行更改，请关于 [Sukupuolen vahvistaminen - DVV](https://dvv.fi/sukupuolen-vahvistaminen) 以获得最新信息。
 
+
 ### 医疗资源
+
 
 {{< hint info >}}
 **内容时效性、准确性有待观察**
@@ -96,6 +45,61 @@ B类居留许可是临时居留许可，不计入申请永久居留权的时间�
 2023 年 2 月 1 日，芬兰通过了 gender self-identification 法案[^3]，允许跨性别人士自行更改性别，而不需要医生的诊断、手术等任何额外步骤。
 
 关于激素等各类药物的报销规则，请参考 [kela](https://www.kela.fi/medicine-expenses) 的网站。请注意，如果已经在 DVV 註册成功，则可以计入报销额度，否则不计入。标准药物价格可以在 [Medicinal Products Database - Kela](https://asiointi.kela.fi/laakekys_app/LaakekysApplication?kieli=en) 上查询，若在药房取药，需要额外支付 3 欧元左右的递送费。
+
+
+## 学习
+
+芬兰的学校排名并不算太高。但学习与科研氛围较好。
+
+由于芬兰大学的名气不大，因而许多大学，尤其是新成立的阿尔托大学往往会被人忽视，而且阿尔托大学的艺术设计非常好与计算机科学也不错。
+
+芬兰的博士毕业时还会给一把剑。
+
+## 住宿
+
+大部分大学的住宿并非由学校提供，而是各机构或公司。在赫尔辛基地区，常见的组织包括 [HOAS](https://www.hoas.fi/en/), [BOTH](https://bothxhome.fi/en/), [UniHome](https://unihome.fi/en/home)。
+
+其中，[HOAS](https://www.hoas.fi/en/) 在 2023 年 2 月更新的新 [申请系统](https://application.hoas.fi/) 中提供了 "Other" 性别选项。
+
+[BOTH](https://bothxhome.fi/en/) 提供的大多数房间是性别中性的，如 Studio。
+
+[UniHome](https://unihome.fi/en/home) 与上相似，不过更多的是提供短期公寓。
+
+### 费用
+
+芬兰学费大约为每年 EUR 4,000 至 EUR 18,000。[StudyInFinland](https://www.studyinfinland.fi/admissions/fees-and-costs)也有总括性的网页。不同学校也有对所在城市的消费情况的介绍网页，比如：
+- [生活费用和财务事宜 - 赫尔辛基大学](https://www.helsinki.fi/en/admissions-and-education/international-students/student-life-helsinki/cost-living-and-financial-matters)
+- [学费和奖学金 - 阿尔托大学](https://into.aalto.fi/display/enopisk/Tuition+fees+and+scholarships)
+- [财务事宜 - 阿尔托大学](https://into.aalto.fi/display/enopisk/Financial+matters)
+
+*阿尔托大学的相关网页在迁徙中，可能未来网址会发生变更*
+
+## 就业
+
+芬兰的本地就业要求往往要求学会芬兰语，因而非计算机类专业较难找到工作。
+
+而计算机类专业主要的毕业去向为咨询，即为其它公司提供解决方案，工资较为可观。因而对于计算机类的学生来说，一定的工程、开发能力可以让ta们更好的找到工作。
+
+数据显示，2022年芬兰收入中位数超过 €3,300。[^2]
+
+## 居留
+
+芬兰发给学生的不是签证，而是居留许可。
+
+2022年初，芬兰更新了自己的学生居留许可政策，学生可以获得A类居留许可。且毕业后也给两年找工作的签证，降低了留学生毕业后的找工作难度。
+
+关于财产证明，芬兰在 [InfoFinland](https://www.infofinland.fi/zh/moving-to-finland/non-eu-citizens/study-in-finland) 中要求 6,720 欧元/年，当学校提供住房或食物时此条款可降低。
+
+### A类居留许可
+
+A类居留许可是长期居留许可，可以让持有人在芬兰居留、工作。A类居留许可的有效期限通常为一年至五年不等，可以按需求延长。
+
+A类居留许可持有满五年，可以申请永久居留。在满足一定条件的情况下，四年也足以申请加入芬兰国籍。[^1]
+
+### B类居留许可
+
+B类居留许可是临时居留许可，不计入申请永久居留权的时间。
+
 
 [^1]: [芬兰移民局：芬兰国籍](https://migri.fi/en/faq-finnish-citizenship)
 [^2]: [Finland's median monthly income surpasses €3,300 - yle](https://yle.fi/a/3-12647702)
