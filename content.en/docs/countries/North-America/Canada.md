@@ -10,6 +10,18 @@ Canadians are relatively easy to obtain a work permit for the United States, nam
 
 Different Canadian province have difference social environment. For example, Quebec official language is French, which leads to the nessasary of mastering Franch.
 
+## Transgender-Related Policies and Resources
+
+### Medical Resources
+
+#### Hormone and Antagonist Access
+
+Feedback indicates that it takes at least 2 months to obtain the first long term prescription. Specifically, it takes about a month from the appointment to the first meeting, a month to fill out the *informed consent*, a month for the second meeting, and if there are no surprises, a prescription is issued, followed by a blood test the first month and every three months thereafter.
+
+In Canada, after receiving the first long-term prescription, it is relatively simple to obtain an extension of the prescription at a school, etc., accompanied by a blood test.
+
+However, there may be cases where some universities are unable to issue a prescription and need to **refer** to other clinics, in which case there may be unforeseen circumstances, such as waiting times.
+
 ## Study
 
 Universities in Canada are primarily public universities. As a result, tuition is much cheaper than in the United States.
