@@ -6,7 +6,7 @@ bookToc: true
 
 # China
 
-{{< hint warning >}}
+{{< hint danger >}}
 
 **The overwhelming number of negative comments given by transgenders in this country indicates that China has a very high probability of having a very dangerous environment.**
 {{< /hint >}}
