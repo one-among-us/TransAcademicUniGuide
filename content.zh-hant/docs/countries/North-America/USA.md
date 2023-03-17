@@ -6,9 +6,22 @@ bookToc: true
 
 # 美利堅合眾國
 
+{{< hint warning >}}
+
+**這個國家中的跨性別者對此國家的部分州給予了大量負面評論。這可能反映了對於跨性別者而言，部分州是一個危險的環境。**
+{{< /hint >}}
+
 美利堅合眾國，簡稱美國。是目前世界科技等領域的領導國家，在教育與就業等諸多領域提供了較為完善的制度。雖然法律禁止了對跨性別的歧視，跨性別者在許多方面還是會受到不公平的對待，如偏見、暴力和騷擾。
 
 [Erin Reed](https://twitter.com/ErinInTheMorn) 在其主頁發布了反跨性別立法風險地圖，請前往主頁檢查最新版，可能需要向下滑一段距離。當您前往深紅/紅/橙色州時，請務必再三確認相關法律與規定。
+
+## 跨性別相關政策與資源
+
+### 醫療資源
+
+#### 荷爾蒙與拮抗劑獲取
+
+[美国 HRT 综述 - MtF.wiki](https://mtf.wiki/zh-cn/docs/hrt/us/overview/)
 
 ## 學習
 美國在工學、理學、商學、醫學等諸多領域都有著大量頂尖的學校，同時頭部學校也有非常多的數量等，從教學質量的角度說可以說美國的教育是有著相當好的保證的。
@@ -33,14 +46,6 @@ bookToc: true
 
 部分組織也提供了在美國的相關費用參考與注意事項，如:
 - [Financing & Support for Gender Confirmation Surgery - Laura Dorwart](https://www.moneygeek.com/financial-planning/paying-for-gender-confirmation-surgery/)
-
-## 跨性別相關政策與資源
-
-### 醫療資源
-
-#### 荷爾蒙與拮抗劑獲取
-
-[美国 HRT 综述 - MtF.wiki](https://mtf.wiki/zh-cn/docs/hrt/us/overview/)
 
 ## 就業
 
