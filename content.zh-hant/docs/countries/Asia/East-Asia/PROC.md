@@ -21,5 +21,5 @@ bookToc: true
 
 [^1]: 由於缺乏來自醫院等官方渠道的信息，中國的跨性別群體只能建立自己的信息分享互助平台。截至2023年3月，最全面的平台是 MtF.wiki，提供以下信息。 [心理科／精神科 - MtF.wiki](https://mtf.wiki/zh-cn/docs/psyco/)
 [^2]: 截至2023年3月，中國共有10名醫生和1個科室（另有一個科室理論上可以開具，但尚未經核查）可以為跨性別人士提供荷爾蒙治療。其中四名醫生位於上海，另外兩名位於北京。 [HRT 医疗资源 - MtF.wiki](https://mtf.wiki/zh-cn/docs/hrt/).
-[^3]: [一個例子 - Twitter @zsam_xiamen](https://web.archive.org/web/20230317193319/https://twitter.com/zsam_xiamen/status/1614785066768674817)
+[^3]: [一些中國官方文件的翻譯 - Twitter @Crystal_WangSW](https://web.archive.org/web/20230317204132/https://twitter.com/Crystal_WangSW/status/1636575011854073856), 以及 [一個例子 - Twitter @zsam_xiamen](https://web.archive.org/web/20230317193319/https://twitter.com/zsam_xiamen/status/1614785066768674817)
 [^4]: [四川：畢業證書上網注冊後信息將不能更改 - sc.gov.cn](https://web.archive.org/web/20230317194908/https://www.sc.gov.cn/10462/12772/2015/5/10/10335228.shtml)

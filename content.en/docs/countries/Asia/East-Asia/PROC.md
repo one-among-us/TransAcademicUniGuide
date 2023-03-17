@@ -19,7 +19,7 @@ In China, there are very few doctors who can issue gender identity certificates,
 
 [^1]: Due to the lack of information from official channels such as hospitals, the trans community in China has had to establish their own information sharing platforms. As of March 2023, the most comprehensive platform is MtF.wiki, which provides the following info. [Psychiatrists who can provide support in China - MtF.wiki](https://mtf.wiki/zh-cn/docs/psyco/)
 [^2]: As of March 2023, there are a total of 10 doctors and 1 department (with another department theoretically able to issue prescriptions but not yet verified) who can provide hormone therapy for transgender. Four of these doctors are located in Shanghai, two of them in Beijing. [Doctors in China who are able to prescribe HRT/GAHT - MtF.wiki](https://mtf.wiki/zh-cn/docs/hrt/).
-[^3]: [One example - Twitter @zsam_xiamen](https://web.archive.org/web/20230317193319/https://twitter.com/zsam_xiamen/status/1614785066768674817)
+[^3]: [Some translated official documents - Twitter @Crystal_WangSW](https://web.archive.org/web/20230317204132/https://twitter.com/Crystal_WangSW/status/1636575011854073856), and [One example - Twitter @zsam_xiamen](https://web.archive.org/web/20230317193319/https://twitter.com/zsam_xiamen/status/1614785066768674817)
 [^4]: [After the graduation certificate is registered online, the information cannot be changed - sc.gov.cn](https://web.archive.org/web/20230317194908/https://www.sc.gov.cn/10462/12772/2015/5/10/10335228.shtml)
 
 <!-- https://web.archive.org/web/20230112035847/https://www.nwccw.gov.cn/2018-08/14/content_218467.htm -->
