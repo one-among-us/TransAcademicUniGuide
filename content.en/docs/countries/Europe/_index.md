@@ -21,7 +21,7 @@ In our survey, we found that the services provided by [GenderGP](https://www.gen
 
 #### Price
 
-Take for example a transgender woman who is willing to provide this information. She pays an initial consultation fee of £100 for her first registration and requires a follow-up consultation every six months for £30. At the same time, there is a monthly subscription fee of £30 and a blood test fee of €73 every three months. The medication obtained is at standard pharmacy prices.
+Take for example a transgender woman who is willing to provide this information. She pays an initial consultation fee of £100 (now, it is £195) for her first registration and requires a follow-up consultation every six months for £30. At the same time, there is a monthly subscription fee of £30 and a blood test fee of €73 every three months. The medication obtained is at standard pharmacy prices.
 
 Details can be found on their [costs](https://www.gendergp.com/help-centre/gendergp-service-costs/) page.
 
