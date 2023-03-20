@@ -17,6 +17,8 @@ The primary target audience for the English version is our friends all over the 
 
 ## Contact
 
+If you have anything want to discuss, please feel free to contact us with following ways:
+
 Github: [TransAcademicUniGuidance](https://github.com/Linzh7/TransAcademicUniGuide)
 
 Email: [contact@transacademic.org](mailto:contact@transacademic.org)

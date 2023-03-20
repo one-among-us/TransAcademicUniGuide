@@ -22,6 +22,8 @@ bookToc: false
 
 ## 联系方式
 
+若您有任何意见建议或者信息希望与我们联络，请使用以下方式：
+
 Github: [TransAcademicUniGuidance](https://github.com/Linzh7/TransAcademicUniGuide)
 
 Email: [contact@transacademic.org](mailto:contact@transacademic.org)
