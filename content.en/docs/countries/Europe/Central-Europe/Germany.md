@@ -6,6 +6,12 @@ bookToc: true
 
 # Germany
 
+## Transgender-related policies and resources
+
+### Organizations
+
+- [LSVD](https://www.lsvd.de/de/home)
+- [TransInterQueer e.V.](https://www.transinterqueer.org/en/welcome/)
 
 ## Study
 

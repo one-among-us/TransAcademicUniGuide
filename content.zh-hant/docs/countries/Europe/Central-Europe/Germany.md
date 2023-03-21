@@ -6,11 +6,17 @@ bookToc: true
 
 # 德意志聯邦共和國
 
+## 跨性別相關資源
+
+### 相關組織
+
+- [LSVD](https://www.lsvd.de/de/home)：德国LGBTQ+权利组织，提供信息和支持。
+- [TransInterQueer e.V.](https://www.transinterqueer.org/en/welcome/)：主要在德国的跨性别、酷儿和非二元性别权利和支持组织。
+
 ## 學習
 
 
 ## 就業
-
 
 
 ## 居留

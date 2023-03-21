@@ -9,7 +9,11 @@ type: docs
 
 Please feel free to contribute to this handbook. If there are any problems with the hyperlink, please also inform us.
 
-**NB! Due to the limited number of contributors, much of the content does not fully reflect the actual situation and is for reference only. **
+Due to the limited number of contributors, much of the content does not fully reflect the actual situation and is for reference only.
+
+Please note that currently, due to the limited number of contributors, many contents may not fully reflect the actual situation and are for reference only.
+
+The information in this handbook may be outdated, so the data is for reference only. Please pay attention to the last update time at the bottom of the page. We have labeled the data sources for the vast majority of the data, please refer to the data sources for the latest information.
 
 ## Audience
 

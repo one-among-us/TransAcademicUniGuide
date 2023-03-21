@@ -46,6 +46,11 @@ bookToc: true
 
 关于激素等各类药物的报销规则，请参考 [kela](https://www.kela.fi/medicine-expenses) 的网站。请注意，如果已经在 DVV 註册成功，则可以计入报销额度，否则不计入。标准药物价格可以在 [Medicinal Products Database - Kela](https://asiointi.kela.fi/laakekys_app/LaakekysApplication?kieli=en) 上查询，若在药房取药，需要额外支付 3 欧元左右的递送费。
 
+### 相关组织
+
+- [Sateenkaariperheet ry](https://sateenkaariperheet.fi/)
+- [Trasek ry](https://trasek.fi/)
+
 
 ## 学习
 

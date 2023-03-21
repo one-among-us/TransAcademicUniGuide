@@ -10,7 +10,7 @@ Canadians are relatively easy to obtain a work permit for the United States, nam
 
 Different Canadian province have difference social environment. For example, Quebec official language is French, which leads to the nessasary of mastering Franch.
 
-## Transgender-Related Policies and Resources
+## Transgender-related resources
 
 ### Medical Resources
 

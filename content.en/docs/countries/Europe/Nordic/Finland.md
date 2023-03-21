@@ -10,7 +10,7 @@ Finland is a country located in Northern Europe, with Helsinki as its capital. F
 
 Finland offers universal health insurance and free education (for its residents). Finland also has a high standard of living and welfare, and a relatively liberal immigration policy.
 
-## Transgender-related policies and resources
+## Transgender-related resources
 
 For more details before, during and after the application for a residence permit, there is an [article](https://verbose.linzh.me/posts/2023-start-at-finland/) available here.
 
@@ -45,7 +45,12 @@ On February 1, 2023, Finland passed the gender self-identification bill [^3], wh
 
 Please refer to the [kela](https://www.kela.fi/medicine-expenses) website for reimbursement rules for various medications such as hormones. Please note that reimbursement will count if you are already registered with DVV, otherwise it will not count. Standard drug prices can be found at [Medicinal Products Database - Kela](https://asiointi.kela.fi/laakekys_app/LaakekysApplication?kieli=en) and there is an additional delivery fee of about $3 for picking up the drug at the pharmacy. If you pick up your medication at a pharmacy, there is an additional delivery fee of about $3.
 
-## Learning
+### Organizations
+
+- [Sateenkaariperheet ry](https://sateenkaariperheet.fi/)
+- [Trasek ry](https://trasek.fi/)
+
+## Studying
 
 Finland's schools are not ranked very high. But the atmosphere of study and research is better.
 
