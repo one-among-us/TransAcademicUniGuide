@@ -12,6 +12,21 @@ Singapore is not very LGBTQA+ inclusive, and only completed the decriminalizatio
 
 [LGBT rights in Singapore from wikipedia](https://en.wikipedia.org/wiki/LGBT_rights_in_Singapore)
 
+## Transgender related
+
+### Organizations
+
+- [Oogachaga](https://oogachaga.com/) is one of the largest LGBTQA+ communities in Singapore, offering various services such as counseling, consultation, training, and social activities.
+- [The T Project](https://www.thetprojectsg.org/) provides training, shelter, and other facilities.
+- [Pink Dot](https://pinkdot.sg/) is an annual LGBTQA+ celebration in Singapore aimed at promoting equality and inclusivity.
+- [TransgenderSG](https://transgendersg.com/) provides counseling, consultation, and support groups, while also promoting awareness and understanding of transgender individuals.
+
+## HRT/GAHT
+
+[HRT Overview in Singapore - MtF.wiki](https://mtf.wiki/en/docs/hrt/singapore/overview/)
+
+
+
 ## Study
 
 NUS and Nanyang Technological University are both very good. The international rankings and recognition are high.

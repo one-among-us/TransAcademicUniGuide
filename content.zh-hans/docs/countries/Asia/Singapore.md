@@ -14,6 +14,21 @@ bookToc: true
 
 
 
+## 跨性别相关
+
+### 社群
+
+- [oogachaga](https://oogachaga.com/), 是新加坡最大的LGBTQA+社群之一，提供多种服务，包括辅导、咨询、培训和社交活动。
+- [The T Project](https://www.thetprojectsg.org/)，提供培训、庇护所等多种设施。
+- [Pink Dot](https://pinkdot.sg/)，是新加坡的一年一度的LGBTQA+庆祝活动，旨在促进平等和包容。
+- [TransgenderSG](https://transgendersg.com/)，提供辅导、咨询和支持小组，同时也推广对跨性别人士的认识和理解。
+
+
+### 医疗
+
+[新加坡 HRT 综述 - MtF.wiki](https://mtf.wiki/zh-cn/docs/hrt/singapore/overview/)
+
+
 
 
 

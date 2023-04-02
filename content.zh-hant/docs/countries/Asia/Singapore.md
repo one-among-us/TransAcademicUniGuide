@@ -16,10 +16,10 @@ bookToc: true
 
 ### 社群
 
-- oogachaga: https://oogachaga.com/
-- The T Project: https://www.thetprojectsg.org/
-- Pink Dot: https://pinkdot.sg/
-- TransgenderSG: https://transgendersg.com/
+- [oogachaga](https://oogachaga.com/), 是新加坡最大的LGBTQA+社群之一，提供多種服務，包括輔導、咨詢、培訓和社交活動。
+- [The T Project](https://www.thetprojectsg.org/)，提供培訓、庇護所等多種設施。
+- [Pink Dot](https://pinkdot.sg/)，是新加坡的一年一度的LGBTQA+慶祝活動，旨在促進平等和包容。
+- [TransgenderSG](https://transgendersg.com/)，提供輔導、咨詢和支持小組，同時也推廣對跨性別人士的認識和理解。
 
 
 ### 醫療
