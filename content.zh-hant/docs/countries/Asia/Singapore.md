@@ -12,11 +12,27 @@ bookToc: true
 
 [新加坡LGBT權益 from wikipedia](https://zh.wikipedia.org/zh-cn/%E6%96%B0%E5%8A%A0%E5%9D%A1LGBT%E6%9D%83%E7%9B%8A)
 
+## 跨性別相關
+
+### 社群
+
+- oogachaga: https://oogachaga.com/
+- The T Project: https://www.thetprojectsg.org/
+- Pink Dot: https://pinkdot.sg/
+- TransgenderSG: https://transgendersg.com/
+
+
+### 醫療
+
+[新加坡 HRT 綜述 - MtF.wiki](https://mtf.wiki/zh-cn/docs/hrt/singapore/overview/)
+
+
+
 ## 學習
 
-新加坡國立大學與南洋理工大學都很不錯。國際排名與認可度都較高。
+新加坡國立大學與南洋理工大學都很不錯。國際排名與認可度都較高。而關於學習難度，據新加坡的同學反饋，ta們學習的難度比較高：許多同學都在嘗試著考更高的分數，這也就造成了強烈的競爭。
 
-而關於學習難度，據新加坡的同學反饋，ta們學習的難度比較高：許多同學都在嘗試著考更高的分數，這也就造成了強烈的競爭。
+同時，在 2021 年，新加坡教育相關部門仍然存在歧視跨性別者的情況[^1]。雖然事件後來被教育部解釋為「誤會」，但仍然讓許多跨性別者對新加坡的教育環境感到擔憂。
 
 ### 學習與相關費用
 
@@ -37,3 +53,5 @@ bookToc: true
 ## 就業
 
 關於就業的問題，就是新加坡的就業難度較高。根據一個在上述兩校學習的夥伴的反饋，即便ta參與了各樣的實習，也不一定能夠保證畢業後能留在新加坡。
+
+[^1]: [她－他風暴：新加坡教育部威脅「跨性別診療」干預事件](https://global.udn.com/global_vision/story/8664/5228209)

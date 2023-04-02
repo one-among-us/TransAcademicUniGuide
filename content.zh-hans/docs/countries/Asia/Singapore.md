@@ -12,6 +12,12 @@ bookToc: true
 
 [新加坡LGBT权益 from wikipedia](https://zh.wikipedia.org/zh-cn/%E6%96%B0%E5%8A%A0%E5%9D%A1LGBT%E6%9D%83%E7%9B%8A)
 
+
+
+
+
+
+
 ## 学习
 
 新加坡国立大学与南洋理工大学都很不错。国际排名与认可度都较高。
