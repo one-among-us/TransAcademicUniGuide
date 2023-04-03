@@ -28,5 +28,7 @@ bookToc: true
 
 [MtF情報発信サイト](https://joseika.com/) (in Japanese)
 
+[日本跨性別相關信息站點導航 - 2345.lgbt](https://2345.lgbt/ja/)
+
 由 [説鴨話](https://t.me/drukbugchannel/80) 提供，可點擊連結獲取更多信息。選校時可以參考醫院的地點進行進一步篩選。
 

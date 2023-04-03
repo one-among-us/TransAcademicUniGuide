@@ -24,8 +24,10 @@ Remember to apply for a master's degree to match your undergraduate degree, cros
 
 In addition, if you want to study in a language school, remember not to be absent from school. If you perform well and pass the language score, both work and study will be much easier.
 
-## Transgender Medical Resources
+## Transgender-related Resources
 
 [MtF情報発信サイト](https://joseika.com/) (in Japanese)
+
+[Information Navigation in Japan - 2345.lgbt](https://2345.lgbt/ja/)
 
 Provided by [Speak Duck Talk](https://t.me/drukbugchannel/80), you can click the link for more information. When choosing a school, you can refer to the location of the hospital for further screening.
