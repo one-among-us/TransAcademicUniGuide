@@ -26,4 +26,6 @@ bookToc: true
 
 ## 跨性别医疗资源
 
+[MtF情報発信サイト](https://joseika.com/) (in Japanese)
+
 由 [说鸭话](https://t.me/drukbugchannel/80) 提供，可点击连结获取更多信息。选校时可以参考医院的地点进行进一步筛选。

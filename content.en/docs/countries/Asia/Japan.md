@@ -26,4 +26,6 @@ In addition, if you want to study in a language school, remember not to be absen
 
 ## Transgender Medical Resources
 
+[MtF情報発信サイト](https://joseika.com/) (in Japanese)
+
 Provided by [Speak Duck Talk](https://t.me/drukbugchannel/80), you can click the link for more information. When choosing a school, you can refer to the location of the hospital for further screening.
