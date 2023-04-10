@@ -16,9 +16,7 @@ bookToc: true
 
 ### 政策
 
-芬蘭數字人口管理局（DVV）根據最新的跨性別法案修訂了性別變更確認條目，預計於 2023 年 4 月 3 日生效。
-
-屆時，條件為：
+芬蘭數字人口管理局（DVV）根據最新的跨性別法案修訂了性別變更確認條目，已於 2023 年 4 月 3 日生效，其條件為：
 
 - 到達法定年齡；
 - 公民/有居留許可；
@@ -26,7 +24,7 @@ bookToc: true
 
 在提出申請後，申請者必須在 30 天至 6 個月內再次確認申請，隨後進入該申請才會被處理。
 
-以上信息可能會在生效後進行更改，請關於 [Sukupuolen vahvistaminen - DVV](https://dvv.fi/sukupuolen-vahvistaminen) 以獲得最新信息。
+更多信息可在 [Sukupuolen vahvistaminen - DVV](https://dvv.fi/sukupuolen-vahvistaminen) 處獲得。
 
 ### 醫療資源
 

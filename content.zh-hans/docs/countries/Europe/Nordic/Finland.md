@@ -16,9 +16,7 @@ bookToc: true
 
 ### 政策
 
-芬兰数字人口管理局（DVV）根据最新的跨性别法案修订了性别变更确认条目，预计于 2023 年 4 月 3 日生效。
-
-届时，条件为：
+芬兰数字人口管理局（DVV）根据最新的跨性别法案修订了性别变更确认条目，已于 2023 年 4 月 3 日生效。其条件为：
 
 - 到达法定年龄；
 - 公民/有居留许可；
@@ -26,7 +24,7 @@ bookToc: true
 
 在提出申请后，申请者必须在 30 天至 6 个月内再次确认申请，随后进入该申请才会被处理。
 
-以上信息可能会在生效后进行更改，请关于 [Sukupuolen vahvistaminen - DVV](https://dvv.fi/sukupuolen-vahvistaminen) 以获得最新信息。
+更多信息可在 [Sukupuolen vahvistaminen - DVV](https://dvv.fi/sukupuolen-vahvistaminen) 获得。
 
 
 ### 医疗资源

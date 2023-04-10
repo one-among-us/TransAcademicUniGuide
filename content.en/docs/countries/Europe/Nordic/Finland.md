@@ -16,9 +16,7 @@ For more details before, during and after the application for a residence permit
 
 ### Policies
 
-The Finnish Digital Population Authority (DVV) has amended the gender change recognition provisions in accordance with the latest Transgender Act, which is expected to take effect on April 3, 2023.
-
-At that time, the conditions will be
+The Finnish Digital Population Authority (DVV) has amended the gender change recognition provisions in accordance with the latest Transgender Act, which has took effect on April 3, 2023. And the conditions are:
 
 - Reaching legal age.
 - Citizenship/permit to remain.
@@ -26,7 +24,7 @@ At that time, the conditions will be
 
 After the application is made, the applicant must reconfirm the application within 30 days to 6 months, after which the application will be processed.
 
-The above information is subject to change after the effective date, please refer to [Sukupuolen vahvistaminen - DVV](https://dvv.fi/sukupuolen-vahvistaminen) for the latest information.
+More information could be found at [Sukupuolen vahvistaminen - DVV](https://dvv.fi/sukupuolen-vahvistaminen).
 
 ### Medical Resources
 
