@@ -15,6 +15,7 @@ bookToc: true
 
 ## Study
 
+In Germany, a master's degree program typically takes two years or more to complete, so it is relatively rare to graduate in just one year. In addition, the academic performance during undergraduate studies has a significant impact on future employment and even further academic pursuits. Therefore, if one can complete the master's degree program earlier by taking courses in advance, it may speed up the process.
 
 ## Employment
 
