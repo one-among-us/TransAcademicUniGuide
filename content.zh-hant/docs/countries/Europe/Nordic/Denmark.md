@@ -28,4 +28,6 @@ bookToc: true
 
 丹麥一般情況下需要連續居留八年，最短情況下需要居留四年。需通過丹麥語能力測試，入籍考試可選。
 
+丹麥現在提供了 [完成教育課程後的 3 年求職居留許可](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Study/Study---job-seeking/Study---3-years-job-seeking?anchor=howtoapply)。如果您作為丹麥專業學士、學士、碩士或博士教育課程的學生持有居留許可，並且您已完成教育課程，則您可以獲得最長 3 年的居留許可以在丹麥求職。
+
 此外，相對於瑞典、芬蘭，丹麥相對來說排外一點。

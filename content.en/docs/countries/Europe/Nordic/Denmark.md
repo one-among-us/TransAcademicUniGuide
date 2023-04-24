@@ -28,4 +28,6 @@ For specific requirements, please refer to the website [for higher education](ht
 
 Denmark requires eight years of continuous residence in general, and four years in the shortest case. A Danish language proficiency test is required, and a naturalization exam is optional.
 
+Denmark now offers a [3-year job-seeking residence permit after completing an educational program](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Study/Study---job-seeking/Study---3-years-job-seeking). If you hold a residence permit as a student of a Danish professional bachelor's, bachelor's, master's or doctoral education program and you have completed your education program, you can obtain a residence permit for up to 3 years to seek employment in Denmark.
+
 In addition, Denmark is relatively exclusive compared to Sweden and Finland.
