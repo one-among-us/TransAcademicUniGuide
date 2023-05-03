@@ -23,9 +23,7 @@ The primary target audience for the English version is our friends all over the 
 
 If you have anything want to discuss, please feel free to contact us with following ways:
 
-Github: [TransAcademicUniGuidance](https://github.com/Linzh7/TransAcademicUniGuide)
-
-Email: [contact@transacademic.org](mailto:contact@transacademic.org)
+Github: [TransAcademicUniGuidance](https://github.com/one-among-us/TransAcademicUniGuide)
 
 ## Contribute
 
@@ -42,10 +40,10 @@ If there is another area you think we should discuss and share, you can also con
 
 ### How to participate
 
-- Submit a [pull request](https://github.com/Linzh7/TransAcademicUniGuide/pulls)
-- Submit an [issue](https://github.com/Linzh7/TransAcademicUniGuide/issues)
-- Send an email to [this address](mailto:contact@transacademic.org)
+- Submit a [pull request](https://github.com/one-among-us/TransAcademicUniGuide/pulls)
+- Submit an [issue](https://github.com/one-among-us/TransAcademicUniGuide/issues)
+<!-- - Send an email to [this address](mailto:contact@transacademic.org)
 - Submit your comments using the following form (can be filled out in any language you want to use):
   - [Country](https://docs.google.com/forms/d/e/1FAIpQLSfm40NK_kWylDTy-cIhUibpX1LaVx-6vw4EF2x7SgXSIhlXOA/viewform)
   - [University](https://docs.google.com/forms/d/e/1FAIpQLSdTduZ0wpgJ3W4LDPQ6u_Vm6Gi_AMZYZnwYFl5ifT8SO4yJmA/viewform)
-  - [Field of study](https://docs.google.com/forms/d/e/1FAIpQLScgX2iVOC2_5Z3tmbp4kJq6Es2RrEOypUpzaoNIEg-5yNmqFw/viewform)
+  - [Field of study](https://docs.google.com/forms/d/e/1FAIpQLScgX2iVOC2_5Z3tmbp4kJq6Es2RrEOypUpzaoNIEg-5yNmqFw/viewform) -->

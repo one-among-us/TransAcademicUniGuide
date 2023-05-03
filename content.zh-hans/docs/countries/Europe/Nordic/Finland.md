@@ -33,7 +33,7 @@ bookToc: true
 {{< hint info >}}
 **内容时效性、准确性有待观察**
 
-相关讨论详见 [Github issue](https://github.com/Linzh7/TransAcademicUniGuide/issues/2) .
+相关讨论详见 [Github issue](https://github.com/one-among-us/TransAcademicUniGuide/issues/2) .
 {{< /hint >}}
 
 学生医疗服务，由 [Finnish Student Health Service](https://www.yths.fi/en/frontpage/) 负责。 FSHS 提供了牙科心理科与一般门诊，当医师无法处理您的状况/请求时，会转诊至其它医院。在赫尔辛基大区往往为 [赫尔辛基大学附属医院（HUS）](https://www.hus.fi/en) 。

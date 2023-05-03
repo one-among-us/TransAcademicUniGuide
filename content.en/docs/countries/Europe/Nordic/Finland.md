@@ -32,7 +32,7 @@ More information could be found at [Sukupuolen vahvistaminen - DVV](https://dvv.
 {{< hint info >}}
 **Content currency and accuracy remain to be seen**
 
-See [Github issue](https://github.com/Linzh7/TransAcademicUniGuide/issues/2) for related discussion .
+See [Github issue](https://github.com/one-among-us/TransAcademicUniGuide/issues/2) for related discussion .
 {{< /hint >}}
 
 Student Health Services, by [Finnish Student Health Service](https://www.yths.fi/en/frontpage/). FSHS provides dental psychology and general outpatient services, and will refer you to other hospitals if your condition/request cannot be handled by a physician. In the Helsinki region it is often the [Helsinki University Hospital (HUS)](https://www.hus.fi/en).
