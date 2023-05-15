@@ -10,6 +10,8 @@ bookToc: true
 
 因而，雖然並不推薦網路安全作為首選的專業，但如果真的喜歡這個專業，也是完全可以考慮的。
 
-## 網路安全奪旗戰
+## 資源
 
-[CTF Wiki](https://ctf-wiki.org/) 也提供了很好的入門與進階內容。
+[CTF Wiki](https://ctf-wiki.org/) 也提供了很好的入门与进阶内容。
+
+[ctf.mzy0.com](https://ctf.mzy0.com/)

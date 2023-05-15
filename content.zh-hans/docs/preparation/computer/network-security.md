@@ -10,6 +10,8 @@ bookToc: true
 
 因而，虽然并不推荐网络安全作为首选的专业，但如果真的喜欢这个专业，也是完全可以考虑的。
 
-## 网络安全夺旗战
+## 資源
 
 [CTF Wiki](https://ctf-wiki.org/) 也提供了很好的入门与进阶内容。
+
+[ctf.mzy0.com](https://ctf.mzy0.com/)
