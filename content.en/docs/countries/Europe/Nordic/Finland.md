@@ -48,7 +48,7 @@ Please refer to the [kela](https://www.kela.fi/medicine-expenses) website for re
 - [Sateenkaariperheet ry](https://sateenkaariperheet.fi/)
 - [Trasek ry](https://trasek.fi/)
 
-## Learning
+## Studying
 
 In Finland's education system, there are two main types of higher education institutions: universities and universities of applied sciences, with some differences between them.
 
