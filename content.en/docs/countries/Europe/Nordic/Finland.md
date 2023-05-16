@@ -48,13 +48,46 @@ Please refer to the [kela](https://www.kela.fi/medicine-expenses) website for re
 - [Sateenkaariperheet ry](https://sateenkaariperheet.fi/)
 - [Trasek ry](https://trasek.fi/)
 
-## Studying
+## Learning
 
-Finland's schools are not ranked very high. But the atmosphere of study and research is better.
+In Finland's education system, there are two main types of higher education institutions: universities and universities of applied sciences, with some differences between them.
 
-The University of Finland is not very famous, so many universities, especially the newly established University of Alto, are often overlooked, but the University of Alto has very good art and design and good computer science.
+1. Universities
+   - Universities in Finland provide more traditional academic education, emphasizing research and in-depth study in academic fields.
+   - Universities offer more master's and doctoral programs, allowing students to obtain higher degrees such as Master's degrees and Doctorate degrees.
+   - Universities typically offer a wide range of disciplines in areas such as theory, science, engineering, medicine, arts, and humanities.
 
-Finland's doctorate will give a sword upon graduation.
+2. Universities of Applied Sciences
+   - Universities of Applied Sciences focus on practical and vocational education, aiming to equip students with the skills and knowledge needed for practical work.
+   - Universities of Applied Sciences offer bachelor's degree programs, and they encourage students to engage in practical projects and internships during their studies.
+   - Universities of Applied Sciences prioritize collaboration with industries and practical applications to meet the demands of the job market.
+
+Both universities and universities of applied sciences are government-regulated higher education institutions, with a focus on cultivating different types of professionals. The choice between a university and a university of applied sciences depends on personal interests, career goals, and the desired level of degree pursued.
+
+Finland provides a website, [Study in Finland](https://www.studyinfinland.fi/), where you can find more information about higher education in Finland. Additionally, Finland plans to increase the number of international students to three times its current amount by around 2030, which theoretically may offer more learning opportunities in the future.
+
+- [List of Universities](https://okm.fi/en/universities)
+- [List of Universities of Applied Sciences](https://okm.fi/en/universities-of-applied-sciences)
+
+### Universities
+
+Finnish universities are not ranked very high globally, but they have a good learning and research atmosphere.
+
+Due to the relatively low international reputation of Finnish universities, many universities, especially newly established ones like Aalto University, are often overlooked. However, different universities have their strengths in various disciplines. For example, Aalto University excels in design and architecture, Tampere focuses on library and information management, Helsinki specializes in religious studies, education, agricultural sciences, and media communication, the University of the Arts Helsinki excels in performing arts, the University of Jyväskylä is known for its sports-related programs, Turku University offers nursing, and the University of Oulu specializes in communication.
+
+The Finnish government and universities place great importance on research and innovation, and many universities have advanced research centers and laboratories that provide opportunities for students to engage in research projects and practical activities.
+
+However, it is important to note that many bachelor's programs at Finnish universities are often taught in Finnish or Swedish (which may improve in the future), limiting the choices for English-taught programs. Taking Aalto University as an example, in its undergraduate program applications, only the fields of art, finance, international business, chemical engineering, computer science, data science, digital systems and design, and quantum technology offer English-taught programs. Moreover, for bachelor's applications, many programs are structured as 3+2 bachelor's and master's degrees, considering changes in residence permit regulations. In theory, even as a student, one can apply for permanent residency after studying for 4 years.
+
+At the same time, there are abundant scholarship options available. For undergraduate studies, scholarships are often related to GPA. For master's studies, the focus is more on undergraduate GPA and academic achievements. Many international students receive scholarships to assist them in completing their studies.
+
+In Finland, receiving a sword is a tradition upon completing a doctoral degree.
+
+### Universities of Applied Sciences
+
+Universities of Applied Sciences offer many undergraduate programs, and almost every institution has some English-taught bachelor's degree programs. Common English-taught programs include IT technology, engineering, nursing, and others.
+
+For more information, you can refer to [Employment - Statistics Finland](https://www.stat.fi/tilasto/tyokay).
 
 ## Accommodation
 
