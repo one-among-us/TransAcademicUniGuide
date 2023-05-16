@@ -10,9 +10,9 @@ bookToc: false
 
 歡迎貢獻、完善本手冊。
 
-煩請注意，目前因貢獻者數量有限，許多內容無法完整反應實際情況，僅供參考。
+目前我們主要的關注方向是學術類高等教育，但同時也在努力補充以職業為導向的高等教育信息。
 
-本手冊內容可能有滯後性，因而數據僅供參考，請注意頁面下方的最後更新時間。我們在絕大部分數據處標註了數據來源，請查閱數據來源獲得最新信息。
+煩請注意，目前因貢獻者數量有限，許多內容無法完整反應實際情況，僅供參考。本手冊內容可能有滯後性，因而數據僅供參考，請注意頁面下方的最後更新時間。我們在絕大部分數據處標註了數據來源，請查閱數據來源獲得最新信息。
 
 ## 受眾
 
@@ -41,7 +41,3 @@ Github: [TransAcademicUniGuidance](https://github.com/one-among-us/TransAcademic
 
 - 提交 [pull request](https://github.com/one-among-us/TransAcademicUniGuide/pulls)
 - 提交 [issue](https://github.com/one-among-us/TransAcademicUniGuide/issues)
-<!-- - 通過如下表單提交您的看法（可使用中文）
-  - [國家](https://docs.google.com/forms/d/e/1FAIpQLSfm40NK_kWylDTy-cIhUibpX1LaVx-6vw4EF2x7SgXSIhlXOA/viewform)
-  - [大學](https://docs.google.com/forms/d/e/1FAIpQLSdTduZ0wpgJ3W4LDPQ6u_Vm6Gi_AMZYZnwYFl5ifT8SO4yJmA/viewform)
-  - [研究領域](https://docs.google.com/forms/d/e/1FAIpQLScgX2iVOC2_5Z3tmbp4kJq6Es2RrEOypUpzaoNIEg-5yNmqFw/viewform) -->

@@ -9,11 +9,9 @@ type: docs
 
 Please feel free to contribute to this handbook. If there are any problems with the hyperlink, please also inform us.
 
-Due to the limited number of contributors, much of the content does not fully reflect the actual situation and is for reference only.
+Currently, our main focus is on academic higher education, but we are also making efforts to supplement information on vocational-oriented higher education.
 
-Please note that currently, due to the limited number of contributors, many contents may not fully reflect the actual situation and are for reference only.
-
-The information in this handbook may be outdated, so the data is for reference only. Please pay attention to the last update time at the bottom of the page. We have labeled the data sources for the vast majority of the data, please refer to the data sources for the latest information.
+Please note that due to limited contributors, many contents may not fully reflect the current situation and are provided for reference only. The information in this manual may be outdated, so the data should be used for reference purposes only. Please pay attention to the last updated time at the bottom of each page. We have indicated the data sources for most of the data, so please refer to the data sources for the latest information.
 
 ## Audience
 
