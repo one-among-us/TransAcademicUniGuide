@@ -1,6 +1,6 @@
 ---
 title: 新加坡
-weight: 1
+weight: 5
 bookToc: true
 ---
 
