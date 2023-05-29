@@ -45,8 +45,8 @@ Github: [TransAcademicUniGuidance](https://github.com/one-among-us/TransAcademic
 
 - 提交 [pull request](https://github.com/one-among-us/TransAcademicUniGuide/pulls)
 - 提交 [issue](https://github.com/one-among-us/TransAcademicUniGuide/issues)
-<!-- - 通过如下表单提交您的看法（可使用中文）
+- 发送邮件至 [tia@oneamongus.ca](mailto:tia@oneamongus.ca)
+- 通过如下表单提交（可使用任意语言）：
   - [国家](https://docs.google.com/forms/d/e/1FAIpQLSfm40NK_kWylDTy-cIhUibpX1LaVx-6vw4EF2x7SgXSIhlXOA/viewform)
   - [大学](https://docs.google.com/forms/d/e/1FAIpQLSdTduZ0wpgJ3W4LDPQ6u_Vm6Gi_AMZYZnwYFl5ifT8SO4yJmA/viewform)
   - [研究领域](https://docs.google.com/forms/d/e/1FAIpQLScgX2iVOC2_5Z3tmbp4kJq6Es2RrEOypUpzaoNIEg-5yNmqFw/viewform)
- -->
