@@ -40,7 +40,8 @@ If there is another area you think we should discuss and share, you can also con
 
 - Submit a [pull request](https://github.com/one-among-us/TransAcademicUniGuide/pulls)
 - Submit an [issue](https://github.com/one-among-us/TransAcademicUniGuide/issues)
-<!-- - Submit your comments using the following form (can be filled out in any language you want to use):
+- Send an email to [tia@oneamongus.ca](mailto:tia@oneamongus.ca)
+- Submit your comments using the following form (can be filled out in any language you want to use):
   - [Country](https://docs.google.com/forms/d/e/1FAIpQLSfm40NK_kWylDTy-cIhUibpX1LaVx-6vw4EF2x7SgXSIhlXOA/viewform)
   - [University](https://docs.google.com/forms/d/e/1FAIpQLSdTduZ0wpgJ3W4LDPQ6u_Vm6Gi_AMZYZnwYFl5ifT8SO4yJmA/viewform)
-  - [Field of study](https://docs.google.com/forms/d/e/1FAIpQLScgX2iVOC2_5Z3tmbp4kJq6Es2RrEOypUpzaoNIEg-5yNmqFw/viewform) -->
+  - [Field of study](https://docs.google.com/forms/d/e/1FAIpQLScgX2iVOC2_5Z3tmbp4kJq6Es2RrEOypUpzaoNIEg-5yNmqFw/viewform)

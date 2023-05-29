@@ -16,8 +16,9 @@ Now we are trying to add more content.
 
 - New a [pull request](https://github.com/one-among-us/TransAcademicUniGuide/pulls)
 - new an [issue](https://github.com/one-among-us/TransAcademicUniGuide/issues)
-<!-- - submit your feedback(s) in the following form:
+- Email: [tia@oneamongus.ca](mailto:tia@oneamongus.ca)
+- submit your feedback(s) in the following form:
   - [Country](https://docs.google.com/forms/d/e/1FAIpQLSfm40NK_kWylDTy-cIhUibpX1LaVx-6vw4EF2x7SgXSIhlXOA/viewform)
   - [Univeristy](https://docs.google.com/forms/d/e/1FAIpQLSdTduZ0wpgJ3W4LDPQ6u_Vm6Gi_AMZYZnwYFl5ifT8SO4yJmA/viewform)
-  - [Research Fields](https://docs.google.com/forms/d/e/1FAIpQLScgX2iVOC2_5Z3tmbp4kJq6Es2RrEOypUpzaoNIEg-5yNmqFw/viewform) -->
+  - [Research Fields](https://docs.google.com/forms/d/e/1FAIpQLScgX2iVOC2_5Z3tmbp4kJq6Es2RrEOypUpzaoNIEg-5yNmqFw/viewform)
 
