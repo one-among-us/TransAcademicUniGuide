@@ -19,5 +19,7 @@ There is a worldwide [survey of LGBTQA+ rights](https://www.asherfergusson.com/l
 
 [Rainbow Europe](https://www.rainbow-europe.org/) also provides more detailed statistics on European countries, with specific information available on the [Europe page](../../docs/countries/Europe/).
 
+In addition, here is a list of medical resources related to gender identity (North America and Europe, some in Chinese) available [here](https://github.com/KristallWang/Transgender-lost-years/blob/master/0002_Medical/Medical_Resources/%E7%9B%AE%E5%89%8D%E4%B8%8E%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C%E7%9B%B8%E5%85%B3%E7%9A%84%E5%8C%BB%E7%96%97%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8.md#united-states4). Please note that the information may be outdated or delayed, so please verify it again.
+
 [^1]: [Trans student denied coverage for hormone therapy says policy is 'rooted in transphobia' - Henrike Wilhelm · CBC News](https://www.cbc.ca/news/canada/newfoundland-labrador/trans-student-no-hormone-therapy-1-6269186-1.6269186)
 [^2]: Entries are often named 'LGBT rights in xxx', e.g. [LGBT rights in the United States](https://en.wikipedia.org/wiki/LGBT_rights_in_the_United_States).
