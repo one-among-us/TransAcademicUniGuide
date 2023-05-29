@@ -21,5 +21,7 @@ bookToc: false
 
 即便跨性别者在法律上的权利得到保障，甚至已经可以称作「pass」了，跨性别者（尤其是跨性别女性）也会面临体系性的性别歧视。因而我们提供世界经济论坛给出的《全球性别差距报告》以供参考， [点击此处可以查看2022年报告](https://www.weforum.org/reports/global-gender-gap-report-2022/) 。但此排名也受到了一定的质疑，指责其选用的指标与衡量指标的方式不准确，因而会出现并不能真正代表性别差距的结果，如卢旺达排名虚高。
 
+此外，此处有 [与性别认同相关的医疗资源列表](https://github.com/KristallWang/Transgender-lost-years/blob/master/0002_Medical/Medical_Resources/%E7%9B%AE%E5%89%8D%E4%B8%8E%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C%E7%9B%B8%E5%85%B3%E7%9A%84%E5%8C%BB%E7%96%97%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8.md)，但信息可能有迟滞或过时，因而请再次确认。
+
 [^1]: [Trans student denied coverage for hormone therapy says policy is 'rooted in transphobia' - Henrike Wilhelm · CBC News](https://www.cbc.ca/news/canada/newfoundland-labrador/trans-student-no-hormone-therapy-1-6269186-1.6269186)
 [^2]: 条目名往往为 LGBT rights in xxx。如 [LGBT rights in China](https://en.wikipedia.org/wiki/LGBT_rights_in_China).

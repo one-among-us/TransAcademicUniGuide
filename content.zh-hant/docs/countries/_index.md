@@ -21,5 +21,7 @@ bookToc: false
 
 即便跨性別者在法律上的權利得到保障，甚至已經可以稱作「pass」了，跨性別者（尤其是跨性別女性）也會面臨體系性的性別歧視。因而我們提供世界經濟論壇給出的《全球性別差距報告》以供參考， [點擊此處可以查看2022年報告](https://www.weforum.org/reports/global-gender-gap-report-2022/) 。但此排名也受到了一定的質疑，指責其選用的指標與衡量指標的方式不準確，因而會出現並不能真正代表性別差距的結果，如盧旺達排名虛高。
 
+此外，此處有 [與性別認同相關的醫療資源列表](https://github.com/KristallWang/Transgender-lost-years/blob/master/0002_Medical/Medical_Resources/%E7%9B%AE%E5%89%8D%E4%B8%8E%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C%E7%9B%B8%E5%85%B3%E7%9A%84%E5%8C%BB%E7%96%97%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8.md)，但信息可能有遲滯或過時，因而請再次確認。
+
 [^1]: [Trans student denied coverage for hormone therapy says policy is 'rooted in transphobia' - Henrike Wilhelm · CBC News](https://www.cbc.ca/news/canada/newfoundland-labrador/trans-student-no-hormone-therapy-1-6269186-1.6269186)
 [^2]: 條目名往往為 LGBT rights in xxx。如 [LGBT rights in Taiwan](https://en.wikipedia.org/wiki/LGBT_rights_in_Taiwan).
