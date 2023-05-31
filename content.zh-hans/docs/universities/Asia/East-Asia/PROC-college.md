@@ -1,6 +1,6 @@
 ---
 title: 获得本科学历的相关资讯
-weight: 5
+weight: 10
 bookToc: true
 ---
 
