@@ -19,7 +19,7 @@ The United States of America is currently the world's leading country in science
 
 The United States has a large number of top schools in engineering, science, business, medicine and many other fields, as well as a very large number of head schools, etc. From the point of view of teaching quality it can be said that American education is quite well guaranteed.
 
-However, the biggest problem in the United States is that red states (conservative states) and blue states (liberal states) have different attitudes towards the rights of transgenders. In addition, even within liberal states, there are still transphobic and homophobic attitudes and behaviors.
+However, the biggest problem in the United States is that red states (dominated by the Republican Party and often leaning conservative in policy) and blue states (dominated by the Democratic Party and often leaning liberal in policy) have different attitudes towards the rights of transgenders.
 
 If you are going to a blue state, please check carefully about transgender laws and health care coverage. **If you are going to a red state, please make sure to double check the state's transgender criminalization, laws and regulations regarding transgender**.
 
@@ -27,9 +27,7 @@ If you are going to a blue state, please check carefully about transgender laws 
 
 ### Cost
 
-The top schools in the United States tend to be private universities and therefore have very high tuition costs without scholarships. Also, the cost varies from school to school and we only provide a non-exhaustive list of results. Therefore, it is recommended that you check the cost of tuition at the college of your choice.
-
-According to the College Board, the average tuition in 2022 will be around $26,000 for public universities and $36,000 for private universities. In addition, there is a deposit, the amount of which varies by variable.
+The top schools in the United States tend to be private universities and therefore have very high tuition costs without scholarships.
 
 Some colleges and universities may reimburse transgender individuals for medical expenses, but it is important to note that some states may not be transgender-friendly, so please consider this.
 
@@ -44,17 +42,9 @@ Some organizations also provide references to costs and considerations in the Un
 
 ## Employment
 
-Employment varies from university to university, so if you already have a target university, you can check the data for that university directly.
+Uniformly speaking, the employment situation depends mainly on the region and industry. For example, there is a high demand for graduates in, for example, technology and financial services. Developed states such as Northeast, California, etc. 
 
-Uniformly speaking, the employment situation depends mainly on the region and industry. For example, there is a high demand for graduates in, for example, technology and financial services. Developed states such as Northeast, California, etc. **Note that while Texas is developed, Texas is a red state and has criminalized child gender confirmation surgery. **
-
-The following are U.S. Department of Labor figures for 2022 (non-foreign student employment rates).
-Healthcare: employment rate of about 80% with an average salary of about $70,000/year.
-Technology: Employment rate of about 75%, with an average salary of about $70,000/year.
-Business and Finance: Employment rate is about 70%, with an average salary of about $50,000/year.
-Education: Employment rate is about 65% with an average salary of about $50,000/year.
-
-## Visas
+**Note that while Texas is kinda developed, however, Texas also has criminalized child gender confirmation surgery.**
 
 ### Student Visas
 
