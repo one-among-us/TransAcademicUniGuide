@@ -66,8 +66,8 @@ Regarding physical banks, DBS/Standard Chartered does not have a minimum monthly
 - However, it has been reported that individuals from diverse sexual orientations and gender identities may encounter conservative comments and discrimination in society. Please note that this information is subjective and should be taken as a reference only.
 - Students with a valid student pass can enjoy a 50% discount on movie tickets at Singapore cinemas on weekdays before 5 PM (e.g., Shaw.sg, Golden Village).
 - [This information is time-sensitive] If you take a taxi late at night, unlucky drivers may insist on cash payment only. If you experience social anxiety, you can use Grab's "quiet ride" option for taxi bookings.
-- Although Singapore is a bilingual country, please avoid using overly complex Mandarin/English when communicating with individuals who appear to be of Chinese descent, as they may not understand.
-  
+
+
 ### Accommodation
 
 A significant portion of the living expenses in Singapore comes from rental housing. According to data, the average monthly rental price ranges from SGD 2,000 to SGD 3,500.
