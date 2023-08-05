@@ -12,7 +12,7 @@ bookToc: true
 
 ## 跨性別相關政策與資源
 
-關於在申請居留許可前後與到達後的一些細節，此處有 [文章](https://verbose.linzh.me/posts/2023-start-at-finland/) 可供參考。
+關於在申請居留許可前後與到達後的一些細節，此處有 [文章](/zh-hant/posts/starter-package-finland/) 可供參考。
 
 ### 政策
 

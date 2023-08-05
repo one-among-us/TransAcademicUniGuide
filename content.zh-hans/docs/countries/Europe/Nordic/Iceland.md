@@ -1,5 +1,5 @@
 ---
-title: 冰岛共和国
+title: 冰岛
 weight: 20
 bookToc: true
 ---

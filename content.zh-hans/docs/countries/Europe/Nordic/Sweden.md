@@ -1,10 +1,10 @@
 ---
-title: 瑞典王国
+title: 瑞典
 weight: 1
 bookToc: true
 ---
 
-# 瑞典王国
+# 瑞典
 
 ## 跨性别医疗资源
 
