@@ -1,10 +1,10 @@
 ---
-title: 丹麦王国
+title: 丹麦
 weight: 10
 bookToc: true
 ---
 
-# 丹麦王国
+# 丹麦
 
 ## 跨性别相关资源
 
