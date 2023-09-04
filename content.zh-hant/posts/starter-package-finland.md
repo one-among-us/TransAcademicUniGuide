@@ -1,7 +1,7 @@
 ---
 author: "Anonymous"
 date: 2023-01-12
-linktitle: 來芬蘭的跨性別者新手包
+linktitle: 芬蘭跨性別者新手包
 tags: [
     "經驗分享"]
 categories: [
@@ -10,7 +10,7 @@ categories: [
 menu:
   main:
     parent: tutorials
-title: 來芬蘭的跨性別者新手包
+title: 芬蘭跨性別者新手包
 weight: 1
 ---
 
@@ -24,7 +24,7 @@ weight: 1
 
 ### 申請居留卡
 
-[EnterFinland](EnterFinland.fi) 提供了各種類型的居留許可申請。對於非歐盟用戶，申請成功就有社保號（記住，下面很常用）。
+[EnterFinland](https://enterfinland.fi/) 提供了各种类型的居留许可申请。对于非欧盟用户，往往申请成功就有社保号，但可能部分非長期簽證等有例外情況（請记住這個號碼，下面很常用）。
 
 如果沒有意外，各地都可以提交申請；但如果意外發生了，比如中國的疫情，就需要去北京的芬蘭使館。
 
