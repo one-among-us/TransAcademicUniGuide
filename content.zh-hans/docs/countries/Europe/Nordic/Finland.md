@@ -6,6 +6,7 @@ bookToc: true
 
 # 芬兰
 
+芬兰是一个位于北欧的国家，首都为赫尔辛基。容易找到工作的行业有：通信、软体开发、科技谘询、护理等少数岗位，否则要求较高的芬兰语掌握水平。
 
 ## 跨性别相关政策与资源
 
@@ -40,6 +41,8 @@ bookToc: true
 2023 年 2 月 1 日，芬兰通过了 gender self-identification 法案[^3]，允许跨性别人士自行更改性别，而不需要医生的诊断、手术等任何额外步骤。
 
 关于激素等各类药物的报销规则，请参考 [kela](https://www.kela.fi/medicine-expenses) 的网站。请注意，如果已经在 DVV 註册成功，则可以计入报销额度，否则不计入。标准药物价格可以在 [Medicinal Products Database - Kela](https://asiointi.kela.fi/laakekys_app/LaakekysApplication?kieli=en) 上查询，若在药房取药，需要额外支付 3 欧元左右的递送费。
+
+未成年学生很难获取激素类药物，国内开具的处方药往往也需要重新走诊断流程。
 
 ### 相关组织
 
