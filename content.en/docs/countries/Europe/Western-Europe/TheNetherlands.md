@@ -34,7 +34,7 @@ The colloquium doctum covers various subjects, conducted primarily in Dutch, and
 
 Employment opportunities in the Netherlands are abundant, and many international companies also establish branches there. Besides, there are many local Dutch companies, such as Booking.com.
 
-For standardized professions like doctors and lawyers, proficiency in Dutch is required.
+For regulated professions like doctors and lawyers, proficiency in Dutch is required.
 
 ## Residency
 
