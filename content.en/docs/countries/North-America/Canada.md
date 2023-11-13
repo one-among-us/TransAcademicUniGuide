@@ -6,7 +6,7 @@ bookToc: true
 
 # Canada
 
-Canada is a country located in North America, bordering the United States. In relative terms, obtaining a work permit for the United States is somewhat simpler. Quebec, a province in Canada, has a relatively different social environment, with French as its official language. Therefore, when considering opportunities in Quebec, one needs to take into account their abilities in multiple aspects.
+Canada is a country located in North America, bordering the United States. In relative terms, obtaining a work permit in the United States is somewhat simpler. Quebec, a province in Canada, has a relatively different social environment, with French as its official language. Therefore, when considering opportunities in Quebec, one needs to take into account their abilities in multiple aspects.
 
 ## Transgender-Related Policies and Resources
 
@@ -24,7 +24,7 @@ However, there may be instances where some universities are unable to provide pr
 
 ## Education
 
-Canada's universities are primarily public institutions, making tuition much cheaper compared to the United States. Additionally, there are a significant number of highly-ranked universities. Many programs have different application pathways for domestic and international students, especially academic master's programs, which may not be open to international students but often offer a combined Master's and Ph.D. program as an alternative.
+Canada's universities are primarily public institutions, making tuition much cheaper compared to the United States. Additionally, there are a significant number of highly-ranked universities. Many programs have different application pathways for domestic and international students, especially academic master's programs, which may not be open to international students but often offer a combined Master's and Ph.D. programs as an alternative.
 
 Colleges and universities have different systems. For instance, some colleges may not grant access to the country's healthcare resources and require additional fees, while university students can obtain healthcare insurance similar to that of Canadian citizens. However, in most cases, dental and eye care are not included and require additional payments.
 
