@@ -8,7 +8,7 @@ bookToc: true
 
 ## Transgender Health Resources
 
-In 2022, Sweden prohibits the provision of any hormone and hormone blockers to humans under the age of 18 for non-research purposes. And access to gender-affirming treatment is subject to psychiatric evaluation and must be lived for one year **without any medical help** to identify with the same gender. [^1]
+In 2022, Sweden prohibits the provision of any hormone and hormone blockers to humans under the age of 18 for non-research purposes. Access to gender-affirming treatment is subject to psychiatric evaluation and must be lived for one year **without any medical help** to identify with the same gender. [^1]
 
 As of February 1, 2023, Sweden is the only one of the five Nordic countries that has not passed the gender self-identification act.
 
