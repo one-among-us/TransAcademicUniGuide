@@ -11,17 +11,17 @@ bookToc: true
 **The overwhelming number of negative comments given by transgenders in some states of this country, which may reflect a dangerous environment for transgenders in some states.**
 {{< /hint >}}
 
-The United States of America is currently the world's leading country in science and technology, and offers a relatively sophisticated system in many areas, including education and employment. Although the law prohibits discrimination against transgenders, transgenders are still treated unfairly in many ways, such as prejudice, violence, harassment and some local laws.
+The United States of America is currently the world's leading country in science and technology and offers a relatively sophisticated system in many areas, including education and employment. Although the law prohibits discrimination against transgenders, transgenders are still treated unfairly in many ways, such as prejudice, violence, harassment, and some local laws.
 
 [Erin Reed](https://twitter.com/ErinInTheMorn) published the [2022 Final Anti-Trans Legislation Risk Map](https://erininthemorn.substack.com/p/the-final-anti-trans-legislative). Please be sure to double-check the laws and regulations when you visit dark-red/red/orange states.
 
 ## Study
 
-The United States has a large number of top schools in engineering, science, business, medicine and many other fields, as well as a very large number of head schools, etc. From the point of view of teaching quality it can be said that American education is quite well guaranteed.
+The United States has a large number of top schools in engineering, science, business, medicine, and many other fields, as well as a very large number of head schools, etc. From the point of view of teaching quality, it can be said that American education is quite well guaranteed.
 
 But the biggest issue in the United States lies in the red states (predominantly Republican, often with conservative policies) and the blue states (predominantly Democratic, often with liberal policies) having different attitudes towards the rights of the transgender community. Additionally, even within blue states, there may be instances of transphobia or homophobia, or incidents where students are harmed in the interest of the school. Therefore, it is recommended to gather more information on school-specific Reddit or other discussion forums. Furthermore, if your academic path is strongly tied to a specific advisor, you can obtain more evaluations about that individual through [Rate My Professors](https://www.ratemyprofessors.com/).
 
-If you are going to a blue state, please check carefully about transgender laws and health care coverage. **If you are going to a red state, please make sure to double check the state's transgender criminalization, laws and regulations regarding transgender**.
+If you are going to a blue state, please check carefully about transgender laws and health care coverage. **If you are going to a red state, please make sure to double-check the state's transgender criminalization, laws, and regulations regarding transgender**.
 
 [Red states and blue states - Wikipedia](https://en.wikipedia.org/wiki/Red_states_and_blue_states)
 
@@ -29,7 +29,7 @@ If you are going to a blue state, please check carefully about transgender laws 
 
 ### How to Choose a University/College
 
-As for rankings, almost all university rankings are based on research capabilities, so they are not applicable to undergraduate education. In the US system, undergraduate education includes:
+As for rankings, almost all university rankings are based on research capabilities, so they do not apply to undergraduate education. In the US system, undergraduate education includes:
 
 - Liberal Arts Colleges (LAC)
 - Research Universities
@@ -40,11 +40,11 @@ In comparison to community colleges, larger universities are commonly referred t
 
 For smaller schools, it is important to pay attention to accreditation. Accreditation is similar to the accreditation by the Chinese Ministry of Education, but in the US, it is done through alliances. Business schools can have accreditations such as AACSB, ACBSP, and IACBE. These accreditations are international (so some business schools in Hong Kong and China also have them), and schools with these accreditations are generally good, but not all business schools have them. Without accreditation, further academic advancement may be hindered.
 
-In addition, for undergraduate rankings in the US, Carnegie Classification of Institutions of Higher Education is a useful reference (mainly for the postgraduate stage, R2/R1 universities are very good). US News rankings are also worth considering, but note that liberal arts colleges and universities are ranked separately.
+In addition, for undergraduate rankings in the US, the Carnegie Classification of Institutions of Higher Education is a useful reference (mainly for the postgraduate stage, R2/R1 universities are very good). US News rankings are also worth considering, but note that liberal arts colleges and universities are ranked separately.
 
 The choice of major is very important. For example, Georgetown's International Relations program is considered the best in the US, but other majors may not be as strong. The Media Studies program at the University of Amsterdam is excellent (linguistics is also good), but the focus of the entire school revolves around media studies, so other programs may not be as strong.
 
-Moody Bible College of Chicago, a fundamentalist evangelical theological school, was sued under Title IX for not admitting female students in specific programs after receiving federal funding. Generally, schools with religious backgrounds may not have a positive attitude towards the transgender community, but Notre Dame may be an exception, and they provide generous scholarships.
+Moody Bible College of Chicago, a fundamentalist evangelical theological school, was sued under Title IX for not admitting female students to specific programs after receiving federal funding. Generally, schools with religious backgrounds may not have a positive attitude towards the transgender community, but Notre Dame may be an exception, and they provide generous scholarships.
 
 As a side note, in the US, "full-ride" refers to a full scholarship (usually covering full tuition but not necessarily living expenses). "Standardized scores" refer to standardized test scores, which generally include SAT/ACT and AP scores, as well as language proficiency (or under different high school education systems, IB/A-Level, as mentioned later). "Need-aware" means that scholarships/subsidies require proof of income, "merit-based" means scholarships are based on maintaining academic performance (which can be very stressful and difficult), and "need-blind" means scholarships are given unconditionally (only Stanford, Harvard, and MIT offer need-blind scholarships to international undergraduate students).
 
