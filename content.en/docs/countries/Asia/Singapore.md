@@ -51,7 +51,7 @@ If you wish to save expenses, it is important to consider participating in the m
 
 If your course requires compulsory internships, please carefully consider whether you want to choose a school with this requirement unless you are confident in your abilities to surpass local students, as local protectionism is strictly observed.
 
-If the school accepts payment through flywire and offers local payment options, you can choose to use your domestic Visa/MasterCard along with an international card to avoid high currency conversion fees charged by flywire. If this is not possible, and if conditions permit, you can use Bank of China/Industrial and Commercial Bank of China for cross-border remittance between banks, which can waive remittance fees and provide the lowest exchange rate. Transfers are typically completed on the same day for morning transactions and the next business day for afternoon transactions.
+If the school accepts payment through Flywire and offers local payment options, you can choose to use your domestic Visa/MasterCard along with an international card to avoid high currency conversion fees charged by Flywire. If this is not possible, and if conditions permit, you can use Bank of China/Industrial and Commercial Bank of China for cross-border remittance between banks, which can waive remittance fees and provide the lowest exchange rate. Transfers are typically completed on the same day for morning transactions and the next business day for afternoon transactions.
 
 For users from mainland China who wish to use CNY, it is recommended to use WeChat for daily expenses (with a lower exchange rate). It is necessary to enter the mini-program to obtain the weekly exchange rate card, and WeChat Pay is more widely accepted. In some places such as Food Junction, they refer to it as NETS QR. Please note that support for WeChat Pay implies the use of NETS QR payment, but not all NETS QR terminals support WeChat Pay.
 
@@ -85,15 +85,15 @@ The typical recruitment process is as follows:
 
 1. For hiring fresh graduates, recruitment websites limited to Singaporeans or permanent residents (PR), such as My Careers Future, are commonly used.
 2. For hiring non-fresh graduates, candidates are generally expected to have 3 to 5 years of work experience.
-3. It is challenging to find job positions for fresh graduates that are not listed on platforms like My Careers Future. If you come across a job posting on another website, it is likely to indicate that the company will not provide work visa application support.
+3. It is challenging to find job positions for fresh graduates who are not listed on platforms like My Careers Future. If you come across a job posting on another website, it is likely to indicate that the company will not provide work visa application support.
 
 In summary, employment prospects for fresh graduates may be challenging.
 
-NOTE! If you eventually apply for a Work Permit for employment, please note that the applicant must **not be in Singapore** during the application process. Furthermore, in the current post-pandemic period, Singapore requires individuals to have received both doses of the COVID-19 vaccine in order to apply for a work visa.
+NOTE! If you eventually apply for a Work Permit for employment, please note that the applicant must **not be in Singapore** during the application process. Furthermore, in the current post-pandemic period, Singapore requires individuals to have received both doses of the COVID-19 vaccine to apply for a work visa.
 
 [^1]: [Transgender Healthcare Intervention Threat by Singapore Ministry of Education (in Chinese)](https://global.udn.com/global_vision/story/8664/5228209)
-[^2]: The eligibility for participation in this program is limited to individuals aged 21 and above, who hold permanent residency (PR) or Singaporean citizenship. This information is based on feedback from applicants, and I have screenshots of email replies as evidence. However, the actual need for such shelters among local residents is still subject to further discussion. - ❄️
-[^3]: [Regulations for Renting Out Flats - HDB](https://www.hdb.gov.sg/business/estate-agents-and-salespersons/renting-out-a-flat-or-bedroom/regulations-for-renting-out-flats) The flat owners and all the authorised occupiers must continue to live in the flat with the tenants during the period of rental. In the event that the flat owners and the authorised occupiers do not live in the flat, the approval for renting out bedroom(s) shall be revoked automatically.
+[^2]: The eligibility for participation in this program is limited to individuals aged 21 and above, who hold permanent residency (PR) or Singaporean citizenship. This information is based on feedback from applicants, and I have screenshots of email replies as evidence. However, the actual need for such shelters among residents is still subject to further discussion. - ❄️
+[^3]: [Regulations for Renting Out Flats - HDB](https://www.hdb.gov.sg/business/estate-agents-and-salespersons/renting-out-a-flat-or-bedroom/regulations-for-renting-out-flats) The flat owners and all the authorised occupiers must continue to live in the flat with the tenants during the period of rental. If the flat owners and the authorised occupiers do not live in the flat, the approval for renting out bedroom(s) shall be revoked automatically.
 
 
 The community life, employment, and education aspects of this article are provided by ❄️.
