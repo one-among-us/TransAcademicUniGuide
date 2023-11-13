@@ -21,7 +21,7 @@ bookToc: true
 
 [Details on visa application requirements and more](https://oead.at/en/to-austria/entry-and-residence/)
 
-[Third Country| Students with letter of admission| No mobility programme| No agreement with higher education institution| Residence permit for students staying longer than 6 months](https://oead.at/en/to-austria/entry-and-residence/residence-permit-student-no-mobility-programme)
+[Third Country| Students with letter of admission| No mobility program | No agreement with higher education institution| Residence permit for students staying longer than 6 months](https://oead.at/en/to-austria/entry-and-residence/residence-permit-student-no-mobility-programme)
 
 ## Naturalization
 
