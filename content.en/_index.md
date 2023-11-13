@@ -34,7 +34,7 @@ We would like to receive more information about this.
 - How to find jobs for transgenders in different countries and in different fields
 - etc. Anything you think would be a good addition to this handbook.
 
-If there is another area we should discuss and share, you can also contact us using the email address.
+If there is another area we should talk about and share, you can also contact us using the email address.
 
 ### How to participate
 
