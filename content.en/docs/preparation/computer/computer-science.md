@@ -10,7 +10,7 @@ bookToc: true
 
 ### Algorithm competitions
 
-Algorithm competitions require the design of algorithms to solve problems that are mathematically biased and receive time and language constraints.
+Algorithm competitions require the design of algorithms to solve mathematically biased problems and receive time and language constraints.
 
 ### Program development competitions
 

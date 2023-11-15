@@ -38,7 +38,7 @@ Some examples of institutions.
 
 ## From the beginning to the application
 
-The hardest step in choosing a college is actually finding the range of target colleges that match your current grades and the school you attend. Because we don't have the experience to tell us which range is the one we match.
+The hardest step in choosing a college is finding the range of target colleges that match your current grades and the school you attend. Because we don't have the experience to tell us which range is the one we match.
 
 But other than this step, we were able to get a fair amount of work done.
 
@@ -48,13 +48,13 @@ This step is more subjective, and you can combine our country and region profile
 
 ### Step 2: School List
 
-First of all we need to prepare some tools, such as various school rankings. Such lists are mainly used to let you know which schools you can choose, but please make sure not to be trapped by the rankings, but more importantly to be happy with your life and be able to do research in a field you relatively like. For example:
+First of all, we need to prepare some tools, such as various school rankings. Such lists are mainly used to let you know which schools you can choose, but please make sure not to be trapped by the rankings, but more importantly to be happy with your life and be able to do research in a field you relatively like. For example:
 [QS](https://www.topuniversities.com/university-rankings) , 
 [THE](https://www.timeshighereducation.com/world-university-rankings) , 
 [USNews](https://www.usnews.com/education/best-global-universities/rankings) , 
 [ARWU](https://www.shanghairanking.cn/rankings/arwu/2022) , 
 [CWUR](https://cwur.org/) , 
-etc. The rankings do not represent the actual level of the school, as different rankings have different focuses, some of which we may not care about, but this reference may also be valuable for us if we have no other sources of information. Also note that they tend to rank every year, so you may want to be careful to switch to the latest year.
+etc. The rankings do not represent the actual level of the school, as different rankings have different focuses, some of which we may not care about, but this reference may also be valuable for us if we have no other sources of information. Also, note that they tend to rank every year, so you may want to be careful to switch to the latest year.
 
 It is also important to note that school rankings do not represent subject rankings, and their subject rankings are also a factor to consider. It is also possible to see through some of the subject ranking agencies, which are also not very accurate, but they are free and open data and have considerable reference value.
 
@@ -64,9 +64,9 @@ Among these rankings, you can make a list of the universities in your favorite c
 
 Then, we have to find the majors/programs that you like in these schools.
 
-Specifically, we have to search the name of the school in Google or other search engines and go to the official website. Find the admissions program or program description, and then find a list of all their undergraduate/master's programs. This way we can use a filter or search to find the program we are interested in.
+Specifically, we have to search for the name of the school in Google or other search engines and go to the official website. Find the admissions program or program description, and then find a list of all their undergraduate/master's programs. This way we can use a filter or search to find the program we are interested in.
 
-At this point, you use a table to record all the details of the programs you find. For example, the language requirements, GPA requirements, credit requirements, etc. for this program. In addition often the program's page contains information on tuition and scholarships, which is also important to consider.
+At this point, you use a table to record all the details of the programs you find. For example, the language requirements, GPA requirements, credit requirements, etc. for this program. In addition, often the program's page contains information on tuition and scholarships, which is also important to consider.
 
 Thus, once we have sorted out all the schools' available programs, you can continue to prepare according to the program requirements if you are in the pre-bachelor or high school stage; if you are about to reach the application stage, you can also start to exclude programs that do not meet the requirements.
 

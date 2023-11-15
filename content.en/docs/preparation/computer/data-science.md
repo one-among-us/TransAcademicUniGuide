@@ -18,15 +18,15 @@ The following is only a list of some relatively well-recognized or potentially h
 
 ### Kaggle
 
-[Kaggle](https://www.kaggle.com/competitions) offers both datasets and forums, as well as contests, very valuable site.
+[Kaggle](https://www.kaggle.com/competitions) offers both datasets and forums, as well as contests, a very valuable site.
 
 ### KDD
 
-[KDD](https://www.kdd.org/) , under ACM, is highly recognized and difficult.
+[KDD](https://www.kdd.org/), under ACM, is highly recognized and difficult.
 
 ### Drivendata
 
-[Various competitions](https://www.drivendata.org/) , with prizes.
+[Various competitions](https://www.drivendata.org/), with prizes.
 
 ### ICME
 

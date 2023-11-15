@@ -6,7 +6,7 @@ bookToc: true
 
 # The Netherlands
 
-The English proficiency rate is very high, and it has a relatively high income, lower taxes. At the same time, there is a high degree of social equality, and the society is more friendly towards transgender individuals.
+The English proficiency rate is very high, and it has a relatively high income and lower taxes. At the same time, there is a high degree of social equality, and society is more friendly towards transgender individuals.
 
 ## Transgender Resources and Policies
 
@@ -38,7 +38,7 @@ Typical university tuition fees range from approximately 11-15k euros per year. 
 
 One of the most notable features of Dutch education is the [colloquium doctum](https://nl.wikipedia.org/wiki/Colloquium_doctum) system, as introduced by the [University of Groningen](https://www.rug.nl/fse/beta-studie/praktisch/toelating-inschrijving/colloquiumdoctum). Hence, even if you haven't completed your previous studies, once you turn 21, you can participate in the colloquium doctum examination. If passed, you are considered a high school graduate.
 
-The colloquium doctum covers different topics, hosted by the schools themselves, and is primarily in Dutch. Specifically, the subjects vary depending on the intended major. For example, a bachelor's degree in law requires advanced history, French or German, Dutch, and English. For the French exam, for instance, the level is equivalent to translating a mainstream traditional newspaper article (like French's Le Monde, C1 reading, English equivalent to The Times).
+The colloquium doctum covers different topics, is hosted by the schools themselves, and is primarily in Dutch. Specifically, the subjects vary depending on the intended major. For example, a bachelor's degree in law requires advanced history, French or German, Dutch, and English. For the French exam, for instance, the level is equivalent to translating a mainstream traditional newspaper article (like French's Le Monde, C1 reading, English equivalent to The Times).
 
 ## Employment
 
@@ -48,7 +48,7 @@ Standardized professions like doctors and lawyers require Dutch proficiency.
 
 ## Residency
 
-Housing policies in the Netherlands are relatively strict. Only residents with a clear housing contract can obtain a social security number. In smaller towns, people can often access housing provided by schools. However, in major cities like Amsterdam, housing can be scarce. Notably, even though the Netherlands offers a one-year work visa for graduates, they cannot use school housing during this period.
+Housing policies in the Netherlands are relatively strict. Only residents with a clear housing contract can obtain a Social Security number. In smaller towns, people can often access housing provided by schools. However, in major cities like Amsterdam, housing can be scarce. Notably, even though the Netherlands offers a one-year work visa for graduates, they cannot use school housing during this period.
 
 You need a valid residency for a minimum of five years, followed by a naturalization test and a Dutch proficiency test.
 
@@ -62,7 +62,7 @@ The main part of the "Education" section was provided and corrected by "Xu Yiton
 
 The "Transgender Resources and Policies" section was provided by "μ".
 
-Application-related information was provided by "[K](mailto:ozpin0928@163.com)".
+Application-related information provided by "[K](mailto:ozpin0928@163.com)".
 
 ## Comments & Feedback
 

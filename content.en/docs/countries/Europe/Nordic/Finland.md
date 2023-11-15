@@ -91,9 +91,9 @@ For more information, you can refer to [Employment - Statistics Finland](https:/
 
 ## Accommodation
 
-Most university accommodation is not provided by the university, but by institutions or companies. In the Helsingør area, common organizations include [HOAS](https://www.hoas.fi/en/), [BOTH](https://bothxhome.fi/en/), [UniHome](https://unihome.fi/en/home).
+Most university accommodation is not provided by the university but by institutions or companies. In the Helsingør area, common organizations include [HOAS](https://www.hoas.fi/en/), [BOTH](https://bothxhome.fi/en/), [UniHome](https://unihome.fi/en/home).
 
-Among them, [HOAS](https://www.hoas.fi/en/) provides "Other" gender option in the new [Application System](https://application.hoas.fi/) updated in February 2023.
+Among them, [HOAS](https://www.hoas.fi/en/) provides an "Other" gender option in the new [Application System](https://application.hoas.fi/) updated in February 2023.
 
 [BOTH](https://bothxhome.fi/en/) offers most rooms that are gender neutral, such as Studio.
 
@@ -127,7 +127,7 @@ Regarding proof of property, Finland requires 6,720 Euros/year in the [InfoFinla
 
 ### Class A residence permit
 
-A residence permit is a long-term residence permit that allows the holder to stay and work in Finland, and is usually valid for a period of one to five years, which can be extended on demand.
+A residence permit is a long-term residence permit that allows the holder to stay and work in Finland and is usually valid for a period of one to five years, which can be extended on demand.
 
 After five years, the holder can apply for a permanent residence permit. If certain conditions are met, four years is also sufficient to apply for Finnish citizenship. [^1]
 
