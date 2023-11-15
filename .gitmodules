@@ -1,3 +1,3 @@
 [submodule "hugo-theme-book-oau"]
 	path = themes/book
-	url = git@github.com:one-among-us/hugo-theme-book-oau.git
+	url = https://github.com/one-among-us/hugo-theme-book-oau.git
