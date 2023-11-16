@@ -69,3 +69,19 @@ Application-related information provided by "[K](mailto:ozpin0928@163.com)".
 ### μ
 
 Dutch schools typically offer a diverse and interdisciplinary selection of courses. The number of courses students can choose is not limited, and the drop-out policy is relatively flexible. Moreover, foreign students in the Netherlands can receive assistance from social workers to adapt to local life, such as answering many questions and providing medical information. At the same time, the school system can also be changed to the name you like without using the registered name given. Naturally, sometimes the system is older, so some strange problems do occur.
+
+### ly-nld
+
+**Content has been edited.**
+
+**What kinds of problems that transgender people might face in their careers in this country?**
+
+Social stigma, harassment, gossip...
+
+But that's the same in every country really.... Though, we have laws that make such things illegal.
+
+**How to receive services from the health system?**
+
+For gender clinic "De Vaart" is a 36 week waiting list just to get assigned a psychologist/endocrynologist. Then it's another 40 weeks before you are allowed to be on HRT.
+
+[Email](mailto:dev@lgbt.sh), [GitHub](https://github.com/ly-nld)
