@@ -62,6 +62,8 @@ bookToc: true
 
 简单来说，行业要求、学位与语言是三个重要的部分。
 
+此處以連結的方式分享 [加拿大枫叶卡 从申请到登陆 经验分享 | EE FSW Common Law](https://meow.meowshiba.com/ee-fsw-common-law-application/) 一文，感謝作者 Meow。
+
 ## 致谢
 
 本文医疗、签证、居留、学习等内容由「北雁清凉」提供。
