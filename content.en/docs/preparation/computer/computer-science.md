@@ -6,6 +6,10 @@ bookToc: true
 
 # Computer Science and Technology
 
+## Courses and materials
+
+[CSDIY.wiki](https://csdiy.wiki/en/)
+
 ## Contests
 
 ### Algorithm competitions
