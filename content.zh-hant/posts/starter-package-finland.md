@@ -26,7 +26,8 @@ weight: 100
 
 [EnterFinland](https://enterfinland.fi/) 提供了各种类型的居留许可申请。对于非欧盟用户，往往申请成功就有社保号，但可能部分非長期簽證等有例外情況（請记住這個號碼，下面很常用）。
 
-如果沒有意外，各地都可以提交申請；但如果意外發生了，比如中國的疫情，就需要去北京的芬蘭使館。
+個人推測台灣是在 [芬蘭商務辦事處](https://directory.taiwannews.com.tw/zh-TW/detail/44/995) 提交申請。
+香港為 [芬蘭駐香港總領事館 與 芬蘭共和國駐華大使館](https://www.cma.org.hk/tc/menu/69/market-information/country/details/283)
 
 估計審批時間長度可以在上述網站看。
 
