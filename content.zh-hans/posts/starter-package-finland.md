@@ -11,7 +11,7 @@ menu:
   main:
     parent: tutorials
 title: 芬兰跨性别者新手包
-weight: 1
+weight: 100
 ---
 
 # 来芬兰的跨性别者新手包
