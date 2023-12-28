@@ -26,7 +26,6 @@ Note that if you wish to change your gender marker as well, refer to [Confirmati
 
 The process is as follows:
 - Strong identity verification (e.g., bank, MobileID) allows for the use of online services.
-- For confirming self-identified gender and other reasons, if online services are not an option, use an electronic form with strong identity verification.
 - Download and fill out the form. Then either:
   - 1. Print and mail it to the specified address.
   - 2. Save securely and send to an encrypted email address (ending in .s).
@@ -62,7 +61,7 @@ Given the ambiguity of "other reasons," it's advisable to seek the first three m
 
 After submission, online services will require a fee of 60 or 120 euros, regardless of success.
 
-## Printing and Mailing/Sending Encrypted Forms
+## Printing and Mailing
 
 DVV will take 1-2 months to process your submission. You’ll receive an invoice, and upon payment, the application process will begin.
 

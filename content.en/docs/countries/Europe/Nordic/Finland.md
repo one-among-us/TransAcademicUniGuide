@@ -43,8 +43,16 @@ On February 1, 2023, Finland passed the gender self-identification bill [^3], wh
 
 Please refer to the [kela](https://www.kela.fi/medicine-expenses) website for reimbursement rules for various medications such as hormones. Please note that reimbursement will count if you are already registered with DVV, otherwise it will not count. Standard drug prices can be found at [Medicinal Products Database - Kela](https://asiointi.kela.fi/laakekys_app/LaakekysApplication?kieli=en) and there is an additional delivery fee of about $3 for picking up the drug at the pharmacy. If you pick up your medication at a pharmacy, there is an additional delivery fee of about $3.
 
+Note:
+
+- Before your gender mark in DVV system is changed, hormonal cannot be reimbursed by Kela.
+- It is difficult for underage students to obtain hormone drugs, and your prescribed drugs often require a new diagnosis process.
+
 ### Organizations
 
+- [Seta ry](https://seta.fi/)
+- [TransHelsinki](https://transhelsinki.fi/)
+- [Trans ry](https://transry.fi/)
 - [Sateenkaariperheet ry](https://sateenkaariperheet.fi/)
 - [Trasek ry](https://trasek.fi/)
 

@@ -40,10 +40,15 @@ bookToc: true
 
 關於激素等各類藥物的報銷規則，請參考 [kela](https://www.kela.fi/medicine-expenses) 的網站。請注意，如果已經在 DVV 註冊成功，則可以計入報銷額度，否則不計入。標準藥物價格可以在 [Medicinal Products Database - Kela](https://asiointi.kela.fi/laakekys_app/LaakekysApplication?kieli=en) 上查詢，若在藥房取藥，需要額外支付 3 歐元左右的遞送費。
 
-未成年學生很難獲取激素類藥物，國內開具的處方藥往往也需要重新走診斷流程。
+注意：
+
+- 未更改證件性別標示前，激素類藥物無法獲得 Kela 的報銷。
+- 未成年學生很難獲取激素類藥物，國內開具的處方藥往往也需要重新走診斷流程。
 
 ### 相關組織
-
+- [Seta ry](https://seta.fi/)
+- [TransHelsinki](https://transhelsinki.fi/)
+- [Trans ry](https://transry.fi/)
 - [Sateenkaariperheet ry](https://sateenkaariperheet.fi/)
 - [Trasek ry](https://trasek.fi/)
 

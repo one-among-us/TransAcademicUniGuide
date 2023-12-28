@@ -42,10 +42,16 @@ bookToc: true
 
 关于激素等各类药物的报销规则，请参考 [kela](https://www.kela.fi/medicine-expenses) 的网站。请注意，如果已经在 DVV 註册成功，则可以计入报销额度，否则不计入。标准药物价格可以在 [Medicinal Products Database - Kela](https://asiointi.kela.fi/laakekys_app/LaakekysApplication?kieli=en) 上查询，若在药房取药，需要额外支付 3 欧元左右的递送费。
 
-未成年学生很难获取激素类药物，国内开具的处方药往往也需要重新走诊断流程。
+注意：
+
+- 未更改证件性别标示前，激素类药物无法获得 Kela 的报销。
+- 未成年学生很难获取激素类药物，国内开具的处方药往往也需要重新走诊断流程。
 
 ### 相关组织
 
+- [Seta ry](https://seta.fi/)
+- [TransHelsinki](https://transhelsinki.fi/)
+- [Trans ry](https://transry.fi/)
 - [Sateenkaariperheet ry](https://sateenkaariperheet.fi/)
 - [Trasek ry](https://trasek.fi/)
 
