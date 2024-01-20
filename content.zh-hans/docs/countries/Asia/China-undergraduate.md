@@ -6,4 +6,4 @@ bookToc: true
 
 # 中国本科志愿填报
 
-本文转移至 [此处](/docs/universities/Asia/East-Asia/PROC-undergraduate).
+本文转移至 [此处](/docs/universities/Asia/East-Asia/China-undergraduate).
