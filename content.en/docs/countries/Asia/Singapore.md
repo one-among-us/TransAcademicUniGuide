@@ -12,7 +12,16 @@ Singapore's level of acceptance towards the LGBTQA+ community is not considered 
 
 [LGBT rights in Singapore from wikipedia](https://en.wikipedia.org/wiki/LGBT_rights_in_Singapore)
 
-## Transgender related
+## Transgender Resources
+
+### Medical
+
+[Singapore HRT Overview - MtF.wiki](https://mtf.wiki/zh-cn/docs/hrt/singapore/overview/)
+
+If you wish to bring in medications from outside Singapore, please check [Bringing personal medications into Singapore - HSA](https://www.hsa.gov.sg/personal-medication). Specifically, as of January 2024, Singapore allows individuals to bring in non-controlled types of medicines for a period of up to three months. If the dosage is longer than three months or the type of medicine is controlled, an application is required, see [Submit application for approval to bring in personal medications - HSA]((wiki)).
+(https://www.hsa.gov.sg/personal-medication/submit-application-for-approval-to-bring-in-personal-medications-(new)). It is also important to note that injectables are not allowed to be brought in.
+
+As an international student, access to gender-affirming hormone medications is primarily through public healthcare, and more information can be found at [Healthcare - TransgenderSG](https://transgendersg.com/healthcare/). Meanwhile, [TransgenderSG](https://transgendersg.com) also provides answers to frequently asked questions, such as document modification.
 
 ### Organizations
 
@@ -33,9 +42,6 @@ Organizations providing assistance and counseling services:
 
 If you encounter any violence-related situations, you can generally call the helpline numbers provided by the above organizations for consultation.
 
-## HRT/GAHT
-
-[HRT Overview in Singapore - MtF.wiki](https://mtf.wiki/en/docs/hrt/singapore/overview/)
 
 ## Education
 
@@ -45,7 +51,7 @@ In terms of academic difficulty, according to feedback from students, the level 
 
 ### Costs and Finances
 
-If you are open to sharing accommodations, the monthly rental cost typically starts at 600 Singapore dollars (SGD). If you prefer not to share, the starting price would be at least 1000 SGD. Unless your family resides near the school, the daily transportation cost by public bus is approximately 3 SGD (for closer locations) or 5 SGD (for slightly farther places). The cost of each meal can be around 4 SGD if you opt for budget options (excluding more expensive dishes, which can range from 6 to 8 SGD). Housing prices have been continuously rising, and future rental costs are expected to become more expensive. If you have long-term commuting needs, consider purchasing an electric scooter as an option.
+NTU's student apartments are strictly binary according to documentation. At the same time, the choice of housing is based on a lottery system, so there is a chance that you will be drawn into a single dormitory. A student apartment is about S$600-700/month. If you are renting a room, it is about S$800-1400/month. The price depends on the location of your school, e.g. NTU is more remote, while NUS is near the port and therefore more expensive.
 
 If you wish to save expenses, it is important to consider participating in the monthly cashback program offered by the EZ-Link APP. This application allows you to earn up to 3% cashback on selected redemption items and is known as the application with the highest cashback available among Singapore's stored value cards, without any preconditions. EZ-Link can be used for purchases at convenience stores or via a MasterCard wallet for transactions at POS terminals. However, it should be noted that not all places in Singapore support MasterCard/Visa payment methods. In hawker centers, it is more common to use QR code payments.
 
@@ -91,9 +97,13 @@ In summary, employment prospects for fresh graduates may be challenging.
 
 NOTE! If you eventually apply for a Work Permit for employment, please note that the applicant must **not be in Singapore** during the application process. Furthermore, in the current post-pandemic period, Singapore requires individuals to have received both doses of the COVID-19 vaccine to apply for a work visa.
 
+
+
+## Acknowledgements
+
+The community life, employment, and education aspects of this article are provided by ❄️.
+
+
 [^1]: [Transgender Healthcare Intervention Threat by Singapore Ministry of Education (in Chinese)](https://global.udn.com/global_vision/story/8664/5228209)
 [^2]: The eligibility for participation in this program is limited to individuals aged 21 and above, who hold permanent residency (PR) or Singaporean citizenship. This information is based on feedback from applicants, and I have screenshots of email replies as evidence. However, the actual need for such shelters among residents is still subject to further discussion. - ❄️
 [^3]: [Regulations for Renting Out Flats - HDB](https://www.hdb.gov.sg/business/estate-agents-and-salespersons/renting-out-a-flat-or-bedroom/regulations-for-renting-out-flats) The flat owners and all the authorised occupiers must continue to live in the flat with the tenants during the period of rental. If the flat owners and the authorised occupiers do not live in the flat, the approval for renting out bedroom(s) shall be revoked automatically.
-
-
-The community life, employment, and education aspects of this article are provided by ❄️.

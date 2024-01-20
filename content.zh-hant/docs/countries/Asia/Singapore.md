@@ -8,11 +8,23 @@ bookToc: true
 
 新加坡位於東南亞的島國，被譽為亞洲的金融中心。新加坡的主要產業包括金融、航空、科技、製藥和商業服務。新加坡有華人、印度人、馬來人和其它族裔的居民。官方語言是英語，但大多數人還會說中文、馬來語或印地語。
 
-新加坡對LGBTQA+的包容度並不算高，在2022年年中，新加坡才完成了男性同性性行為的去罪化，同時又在國會中確認了婚姻為「男女」之間的關係，以避免相關挑戰。同時，官方也限制LGBTQA+內容的宣傳，民眾思想也更趨向保守。從某些角度來看，新加坡只在法律上開放，而在實際生活中卻仍然以保守的方式做事。[^1]
+新加坡對性別多元的包容度並不算高，在2022年年中，新加坡才完成了男性同性性行為的去罪化，同時又在國會中確認了婚姻為「男女」之間的關係，以避免相關挑戰。同時，官方也限制 LGBTQA+ 內容的宣傳，民眾思想也更趨向保守。從某些角度來看，新加坡只在法律上開放，而在實際生活中卻仍然以保守的方式做事。[^1]
 
 [新加坡LGBT權益 from wikipedia](https://zh.wikipedia.org/zh-cn/%E6%96%B0%E5%8A%A0%E5%9D%A1LGBT%E6%9D%83%E7%9B%8A)
 
 ## 跨性別相關
+
+
+### 醫療
+
+[新加坡 HRT 綜述 - MtF.wiki](https://mtf.wiki/zh-cn/docs/hrt/singapore/overview/)
+
+如果您希望從新加坡境外協帶藥物入境，請查詢 [Bringing personal medications into Singapore - HSA](https://www.hsa.gov.sg/personal-medication)。具體來說，截至 2024 年 1 月，新加坡允許個人協帶不超過三個月的非管制類型藥品入境，若劑量超過三個月或藥品類型受管控，需要申請，具體請查看 [Submit application for approval to bring in personal medications - HSA]
+(https://www.hsa.gov.sg/personal-medication/submit-application-for-approval-to-bring-in-personal-medications-(new))。同時，需要注意的是，注射劑是不允許協帶的。
+
+作為國際生，性別肯定荷爾蒙藥物的獲取途徑主要是公立醫療，更多信息可以在 [Healthcare - TransgenderSG](https://transgendersg.com/healthcare/) 中找到。同時，[TransgenderSG](https://transgendersg.com) 也提供了一些常見問題的解答，如證件修改等，可以前往查閱。
+
+
 
 ### 社群
 
@@ -31,11 +43,8 @@ bookToc: true
 - [Association of Women for Action and Research (AWARE)](https://sacc.aware.org.sg)
 - [Pave](https://www.pave.org.sg)
 
-如果遇到暴力情況，基本上都可以給上述幾個機構打電話諮詢。
+如果遇到緊急情況，基本上都可以給上述幾個機構打電話諮詢。
 
-### 醫療
-
-[新加坡 HRT 綜述 - MtF.wiki](https://mtf.wiki/zh-cn/docs/hrt/singapore/overview/)
 
 
 ## 學習
@@ -70,9 +79,10 @@ bookToc: true
 - 【本信息具有強時效性】半夜打出租車，運氣不好司機可能要求你只能使用現金支付。如果您是社恐，可以使用 Grab 的 quiet ride 選項打車。
 
 
+
 ### 住宿
 
-更大的生活成本來自於租房。根據數據，新加坡的租房價格每月平均約為 SGD 2,000 至 SGD 3,500 不等。
+NTU 的學生公寓比較嚴格地按照證件區分登記二元性別。同時，房屋的選擇是抽籤制，所以有概率抽到單人宿舍。學生公寓大概是 600-700 新元/月。如果自己租房大概是 800-1400 新元/月，價格取決於您所就讀的學校的位置，如 NTU 較為偏遠，而 NUS 在港口附近因而貴一些。
 
 對於新入學且無從知曉的學生，有些學校可能會推薦一些房屋供他們選擇（除了自建宿舍並以較低價格出租給學生的學校，如 NTU）。這些房屋通常會有一個連帶的綁定條件，需要先支付高價租金入住三個月。如果有條件，建議和 2-3 個人一起租整套房子或工作室，平均價格可以控制在 600-800 SGD（取決於人數分攤）。如果您租的是 HDB（政府公屋）而不是私人住宅，則需要支付 0.4% 的印花稅。除非是新加坡本地人或馬來西亞人（甚至包括永久居民 PR ），同一個人在 HDB 的地址連續租住時間最長只能為 2 年。然而，由於 HDB 是由政府管理的房屋，品質相對較好。租期不能少於 6 個月。
 
@@ -95,10 +105,12 @@ bookToc: true
 
 
 
+## 致謝
+
+- 本條目的社群生活、就業、學習部分由 ❄️ 提供資訊。
+
 
 [^1]: [她－他風暴：新加坡教育部威脅「跨性別診療」幹預事件](https://global.udn.com/global_vision/story/8664/5228209)
 [^2]: 參與此項目的資格限定為年滿 21 歲、持有永久居民（PR）或新加坡國籍。這個資訊是基於申請者的回饋，我也有郵件回覆的截圖作為證據。然而，是否本地居民真的需求這樣的庇護所，還有待進一步探討。 —— ❄️
 [^3]: [Regulations for Renting Out Flats - HDB](https://www.hdb.gov.sg/business/estate-agents-and-salespersons/renting-out-a-flat-or-bedroom/regulations-for-renting-out-flats) The flat owners and all the authorised occupiers must continue to live in the flat with the tenants during the period of rental. In the event that the flat owners and the authorised occupiers do not live in the flat, the approval for renting out bedroom(s) shall be revoked automatically.
 
-
-本條目的社群生活、就業、學習部分由 ❄️ 提供資訊。

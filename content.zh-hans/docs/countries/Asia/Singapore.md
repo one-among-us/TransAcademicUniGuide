@@ -14,6 +14,19 @@ bookToc: true
 
 ## 跨性别相关
 
+
+### 医疗
+
+[新加坡 HRT 综述 - MtF.wiki](https://mtf.wiki/zh-cn/docs/hrt/singapore/overview/)
+
+如果您希望从新加坡境外协带药物入境，请查询 [Bringing personal medications into Singapore - HSA](https://www.hsa.gov.sg/personal-medication)。具体来说，截至 2024 年 1 月，新加坡允许个人协带不超过三个月的非管制类型药品入境，若剂量超过三个月或药品类型受管控，需要申请，具体请查看 [Submit application for approval to bring in personal medications - HSA]
+(https://www.hsa.gov.sg/personal-medication/submit-application-for-approval-to-bring-in-personal-medications-(new))。同时，需要注意的是，注射剂是不允许协带的。
+
+作为国际生，性别肯定荷尔蒙药物的获取途径主要是公立医疗，更多信息可以在 [Healthcare - TransgenderSG](https://transgendersg.com/healthcare/) 中找到。同时，[TransgenderSG](https://transgendersg.com) 也提供了一些常见问题的解答，如证件修改等，可以前往查阅。
+
+
+
+
 ### 社群
 
 但根据反馈，根据文化，基本都是本地人优先，因而可能无法获得很好的支持。比如 T Shelter 计画，非新加坡人可能无法获得其培训。[^2]
@@ -32,10 +45,6 @@ bookToc: true
 - [Pave](https://www.pave.org.sg)
 
 如果遇到暴力情况，基本上都可以给上述几个机构打电话谘询。
-
-### 医疗
-
-[新加坡 HRT 综述 - MtF.wiki](https://mtf.wiki/zh-cn/docs/hrt/singapore/overview/)
 
 
 
@@ -73,7 +82,7 @@ bookToc: true
 
 ### 住宿
 
-更大的生活成本来自于租房。根据数据，新加坡的租房价格每月平均约为 SGD 2,000 至 SGD 3,500 不等。
+NTU 的学生公寓，比较严格地按照证件区分登记二元性别。同时，房屋的选择是抽籤制，所以有概率抽到单人宿舍。学生公寓大概是 600-700 新元/月。如果自己租房大概是 800-1400 新元/月，价格取决于您所就读的学校的位置，如 NTU 较为偏远，而 NUS 在港口附近因而贵一些。
 
 对于新入学且无从知晓的学生，有些学校可能会推荐一些房屋供他们选择（除了自建宿舍并以较低价格出租给学生的学校，如 NTU）。这些房屋通常会有一个连带的绑定条件，需要先支付高价租金入住三个月。如果有条件，建议和 2-3 个人一起租整套房子或工作室，平均价格可以控制在 600-800 SGD（取决于人数分摊）。如果您租的是 HDB（政府公屋）而不是私人住宅，则需要支付 0.4% 的印花税。除非是新加坡本地人或马来西亚人（甚至包括永久居民PR），同一个人在 HDB 的地址连续租住时间最长只能为2年。然而，由于HDB是由政府管理的房屋，品质相对较好。租期不能少于6个月。
 
@@ -96,10 +105,11 @@ bookToc: true
 
 
 
+## 致谢
+
+- 本条目的社群生活、就业、学习部分由 ❄️ 提供资讯。
 
 [^1]: [她－他风暴：新加坡教育部威胁「跨性别诊疗」干预事件](https://global.udn.com/global_vision/story/8664/5228209)
 [^2]: 参与此项目的资格限定为年满 21 岁、持有永久居民（PR）或新加坡国籍。这个资讯是基于申请者的回馈，我也有邮件回复的截图作为证据。然而，是否本地居民真的需求这样的庇护所，还有待进一步探讨。 —— ❄️
 [^3]: [Regulations for Renting Out Flats - HDB](https://www.hdb.gov.sg/business/estate-agents-and-salespersons/renting-out-a-flat-or-bedroom/regulations-for-renting-out-flats) The flat owners and all the authorised occupiers must continue to live in the flat with the tenants during the period of rental. In the event that the flat owners and the authorised occupiers do not live in the flat, the approval for renting out bedroom(s) shall be revoked automatically.
 
-
-本条目的社群生活、就业、学习部分由 ❄️ 提供资讯。
