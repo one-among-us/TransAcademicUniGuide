@@ -19,8 +19,7 @@ bookToc: true
 
 [新加坡 HRT 综述 - MtF.wiki](https://mtf.wiki/zh-cn/docs/hrt/singapore/overview/)
 
-如果您希望从新加坡境外协带药物入境，请查询 [Bringing personal medications into Singapore - HSA](https://www.hsa.gov.sg/personal-medication)。具体来说，截至 2024 年 1 月，新加坡允许个人协带不超过三个月的非管制类型药品入境，若剂量超过三个月或药品类型受管控，需要申请，具体请查看 [Submit application for approval to bring in personal medications - HSA]
-(https://www.hsa.gov.sg/personal-medication/submit-application-for-approval-to-bring-in-personal-medications-(new))。同时，需要注意的是，注射剂是不允许协带的。
+如果您希望从新加坡境外协带药物入境，请查询 [Bringing personal medications into Singapore - HSA](https://www.hsa.gov.sg/personal-medication)。具体来说，截至 2024 年 1 月，新加坡允许个人协带不超过三个月的非管制类型药品入境，若剂量超过三个月或药品类型受管控，需要申请，具体请查看 [Submit application for approval to bring in personal medications - HSA](https://www.hsa.gov.sg/personal-medication/submit-application-for-approval-to-bring-in-personal-medications-(new))。同时，需要注意的是，注射剂是不允许协带的。
 
 作为国际生，性别肯定荷尔蒙药物的获取途径主要是公立医疗，更多信息可以在 [Healthcare - TransgenderSG](https://transgendersg.com/healthcare/) 中找到。同时，[TransgenderSG](https://transgendersg.com) 也提供了一些常见问题的解答，如证件修改等，可以前往查阅。
 

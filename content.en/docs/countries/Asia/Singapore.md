@@ -18,8 +18,7 @@ Singapore's level of acceptance towards the LGBTQA+ community is not considered 
 
 [Singapore HRT Overview - MtF.wiki](https://mtf.wiki/zh-cn/docs/hrt/singapore/overview/)
 
-If you wish to bring in medications from outside Singapore, please check [Bringing personal medications into Singapore - HSA](https://www.hsa.gov.sg/personal-medication). Specifically, as of January 2024, Singapore allows individuals to bring in non-controlled types of medicines for a period of up to three months. If the dosage is longer than three months or the type of medicine is controlled, an application is required, see [Submit application for approval to bring in personal medications - HSA]((wiki)).
-(https://www.hsa.gov.sg/personal-medication/submit-application-for-approval-to-bring-in-personal-medications-(new)). It is also important to note that injectables are not allowed to be brought in.
+If you wish to bring in medications from outside Singapore, please check [Bringing personal medications into Singapore - HSA](https://www.hsa.gov.sg/personal-medication). Specifically, as of January 2024, Singapore allows individuals to bring in non-controlled types of medicines for a period of up to three months. If the dosage is longer than three months or the type of medicine is controlled, an application is required, see [Submit application for approval to bring in personal medications - HSA](https://www.hsa.gov.sg/personal-medication/submit-application-for-approval-to-bring-in-personal-medications-(new)). It is also important to note that injectables are not allowed to be brought in.
 
 As an international student, access to gender-affirming hormone medications is primarily through public healthcare, and more information can be found at [Healthcare - TransgenderSG](https://transgendersg.com/healthcare/). Meanwhile, [TransgenderSG](https://transgendersg.com) also provides answers to frequently asked questions, such as document modification.
 
