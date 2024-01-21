@@ -100,7 +100,8 @@ NOTE! If you eventually apply for a Work Permit for employment, please note that
 
 ## Acknowledgements
 
-The community life, employment, and education aspects of this article are provided by ❄️.
+- The community life, employment, and education aspects of this article are provided by ❄️.
+- The medical and lodging portion of this entry was provided by Beiyan Qingmei.
 
 
 [^1]: [Transgender Healthcare Intervention Threat by Singapore Ministry of Education (in Chinese)](https://global.udn.com/global_vision/story/8664/5228209)
