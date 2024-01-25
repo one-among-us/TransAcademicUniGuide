@@ -75,7 +75,7 @@ Colloquium doctum 有不同的主題，由學校自行舉辦，並主要以荷�
 
 荷蘭的學校通常提供多樣化和跨專業的課程選擇，學生的選課數量不受限制，且退課政策相對寬鬆。此外，國外學生到荷蘭後可以獲得社工的幫助來適應當地生活，比如社工可以回答許多問題也可以提供如何獲得醫療資訊等。
 
-### ly-nld
+### cvyl
 
 **原內容為英文，且有修改。**
 
@@ -89,4 +89,4 @@ Colloquium doctum 有不同的主題，由學校自行舉辦，並主要以荷�
 
 在 De Vaart 性別診所，光是安排心理學家/內科醫師就需要等待 36 周。然後還要再等 40 周才允許使用 HRT。
 
-[Email](mailto:dev@lgbt.sh), [GitHub](https://github.com/ly-nld)
+[Email](mailto:cvyl@pm.me), [GitHub](https://github.com/cvyl)
