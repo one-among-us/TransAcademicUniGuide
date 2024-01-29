@@ -16,7 +16,6 @@ Due to frequent changes in educational policies, we recommend that you regularly
 
 In Germany, majors are generally divided into restricted (NC) and unrestricted (No NC) categories. Admission to restricted majors may be based on the applicant's grades and waiting time. In contrast, unrestricted majors offer admission opportunities once basic entry requirements are met.
 
-
 ### Undergraduate Programs
 
 Most undergraduate courses require a certain level of German proficiency, with language requirements varying from B2 to C2, depending on the major.
@@ -51,7 +50,6 @@ Germany offers student dormitories, which can be found by searching for "city na
 
 If you plan to rent private housing, we advise take care of making reservations from abroad. Renting in Germany usually involves a security deposit, and there is a risk of fraud. A recommended approach is to temporarily live in a local youth hostel or budget hotel for 2-4 weeks and confirm rental arrangements through offline contacts during this period.
 
-
 ## Transgender-Related Topics
 
 ### Policies and Social Attitudes
@@ -83,7 +81,7 @@ Germany offers two types of health insurance: public and private. Public insuran
 
 Germany still uses the ICD-10 standard, which classifies gender incongruence under mental health disorders. Therefore, the primary treatment is typically initiated by a psychiatrist with an F64 diagnosis. However, waiting times for psychiatric appointments can be long, about 3-6 months, so it's advisable to book an appointment as soon as you arrive in Germany (usually only possible by phone). During this period, you cannot legally obtain hormone therapy. An F64 diagnosis is essential for obtaining hormone therapy and scheduling surgeries.
 
-The German transgender community has compiled a list of qualified and experienced medical professionals, which can be accessed at [TransDB.de](https://transdb.de/). Due to the possibility of fully booked appointments, it's recommended to try scheduling with multiple doctors.
+The German transgender community has compiled a list of qualified and experienced medical professionals, which can be accessed at [Trans'database - TransDB.de](https://transdb.de/). Due to the possibility of fully booked appointments, it's recommended to try scheduling with multiple doctors.
 
 If you have a history of hormone therapy, you are likely to get hormone treatment medication after the first or second visit. You can then obtain hormone medication by presenting the relevant proof at an endocrinology department. It's important to note that injectable estrogen is not supported in Germany. Similarly, voice therapy referrals can be obtained through this process, with the cost covered by health insurance. Theoretically, hair removal treatments can also be applied for, but the reimbursement process may involve complications.
 
@@ -93,9 +91,7 @@ For gender confirmation surgery, you need an F64-0 diagnosis in Germany as per t
 
 After obtaining 12 months of psychological therapy records and the aforementioned psychiatric diagnosis, you can schedule a pre-surgery consultation at a public hospital. During the pre-surgery consultation, you will need to provide relevant proof. If everything goes smoothly, you can undergo surgery within 6-9 months.
 
-
-
-For more resources and information on transgender medical care, visit [QZ TS MUC](https://www.qz-ts-muc.de/).
+For more resources and information on transgender healthcare, partners in Munich can visit [QZ TS MUC](https://www.qz-ts-muc.de/) for more resources in Munich, while self-help groups [TXKöln - Selbsthilfegruppe für transgeschlechtliche Menschen](https://www.txkoeln.de/) and [r/germantrans](https://www.reddit.com/r/germantrans/) on Reddit provide a wider range of multi-trans-related information.
 
 #### Visiting a Psychiatrist
 
@@ -104,8 +100,6 @@ In Germany, if you have an appointment with a psychiatrist, the typical visit fr
 Especially if you have already started hormone therapy in China, German doctors are more likely to help you continue this treatment. Regarding medication, the main regimen for feminizing hormone therapy is CPA+Estradiol. However, masculinizing hormone therapy, primarily using testosterone, is subject to stricter management. In cases where substitute drugs are available, German health insurance prefers these over the original research drugs. Drug prices can be checked on websites like [Shop-Apotheke](https://www.shop-apotheke.com/).
 
 In Germany, the management of psychiatric medications is stricter, and only psychiatrists can prescribe these drugs. For example, in TransDB, under the Therapeut\*in/Psychiater\*in category, the former (therapist) cannot prescribe psychiatric drugs, only the latter (psychiatrist) can. Even with a psychiatrist, it may take multiple visits to obtain a prescription, and the standards for diagnosis are usually high.
-
-
 
 ## Work Environment and Regional Introduction in Germany
 
@@ -127,7 +121,7 @@ After graduating in Germany, you can relatively freely search for jobs nationwid
 
 ## Acknowledgments
 
-This article's sections on study, transgender-related issues, work, and other topics were contributed by Arts Suraimu "史莱姆". Content compiled from 史莱姆's live streams with permission. The recording can be viewed on: [Youtube (in Chinese)](https://www.youtube.com/watch?v=QWJM5D8MeuE).
+This article's sections on study, transgender-related issues, work, and other topics were contributed by [Arts Suraimu 史莱姆](t.me/artssuraimu). Content compiled from 史莱姆's live streams with permission. The recording can be viewed on: [Youtube (in Chinese)](https://www.youtube.com/watch?v=QWJM5D8MeuE).
 
 [^1]: [German Transsexual Act](https://www.gesetze-im-internet.de/tsg/BJNR016540980.html)
 [^2]: [Information and Meeting Regarding the Ruling of the BSG on 29-10-2023](https://trans-recht.de/information-und-treffen-zum-urteil-des-bsg-am-29-10-2023-1100uhr-am-wall-190/)
