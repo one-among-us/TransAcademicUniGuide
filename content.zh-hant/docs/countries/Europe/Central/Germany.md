@@ -121,7 +121,7 @@ bookToc: true
 
 ## 致謝
 
-本文學習、跨性別相關、工作、其他部分，由 [Arts Suraimu 史莱姆](t.me/artssuraimu) 貢獻。內容整理自史萊姆的直播，已獲得授權。錄播內容可以在以下平台觀看： [Youtube](https://www.youtube.com/watch?v=QWJM5D8MeuE), [Bilibili](https://www.bilibili.com/video/BV1Vk4y1U7Bd).
+本文學習、跨性別相關、工作、其他部分，由 [Arts Suraimu 史莱姆](https://t.me/artssuraimu) 貢獻。內容整理自史萊姆的直播，已獲得授權。錄播內容可以在以下平台觀看： [Youtube](https://www.youtube.com/watch?v=QWJM5D8MeuE), [Bilibili](https://www.bilibili.com/video/BV1Vk4y1U7Bd).
 
 [^1]: https://www.gesetze-im-internet.de/tsg/BJNR016540980.html
 [^2]: https://trans-recht.de/information-und-treffen-zum-urteil-des-bsg-am-29-10-2023-1100uhr-am-wall-190/

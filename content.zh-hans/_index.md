@@ -16,7 +16,7 @@ bookToc: false
 
 ## 快速导航
 
-[高考志愿填报](docs/universities/Asia/East-Asia/PROC-undergraduate/)
+[高考志愿填报](docs/universities/Asia/East-Asia/China-undergraduate/)
 
 ## 受众
 
@@ -33,6 +33,7 @@ Github: [TransAcademicUniGuidance](https://github.com/one-among-us/TransAcademic
 ### 内容取向
 
 我们希望收到更多信息关于：
+
 - 不同国家/学校的状况，可以指明具体的大学/研究机构；
 - 如何更好的在高中/本科阶段完成**学术道路**的探索；
 - 有什么样的技能是**工业界的研究或开发**常用的，如何准备此类技能；

@@ -121,7 +121,7 @@ After graduating in Germany, you can relatively freely search for jobs nationwid
 
 ## Acknowledgments
 
-This article's sections on study, transgender-related issues, work, and other topics were contributed by [Arts Suraimu 史莱姆](t.me/artssuraimu). Content compiled from 史莱姆's live streams with permission. The recording can be viewed on: [Youtube (in Chinese)](https://www.youtube.com/watch?v=QWJM5D8MeuE).
+This article's sections on study, transgender-related issues, work, and other topics were contributed by [Arts Suraimu 史莱姆](https://t.me/artssuraimu). Content compiled from 史莱姆's live streams with permission. The recording can be viewed on: [Youtube (in Chinese)](https://www.youtube.com/watch?v=QWJM5D8MeuE).
 
 [^1]: [German Transsexual Act](https://www.gesetze-im-internet.de/tsg/BJNR016540980.html)
 [^2]: [Information and Meeting Regarding the Ruling of the BSG on 29-10-2023](https://trans-recht.de/information-und-treffen-zum-urteil-des-bsg-am-29-10-2023-1100uhr-am-wall-190/)
