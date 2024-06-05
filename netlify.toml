@@ -1,0 +1,10 @@
+[[redirects]]
+from = "/zh-hans/docs/universities/asia/east-asia/proc-undergraduate/"
+to = "/zh-hans/docs/universities/asia/east-asia/china-undergraduate/"
+status = 301
+force = false
+[[redirects]]
+from = "/zh-hans/docs/universities/asia/east-asia/proc-majors/"
+to = "/zh-hans/docs/universities/asia/east-asia/china-majors/"
+status = 301
+force = false
