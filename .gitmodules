@@ -1,3 +1,4 @@
 [submodule "hugo-theme-book-oau"]
 	path = themes/book
-	url = https://github.com/one-among-us/hugo-theme-book-oau.git
+	url = https://github.com/Linzh7/hugo-book.git
+	branch = force-lowercase
