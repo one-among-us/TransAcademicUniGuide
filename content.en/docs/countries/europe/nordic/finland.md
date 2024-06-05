@@ -28,16 +28,9 @@ More information could be found at [Sukupuolen vahvistaminen - DVV](https://dvv.
 
 ### Medical Resources
 
-
-{{< hint info >}}
-**Content currency and accuracy remain to be seen**
-
-See [Github issue](https://github.com/one-among-us/TransAcademicUniGuide/issues/2) for related discussion .
-{{< /hint >}}
-
 Student Health Services, by [Finnish Student Health Service](https://www.yths.fi/en/frontpage/). FSHS provides dental psychology and general outpatient services, and will refer you to other hospitals if your condition/request cannot be handled by a physician. In the Helsinki region it is often the [Helsinki University Hospital (HUS)](https://www.hus.fi/en).
 
-As a foreign student, hormonal medications are relatively easy to obtain in Finland and FSHS can often provide prescriptions (*this information needs to be further verified*). If additional needs arise, a referral can be requested, but the queue is longer. As a result, some transgender patients apply for referrals in [GenderGP](../#gendergp) to obtain prescriptions.
+As a foreign student, hormonal medications are relatively easy to obtain in Finland and FSHS can often provide prescriptions (_this information needs to be further verified_). If additional needs arise, a referral can be requested, but the queue is longer. As a result, some transgender patients apply for referrals in [GenderGP](../#gendergp) to obtain prescriptions.
 
 On February 1, 2023, Finland passed the gender self-identification bill [^3], which allows transgender people to change their gender without any additional steps such as diagnosis or surgery by a doctor.
 
@@ -61,6 +54,7 @@ Note:
 In Finland's education system, there are two main types of higher education institutions: universities and universities of applied sciences, with some differences between them.
 
 1. Universities
+
    - Universities in Finland provide more traditional academic education, emphasizing research and in-depth study in academic fields.
    - Universities offer more master's and doctoral programs, allowing students to obtain higher degrees such as Master's degrees and Doctorate degrees.
    - Universities typically offer a wide range of disciplines in areas such as theory, science, engineering, medicine, arts, and humanities.
@@ -110,12 +104,12 @@ Among them, [HOAS](https://www.hoas.fi/en/) provides an "Other" gender option in
 ### Fees
 
 Tuition fees in Finland range from approximately EUR 4,000 to EUR 18,000 per year. [StudyInFinland](https://www.studyinfinland.fi/admissions/fees-and-costs) also has an overview page. Different schools also have pages with information about the cost of living in their cities, such as.
+
 - [Cost of Living and Financial Matters - University of Helsinki](https://www.helsinki.fi/en/admissions-and-education/international-students/student-life-helsinki/cost-living- and-financial-matters)
 - Tuition and Scholarships - Aalto University](https://into.aalto.fi/display/enopisk/Tuition+fees+and+scholarships)
 - [Financial Matters - Aalto University](https://into.aalto.fi/display/enopisk/Financial+matters)
 
-*The Aalto University website is in the process of being migrated and may be subject to future changes.
-
+\*The Aalto University website is in the process of being migrated and may be subject to future changes.
 
 ## Employment
 
@@ -142,7 +136,6 @@ After five years, the holder can apply for a permanent residence permit. If cert
 ### Type B residence permit
 
 Residence permit category B is a temporary residence permit and does not count towards the application for permanent residency.
-
 
 [^1]: [Finnish Immigration Service: Finnish nationality](https://migri.fi/en/faq-finnish-citizenship)
 [^2]: [Finland's median monthly income surpasses €3,300 - yle](https://yle.fi/a/3-12647702)

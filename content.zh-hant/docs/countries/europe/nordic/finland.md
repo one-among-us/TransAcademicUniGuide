@@ -1,5 +1,5 @@
 ---
-title: 芬蘭共和國
+title: 芬蘭
 weight: 5
 bookToc: true
 ---
@@ -26,15 +26,9 @@ bookToc: true
 
 ### 醫療資源
 
-{{< hint info >}}
-**内容时效性、准确性有待观察**
-
-相关讨论详见 [Github issue](https://github.com/one-among-us/TransAcademicUniGuide/issues/2) .
-{{< /hint >}}
-
 學生醫療服務，由 [Finnish Student Health Service](https://www.yths.fi/en/frontpage/) 負責。 FSHS 提供了牙科心理科與一般門診，當醫師無法處理您的狀況/請求時，會轉診至其它醫院。在赫爾辛基大區往往為 [赫爾辛基大學附屬醫院（HUS）](https://www.hus.fi/en) 。
 
-作為留學生，芬蘭的激素類藥物相對容易獲取，FSHS往往可以提供處方（*此信息需進一步核實*）。若有額外需求，可以申請轉診，但排隊時間較長。因而部分跨性別者申請在 [GenderGP](../#gendergp) 中獲取處方。
+作為留學生，芬蘭的激素類藥物相對容易獲取，FSHS 往往可以提供處方（_此信息需進一步核實_）。若有額外需求，可以申請轉診，但排隊時間較長。因而部分跨性別者申請在 [GenderGP](../#gendergp) 中獲取處方。
 
 2023 年 2 月 1 日，芬蘭通過了 gender self-identification 法案[^3]，允許跨性別人士自行更改性別，而不需要醫生的診斷、手術等任何額外步驟。
 
@@ -46,6 +40,7 @@ bookToc: true
 - 未成年學生很難獲取激素類藥物，國內開具的處方藥往往也需要重新走診斷流程。
 
 ### 相關組織
+
 - [Seta ry](https://seta.fi/)
 - [TransHelsinki](https://transhelsinki.fi/)
 - [Trans ry](https://transry.fi/)
@@ -57,6 +52,7 @@ bookToc: true
 芬蘭的教育體系中，存在兩種主要類型的高等教育機構：大學（university）和應用科學大學（university of applied sciences），它們之間有一些區別。
 
 1. 大學（University）
+
    - 大學在芬蘭提供更為傳統的學術教育，強調研究和學術領域的深入研究。
    - 大學提供更多的碩士和博士研究生課程，可以獲得更高的學位，如碩士學位（Master's degree）和博士學位（Doctorate degree）。
    - 大學通常在理論、科學、工程、醫學、藝術和人文學科等領域提供廣泛的學科。
@@ -106,11 +102,12 @@ bookToc: true
 ### 費用
 
 芬蘭大學學費大約為每年 EUR 4,000 至 EUR 18,000。[StudyInFinland](https://www.studyinfinland.fi/admissions/fees-and-costs)也有總括性的網頁。不同學校也有對所在城市的消費情況的介紹網頁，比如：
+
 - [生活費用和財務事宜 - 赫爾辛基大學](https://www.helsinki.fi/en/admissions-and-education/international-students/student-life-helsinki/cost-living-and-financial-matters)
 - [學費和獎學金 - 阿爾托大學](https://into.aalto.fi/display/enopisk/Tuition+fees+and+scholarships)
 - [財務事宜 - 阿爾托大學](https://into.aalto.fi/display/enopisk/Financial+matters)
 
-*阿爾托大學的相關網頁在遷徙中，可能未來網址會發生變更*
+_阿爾托大學的相關網頁在遷徙中，可能未來網址會發生變更_
 
 同時，應用科技大學的學費往往在 EUR 4,000-10,000 之間。
 
@@ -118,28 +115,27 @@ bookToc: true
 
 芬蘭的本地就業要求往往要求學會芬蘭語，因而非計算機類專業較難找到工作。
 
-而計算機類專業主要的畢業去向為咨詢，即為其它公司提供解決方案，工資較為可觀。因而對於計算機類的學生來說，一定的工程、開發能力可以讓ta們更好的找到工作。
+而計算機類專業主要的畢業去向為咨詢，即為其它公司提供解決方案，工資較為可觀。因而對於計算機類的學生來說，一定的工程、開發能力可以讓 ta 們更好的找到工作。
 
-數據顯示，2022年芬蘭收入中位數超過 €3,300。[^2]
+數據顯示，2022 年芬蘭收入中位數超過 €3,300。[^2]
 
 ## 居留
 
 芬蘭發給學生的不是簽證，而是居留許可。
 
-2022年初，芬蘭更新了自己的學生居留許可政策，學生可以獲得 A 類居留許可。且畢業後也給兩年找工作的簽證，降低了留學生畢業後的找工作難度。
+2022 年初，芬蘭更新了自己的學生居留許可政策，學生可以獲得 A 類居留許可。且畢業後也給兩年找工作的簽證，降低了留學生畢業後的找工作難度。
 
 關於財產證明，芬蘭在 [InfoFinland](https://www.infofinland.fi/zh/moving-to-finland/non-eu-citizens/study-in-finland) 中要求 6,720 歐元/年，當學校提供住房或食物時此條款可降低。
 
-### A類居留許可
+### A 類居留許可
 
-A類居留許可是長期居留許可，可以讓持有人在芬蘭居留、工作。A類居留許可的有效期限通常為一年至五年不等，可以按需求延長。
+A 類居留許可是長期居留許可，可以讓持有人在芬蘭居留、工作。A 類居留許可的有效期限通常為一年至五年不等，可以按需求延長。
 
-A類居留許可持有滿五年，可以申請永久居留。在滿足一定條件的情況下，四年也足以申請加入芬蘭國籍。[^1]
+A 類居留許可持有滿五年，可以申請永久居留。在滿足一定條件的情況下，四年也足以申請加入芬蘭國籍。[^1]
 
-### B類居留許可
+### B 類居留許可
 
-B類居留許可是臨時居留許可，不計入申請永久居留權的時間。
-
+B 類居留許可是臨時居留許可，不計入申請永久居留權的時間。
 
 [^1]: [芬蘭移民局：芬蘭國籍](https://migri.fi/en/faq-finnish-citizenship)
 [^2]: [Finland's median monthly income surpasses €3,300 - yle](https://yle.fi/a/3-12647702)

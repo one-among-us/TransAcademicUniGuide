@@ -24,19 +24,11 @@ bookToc: true
 
 更多信息可在 [Sukupuolen vahvistaminen - DVV](https://dvv.fi/sukupuolen-vahvistaminen) 获得。
 
-
 ### 医疗资源
-
-
-{{< hint info >}}
-**内容时效性、准确性有待观察**
-
-相关讨论详见 [Github issue](https://github.com/one-among-us/TransAcademicUniGuide/issues/2) .
-{{< /hint >}}
 
 学生医疗服务，由 [Finnish Student Health Service](https://www.yths.fi/en/frontpage/) 负责。 FSHS 提供了牙科心理科与一般门诊，当医师无法处理您的状况/请求时，会转诊至其它医院。在赫尔辛基大区往往为 [赫尔辛基大学附属医院（HUS）](https://www.hus.fi/en) 。
 
-作为留学生，芬兰的激素类药物相对容易获取，FSHS往往可以提供处方（*此信息需进一步核实*）。若有额外需求，可以申请转诊，但排队时间较长。因而部分跨性别者申请在 [GenderGP](../#gendergp) 中获取处方。
+作为留学生，芬兰的激素类药物相对容易获取，FSHS 往往可以提供处方（_此信息需进一步核实_）。若有额外需求，可以申请转诊，但排队时间较长。因而部分跨性别者申请在 [GenderGP](../#gendergp) 中获取处方。
 
 2023 年 2 月 1 日，芬兰通过了 gender self-identification 法案[^3]，允许跨性别人士自行更改性别，而不需要医生的诊断、手术等任何额外步骤。
 
@@ -55,12 +47,12 @@ bookToc: true
 - [Sateenkaariperheet ry](https://sateenkaariperheet.fi/)
 - [Trasek ry](https://trasek.fi/)
 
-
 ## 学习
 
 芬兰的教育体系中，存在两种主要类型的高等教育机构：大学（university）和应用科学大学（university of applied sciences），它们之间有一些区别。
 
 1. 大学（University）
+
    - 大学在芬兰提供更为传统的学术教育，强调研究和学术领域的深入研究。
    - 大学提供更多的硕士和博士研究生课程，可以获得更高的学位，如硕士学位（Master's degree）和博士学位（Doctorate degree）。
    - 大学通常在理论、科学、工程、医学、艺术和人文学科等领域提供广泛的学科。
@@ -110,38 +102,38 @@ bookToc: true
 ### 费用
 
 芬兰学费大约为每年 EUR 4,000 至 EUR 18,000。[StudyInFinland](https://www.studyinfinland.fi/admissions/fees-and-costs)也有总括性的网页。不同学校也有对所在城市的消费情况的介绍网页，比如：
+
 - [生活费用和财务事宜 - 赫尔辛基大学](https://www.helsinki.fi/en/admissions-and-education/international-students/student-life-helsinki/cost-living-and-financial-matters)
 - [学费和奖学金 - 阿尔托大学](https://into.aalto.fi/display/enopisk/Tuition+fees+and+scholarships)
 - [财务事宜 - 阿尔托大学](https://into.aalto.fi/display/enopisk/Financial+matters)
 
-*阿尔托大学的相关网页在迁徙中，可能未来网址会发生变更*
+_阿尔托大学的相关网页在迁徙中，可能未来网址会发生变更_
 
 ## 就业
 
 芬兰的本地就业要求往往要求学会芬兰语，因而非计算机类专业较难找到工作。
 
-而计算机类专业主要的毕业去向为咨询，即为其它公司提供解决方案，工资较为可观。因而对于计算机类的学生来说，一定的工程、开发能力可以让ta们更好的找到工作。
+而计算机类专业主要的毕业去向为咨询，即为其它公司提供解决方案，工资较为可观。因而对于计算机类的学生来说，一定的工程、开发能力可以让 ta 们更好的找到工作。
 
-数据显示，2022年芬兰收入中位数超过 €3,300。[^2]
+数据显示，2022 年芬兰收入中位数超过 €3,300。[^2]
 
 ## 居留
 
 芬兰发给学生的不是签证，而是居留许可。
 
-2022年初，芬兰更新了自己的学生居留许可政策，学生可以获得A类居留许可。且毕业后也给两年找工作的签证，降低了留学生毕业后的找工作难度。
+2022 年初，芬兰更新了自己的学生居留许可政策，学生可以获得 A 类居留许可。且毕业后也给两年找工作的签证，降低了留学生毕业后的找工作难度。
 
 关于财产证明，芬兰在 [InfoFinland](https://www.infofinland.fi/zh/moving-to-finland/non-eu-citizens/study-in-finland) 中要求 6,720 欧元/年，当学校提供住房或食物时此条款可降低。
 
-### A类居留许可
+### A 类居留许可
 
-A类居留许可是长期居留许可，可以让持有人在芬兰居留、工作。A类居留许可的有效期限通常为一年至五年不等，可以按需求延长。
+A 类居留许可是长期居留许可，可以让持有人在芬兰居留、工作。A 类居留许可的有效期限通常为一年至五年不等，可以按需求延长。
 
-A类居留许可持有满五年，可以申请永久居留。在满足一定条件的情况下，四年也足以申请加入芬兰国籍。[^1]
+A 类居留许可持有满五年，可以申请永久居留。在满足一定条件的情况下，四年也足以申请加入芬兰国籍。[^1]
 
-### B类居留许可
+### B 类居留许可
 
-B类居留许可是临时居留许可，不计入申请永久居留权的时间。
-
+B 类居留许可是临时居留许可，不计入申请永久居留权的时间。
 
 [^1]: [芬兰移民局：芬兰国籍](https://migri.fi/en/faq-finnish-citizenship)
 [^2]: [Finland's median monthly income surpasses €3,300 - yle](https://yle.fi/a/3-12647702)
