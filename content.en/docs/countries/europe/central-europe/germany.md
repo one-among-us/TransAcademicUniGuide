@@ -58,7 +58,7 @@ Social attitudes and policies in Germany vary depending on the region. In simple
 
 ### Procedure for Document Modification
 
-Currently, Germany's self-ID bill is still in the legislative process and is far from being implemented. Under the existing procedures, only German citizens, individuals with permanent residency, and refugees can change the gender marker on their documents[^1]. This means if you are only studying in Germany, you cannot modify the gender marker on your documents. It is important to note that the judicial application process is separate from medical procedures, and obtaining hormone therapy or undergoing surgery still requires following the relevant processes.
+Germany's self-ID bill was passed. However, under the existing procedures, only German citizens, individuals with permanent residency, and refugees can change the gender marker on their documents[^1]. This means if you are only studying in Germany, you cannot modify the gender marker on your documents. It is important to note that the judicial application process is separate from medical procedures, and obtaining hormone therapy or undergoing surgery still requires following the relevant processes.
 
 The specific judicial process usually takes 6-9 months and includes the following steps:
 
