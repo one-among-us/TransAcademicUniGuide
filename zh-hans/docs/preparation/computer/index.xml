@@ -1,21 +1,115 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>计算机相关专业 on 跨性别选校手册</title><link>https://uniguide.transacademic.org/zh-hans/docs/preparation/computer/</link><description>Recent content in 计算机相关专业 on 跨性别选校手册</description><generator>Hugo</generator><language>zh-hans</language><atom:link href="https://uniguide.transacademic.org/zh-hans/docs/preparation/computer/index.xml" rel="self" type="application/rss+xml"/><item><title>计算机科学与技术</title><link>https://uniguide.transacademic.org/zh-hans/docs/preparation/computer/computer-science/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hans/docs/preparation/computer/computer-science/</guid><description>计算机科学 # 在中国，计算机科学、计算机工程、软件工程等往往没有细緻的区分，可能一个专业中的几个系只有一点培养计划的区别。因而，我们在这裡把这几个方向都统一的去讲，因为以上方向的差别并不算大。
-课程与教材 # CS自学指南
-竞赛 # 算法竞赛 # 算法竞赛要求设计算法解决偏数学的问题，时间、语言等都收到限制。
-中国大学生程序设计竞赛 ，校级竞赛往往由计算机系主办，认可度比较高，典型的算法竞赛。
-算法竞赛的组织非常广泛，比如 蓝桥杯 等。
-入门的话，刘汝佳的《算法竞赛入门经典》还是经典之作。此外，由许多爱好者（其中还有非常多跨性别群体）组织编纂的 OI Wiki 可以提供许多进阶的参考。
-程序开发竞赛 # 与算法竞赛相比，程序开发竞赛的时间会长一些。而且对开发者的技术栈也没有过多的限制，而且赛题也涵盖了多各方面，往往能找到一个相对来说更适合你的题目，因而灵活性较强，但认可度往往不如程序开发竞赛。
-比如， 中国软件杯大学生软件设计大赛 。</description></item><item><title>数据科学</title><link>https://uniguide.transacademic.org/zh-hans/docs/preparation/computer/data-science/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hans/docs/preparation/computer/data-science/</guid><description>数据科学 # 随着人工智能、数据科学的发展和应用，百度、华为等许多企业也都增加了这方面的比赛，并且给予了丰厚的奖金等。
-学习 # 如果您的学院已经开设了相关的课程，如机器学习之类的，可以提前试听、尝试上手练习。但请不要因为许多library已经实现了部分功能而不去了解原理。
-竞赛 # 以下只列出一些相对来说认可度比较高的、或可能有所帮助的，不是穷举所有比赛。因而，如果有兴趣，请使用搜索或其它方式，获取更符合您研究方向的比赛。
-中国境外 # Kaggle # Kaggle 既提供数据集，也提供论坛，还提供竞赛，非常有价值的网站。
-KDD # KDD ，ACM旗下，认可度高、难度大。
-Drivendata # 各种比赛 ，有奖金。
-ICME # 每年都有，但网址每年都变，所以请搜索「ICME」获取最新地址。
-中国境内 # 阿里巴巴 天池 # 天池大赛 不仅提供了一些实习的机会，如果想要在国内工作的话，也提供了丰富的奖金。
-百度 AI studio # AI studio 也是提供实习和奖金的平台，还可以和Google Colab一样蹭免费计算卡（可以使用巧妙的方法安装Tensorflow等表面上不支持的框架）
-华为 # 华为 同样，也是奖金+实习机会。
-京东 # 京东 ，奖金+实习机会。</description></item><item><title>网络安全</title><link>https://uniguide.transacademic.org/zh-hans/docs/preparation/computer/network-security/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hans/docs/preparation/computer/network-security/</guid><description>网络安全 # 从找工作的角度来讲，网络安全虽然能找到不错的工作条件、不错的报酬，但是也因为这个行业的敏感性，导致实际的选择是受限的，在外国学校毕业后，可能只能选择企业等单位。
-因而，虽然并不推荐网络安全作为首选的专业，但如果真的喜欢这个专业，也是完全可以考虑的。
-資源 # CTF Wiki 也提供了很好的入门与进阶内容。
-ctf.mzy0.com</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>计算机相关专业 on 跨性别选校手册</title><link>https://uniguide.transacademic.org/zh-hans/docs/preparation/computer/</link><description>Recent content in 计算机相关专业 on 跨性别选校手册</description><generator>Hugo</generator><language>zh-hans</language><atom:link href="https://uniguide.transacademic.org/zh-hans/docs/preparation/computer/index.xml" rel="self" type="application/rss+xml"/><item><title>计算机科学与技术</title><link>https://uniguide.transacademic.org/zh-hans/docs/preparation/computer/computer-science/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hans/docs/preparation/computer/computer-science/</guid><description>&lt;h1 id="计算机科学">
+ 计算机科学
+ &lt;a class="anchor" href="#%e8%ae%a1%e7%ae%97%e6%9c%ba%e7%a7%91%e5%ad%a6">#&lt;/a>
+&lt;/h1>
+&lt;p>在中国，计算机科学、计算机工程、软件工程等往往没有细緻的区分，可能一个专业中的几个系只有一点培养计划的区别。因而，我们在这裡把这几个方向都统一的去讲，因为以上方向的差别并不算大。&lt;/p>
+&lt;h2 id="课程与教材">
+ 课程与教材
+ &lt;a class="anchor" href="#%e8%af%be%e7%a8%8b%e4%b8%8e%e6%95%99%e6%9d%90">#&lt;/a>
+&lt;/h2>
+&lt;p>
+ &lt;a href="https://csdiy.wiki/">CS自学指南&lt;/a>&lt;/p>
+&lt;h2 id="竞赛">
+ 竞赛
+ &lt;a class="anchor" href="#%e7%ab%9e%e8%b5%9b">#&lt;/a>
+&lt;/h2>
+&lt;h3 id="算法竞赛">
+ 算法竞赛
+ &lt;a class="anchor" href="#%e7%ae%97%e6%b3%95%e7%ab%9e%e8%b5%9b">#&lt;/a>
+&lt;/h3>
+&lt;p>算法竞赛要求设计算法解决偏数学的问题，时间、语言等都收到限制。&lt;/p>
+&lt;p>
+ &lt;a href="https://ccpc.io/search">中国大学生程序设计竞赛&lt;/a> ，校级竞赛往往由计算机系主办，认可度比较高，典型的算法竞赛。&lt;/p>
+&lt;p>算法竞赛的组织非常广泛，比如 
+ &lt;a href="https://dasai.lanqiao.cn/">蓝桥杯&lt;/a> 等。&lt;/p>
+&lt;p>入门的话，刘汝佳的《算法竞赛入门经典》还是经典之作。此外，由许多爱好者（其中还有非常多跨性别群体）组织编纂的 
+ &lt;a href="https://oi-wiki.org/">OI Wiki&lt;/a> 可以提供许多进阶的参考。&lt;/p>
+&lt;h3 id="程序开发竞赛">
+ 程序开发竞赛
+ &lt;a class="anchor" href="#%e7%a8%8b%e5%ba%8f%e5%bc%80%e5%8f%91%e7%ab%9e%e8%b5%9b">#&lt;/a>
+&lt;/h3>
+&lt;p>与算法竞赛相比，程序开发竞赛的时间会长一些。而且对开发者的技术栈也没有过多的限制，而且赛题也涵盖了多各方面，往往能找到一个相对来说更适合你的题目，因而灵活性较强，但认可度往往不如程序开发竞赛。&lt;/p>
+&lt;p>比如， 
+ &lt;a href="http://www.cnsoftbei.com/">中国软件杯大学生软件设计大赛&lt;/a> 。&lt;/p></description></item><item><title>数据科学</title><link>https://uniguide.transacademic.org/zh-hans/docs/preparation/computer/data-science/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hans/docs/preparation/computer/data-science/</guid><description>&lt;h1 id="数据科学">
+ 数据科学
+ &lt;a class="anchor" href="#%e6%95%b0%e6%8d%ae%e7%a7%91%e5%ad%a6">#&lt;/a>
+&lt;/h1>
+&lt;p>随着人工智能、数据科学的发展和应用，百度、华为等许多企业也都增加了这方面的比赛，并且给予了丰厚的奖金等。&lt;/p>
+&lt;h2 id="学习">
+ 学习
+ &lt;a class="anchor" href="#%e5%ad%a6%e4%b9%a0">#&lt;/a>
+&lt;/h2>
+&lt;p>如果您的学院已经开设了相关的课程，如机器学习之类的，可以提前试听、尝试上手练习。但请不要因为许多library已经实现了部分功能而不去了解原理。&lt;/p>
+&lt;h2 id="竞赛">
+ 竞赛
+ &lt;a class="anchor" href="#%e7%ab%9e%e8%b5%9b">#&lt;/a>
+&lt;/h2>
+&lt;p>以下只列出一些相对来说认可度比较高的、或可能有所帮助的，不是穷举所有比赛。因而，如果有兴趣，请使用搜索或其它方式，获取更符合您研究方向的比赛。&lt;/p>
+&lt;h3 id="中国境外">
+ 中国境外
+ &lt;a class="anchor" href="#%e4%b8%ad%e5%9b%bd%e5%a2%83%e5%a4%96">#&lt;/a>
+&lt;/h3>
+&lt;h4 id="kaggle">
+ Kaggle
+ &lt;a class="anchor" href="#kaggle">#&lt;/a>
+&lt;/h4>
+&lt;p>
+ &lt;a href="https://www.kaggle.com/competitions">Kaggle&lt;/a> 既提供数据集，也提供论坛，还提供竞赛，非常有价值的网站。&lt;/p>
+&lt;h4 id="kdd">
+ KDD
+ &lt;a class="anchor" href="#kdd">#&lt;/a>
+&lt;/h4>
+&lt;p>
+ &lt;a href="https://www.kdd.org/">KDD&lt;/a> ，ACM旗下，认可度高、难度大。&lt;/p>
+&lt;h4 id="drivendata">
+ Drivendata
+ &lt;a class="anchor" href="#drivendata">#&lt;/a>
+&lt;/h4>
+&lt;p>
+ &lt;a href="https://www.drivendata.org/">各种比赛&lt;/a> ，有奖金。&lt;/p>
+&lt;h4 id="icme">
+ ICME
+ &lt;a class="anchor" href="#icme">#&lt;/a>
+&lt;/h4>
+&lt;p>每年都有，但网址每年都变，所以请搜索「ICME」获取最新地址。&lt;/p>
+&lt;h3 id="中国境内">
+ 中国境内
+ &lt;a class="anchor" href="#%e4%b8%ad%e5%9b%bd%e5%a2%83%e5%86%85">#&lt;/a>
+&lt;/h3>
+&lt;h4 id="阿里巴巴-天池">
+ 阿里巴巴 天池
+ &lt;a class="anchor" href="#%e9%98%bf%e9%87%8c%e5%b7%b4%e5%b7%b4-%e5%a4%a9%e6%b1%a0">#&lt;/a>
+&lt;/h4>
+&lt;p>
+ &lt;a href="https://tianchi.aliyun.com/competition/activeList">天池大赛&lt;/a> 不仅提供了一些实习的机会，如果想要在国内工作的话，也提供了丰富的奖金。&lt;/p>
+&lt;h4 id="百度-ai-studio">
+ 百度 AI studio
+ &lt;a class="anchor" href="#%e7%99%be%e5%ba%a6-ai-studio">#&lt;/a>
+&lt;/h4>
+&lt;p>
+ &lt;a href="https://aistudio.baidu.com/aistudio/competition">AI studio&lt;/a> 也是提供实习和奖金的平台，还可以和Google Colab一样蹭免费计算卡（可以使用巧妙的方法安装Tensorflow等表面上不支持的框架）&lt;/p>
+&lt;h4 id="华为">
+ 华为
+ &lt;a class="anchor" href="#%e5%8d%8e%e4%b8%ba">#&lt;/a>
+&lt;/h4>
+&lt;p>
+ &lt;a href="https://developer.huawei.com/consumer/cn/activity/digixActivity/digixHome">华为&lt;/a> 同样，也是奖金+实习机会。&lt;/p>
+&lt;h4 id="京东">
+ 京东
+ &lt;a class="anchor" href="#%e4%ba%ac%e4%b8%9c">#&lt;/a>
+&lt;/h4>
+&lt;p>
+ &lt;a href="https://jdata.jd.com/html/list.html">京东&lt;/a> ，奖金+实习机会。&lt;/p></description></item><item><title>网络安全</title><link>https://uniguide.transacademic.org/zh-hans/docs/preparation/computer/network-security/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hans/docs/preparation/computer/network-security/</guid><description>&lt;h1 id="网络安全">
+ 网络安全
+ &lt;a class="anchor" href="#%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8">#&lt;/a>
+&lt;/h1>
+&lt;p>从找工作的角度来讲，网络安全虽然能找到不错的工作条件、不错的报酬，但是也因为这个行业的敏感性，导致实际的选择是受限的，在外国学校毕业后，可能只能选择企业等单位。&lt;/p>
+&lt;p>因而，虽然并不推荐网络安全作为首选的专业，但如果真的喜欢这个专业，也是完全可以考虑的。&lt;/p>
+&lt;h2 id="資源">
+ 資源
+ &lt;a class="anchor" href="#%e8%b3%87%e6%ba%90">#&lt;/a>
+&lt;/h2>
+&lt;p>
+ &lt;a href="https://ctf-wiki.org/">CTF Wiki&lt;/a> 也提供了很好的入门与进阶内容。&lt;/p>
+&lt;p>
+ &lt;a href="https://ctf.mzy0.com/">ctf.mzy0.com&lt;/a>&lt;/p></description></item></channel></rss>

@@ -1,43 +1,218 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>东亚地区 on 跨性别选校手册</title><link>https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/</link><description>Recent content in 东亚地区 on 跨性别选校手册</description><generator>Hugo</generator><language>zh-hans</language><atom:link href="https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/index.xml" rel="self" type="application/rss+xml"/><item><title>中国本科志愿填报</title><link>https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-undergraduate/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-undergraduate/</guid><description>中国本科志愿填报 # 对于统招，流程往往比较明确，主要准备时间是高考后。而非统招，材料的准备时间是当年三四月份开始，因而建议提前准备。
-关于学校的状况与跨性别友善程度，可以参考：
-colleges chat RLE.wiki. 其中， colleges chat 亦提供了一定 出国相关信息 与 择校细节 。
-统招 # 对于绝大部分考生，统招是必须经过的阶段，无论 ta 是否参加了下述的 非统招计划，如 强基计划、 综合素质招生 等。因而我们建议所有志愿的填报都要认真对待。
-注意部分专业存在「定向」、「委托培养（委培）」。定向生往往是以低分录取，但毕业后就业去向受到限制。委培是定向的一个子类，国家委培往往是希望毕业生前往比较艰苦的地点/行业；企业委培相对好一点，但毕业后也必须进入该企业工作。部分地区也会出现「国防生」、「师范生」等，填报前需仔细研读其条款，大部分情况下毕业后的去向都有较严格的限制。
-分析前的声明与准备 # 在实际的录取中，分数不是决定目标高校的标准，起到决定作用的是排名。比如同样的分数，在河南可能只能上一个 211，而在同样考卷的广东就可以上一个 985。原因是河南、山东、河北等地的考生数量非常多，而各高校给出的招生名额又不与考生数量成比例关系，因而考生多的省份更吃亏、考生多且各高中都在卷省份的考生更难受。因而，我们在这里不使用分数作为讨论主题，所有讨论都关注：你的排名、你所在省份今年的总考生人数、各高校的历年在你所在省份的招生人数。
-我们做一点最初步的假设，可能和实际有一定差别，但误差在可接受范围内：
-每一年高考的人数没有较大变化（即增长速度较缓）； 各高校在你所在省份的招生人数没有较大变化； 在以上两点假设下，我们可以使用过去两三年的信息来分析今年的趋势。
-第一步：找一分一段表 # 部分地区是五分一段表、三分一段表等，为行文简洁，统称一分一段表。且因保护前 n 名学生，往往此类表格除表头外第一行是从几十名开始计数的。
-首先，找今年的一分一段表，往往由该省份教育招生考试院发布。然后找历年该省份一分一段表，建议至少找一年。若今年或去年的题目过难/过简单（容易影响排名分佈情况），可以适当多选一两年。
-第二步：获得历年排名对应分数 # 虽然我们在一开始假设了「每年高考的人数没有较大变化」，但实际上这是一个简化，如果你愿意的话可以尝试用几年的数据来拟合一个线型模型（就几年的数据，就不要玩非线性了）。不过为了让更多的人，如非理科考生，能够理解本文思路，我们以最简单的模型，即常数模型（认为每年高考的人数不变）来进行接下来的分析。
-然后我们去在第一步中获取的历年一分一段表中，找到你所在的排名对应的分数，然后将其记录在一个表格中，我们使用一个例子来说明。
-假设 Alex 在 2023 年高考，分数为 660 分，排名为 1,000 名。Ta 查询到在以往年份 1,000 名的对应分数，然后 ta 把表格做成这样：
-年份 2022 2021 2020 排名 1000 1000 1000 对应分数 650 645 640 此处留空 多留几行 第三步：查询历年分数线 # 这一步可以通过各种的公开资料获取，比如搜索「XX 大学 分数线」，网络上就会有非常多的公开信息，许多高考信息整合平台也会提供不同学校、不同专业、在不同省份、不同选科情况下的分数线。</description></item><item><title>中国专业分析与选择</title><link>https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-majors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-majors/</guid><description>中国专业分析与选择 # 在 中国本科志愿填报 中，我们阐明了专业对于我们的重要意义。因而，本文主要讲解在确定学校的大致范围后，如何了解自己感兴趣的专业，以及如何缩小选择范围。
-方向和大类 # 首先，我们可以通过各种网络、媒体等来对专业大类进行一个了解。比如工、理、文、经、管、法、教、农、医等，具体可以在下属，各包含了什麽专业、有什麽子类、其特点是什麽等等。比如下面是几个可以选择的相对可靠的信息源，如 wiki 可以在不同层级点入浏览，但部分词条不全；而国家标准则是最为正式的分类，但缺少进一步的解释。
-中华人民共和国学科分类 - Wikipedia 中华人民共和国国家标准学科分类与代码 - 北京大学, 中华人民共和国国家标准学科分类与代码 - 国家标准全文公开系统 然后，我们可以根据兴趣、就业、赚钱等多个因素，对大方向进行筛选。尽管各来源等信息可能存在一定的偏颇，但若没有更好的渠道，且我们只是做大方向的筛选的话，其准确率是可以接受的——自然，如果您有更准确的指导/资源会更好。在了解了整体方向之后，我们可以开始筛除自己不喜欢的方向。然后在大方向内寻找自己喜欢的类目。
-专业 # 然后进行下一步，即对具体专业细节的筛选。
-以计算机大类为例，计算机科学与技术有许多不同的类别。按具体专业设施（而不是标准学科分类）来说，从软件工程到计算机科学与技术（也就是偏理论），再有的学校还可能提供更具体的专业，如人工智能和大数据等。然而，如此多的学科若要进行进一步的筛选则需要更多的知识，而在这里，我们可能就要减少对搜索引擎上信息的依赖了。搜索引擎上提供的宽泛的信息只能帮助你（一定程度上）排除你绝对不喜欢的学科，但如果要继续查看自己志愿可以选择的内容，则往往需要结合自己的分数信息/目标院校。
-培养计划 # 分数信息和目标院校是为了让你更好的获得你所选择专业的具体细节。特别是对于最新兴起的大数据、人工智能、半导体等专业，因为其设立可能只是为了迎合热潮，学校并不一定有足够的教学经验和资源帮助你获得应有的教育。一些新开设的专业和原理工/文法等有偏重的院校扩展招生范围/希望成为综合性大学的院校，往往会存在这样的情况。当然，许多时候我们的选择还是受限的，如前所述，许多因素制约着我们的选择。
-那麽，为了对我们列入计划的学校专业进行更详细的了解，我们需要查阅该专业的培养计划。
-假设我们选择了一个名为 XYZ 的专业，我们同时有目标院校「A 大学」等，那麽我们可以登入 A 大学的官网-院系主页-培养计划找到相关文件。同时，如果其主页提供了搜索功能，甚至可能部分文件也被搜索引擎收录了。但请注意核实自己所查看的版本是否是最新版。
-在找到《A 大学 XYZ 专业 培养计划》后，我们可以向下滑动，找到其课程设置，如选修课、必修课、通识课等。这些组成了该专业的具体培养方案，如果对某些课程不熟悉，也可以借助搜索引擎/维基百科或者找到教材查阅目录以了解其主要学习的内容。
-同样需要注意的是，由于不同学校情况不同，因而对于相同专业名称可能会有不同的培养计划设置，因而建议每个学校+专业的搭配都要看一下。此外，还可以使用一个表格来对比相同点和不同点。
-最后要注意的是，一些学校还可能进行大类招生，然后再进行专业分流。着名的「计算机大类变成土木工程」的经历，就来自使用这种方法的大学。因而，如果您报考了大类招生的专业，也需要注意分流的子专业情况。比如，其中可能会存在热门专业和冷门专业，我们也需要考虑如果自己无法进入热门专业，是否能够接受冷门专业。</description></item><item><title>获得本科学历的相关资讯</title><link>https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-college/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-college/</guid><description>获得本科学历的相关资讯 # 在许多情况下，大学本科所提供的「学位证」是非常重要的，因而我们将会在这个章节中讨论一些如何获得本科学历相关的资讯。
-获得本科学历 # 自学考试 # 自考的学习过程主要依靠自学，学生可以根据自己的时间和能力安排学习计划，并通过自学教材进行学习。学生可以在考试前自行报名。
-与普通高考和成人高考在招生对象、考试时间及学制不同，自考是「宽进严出」。考生参加国家考试机构统一组织的单科考试，合格一门，发一门的合格证书，所有科目合格后，方可申请毕业(申请本科毕业的学生还需提供国家承认的专科毕业证)。因而可能有一定难度。
-成人高等教育考试 # 考生在参加全国招生统一考试后，各省、自治区统一组织录取。
-根据起点和终点可以分为三种：成人高等学历教育分为专科起点本科（简称专升本）、高中起点本科（简称高起本）和高中起点专科（简称高起专）。同时学习形式有：函授、脱产（全日制）、业余（半脱产、夜校）。
-远程教育，业余和函授（也就是非全日制）最短学习年限为：专升本两年半，高起本五年，高起专两年半。虽然时间长，但理论上可以做其他的工作来赚钱。此外，如果希望离开父母或家庭环境，也完全可以选择脱产的方式。脱产最短学习年限为：专升本两年，高起本五年，高起专两年；
-这个的通过率就比上面的高很多，也就是更容易获得本科证明。
-远程教育 # 许多大学提供了远程教育，也就是上网课。如果通过了考试，也可以获得本科证明。
-这个的考试听说非常简单，而且申请远程教育有些学校只要求初中或高中的毕业证明。
-随后可以做什麽 # 准备研究生考试 # 可以申请许多学校的研究生，据说部分学校的研究生经常招收不满人，但不清楚近几年如何。
-准备出国留学 # 获得本科学位证后，可以申请国外的学术型硕士，也可以选择申请国外的职业导向的其他项目。
-国内就业 # 获得本科学位证后，起码会更容易一点，虽然当下（2023年）的就业形势仍然严峻。
-国外就业 # 许多国家的部分专业和岗位比较缺人，因而开放了许多工作签证，比如澳大利亚和新西兰都有工作假期签证和临时工作签证。</description></item><item><title>中外合办相关信息</title><link>https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-jointly/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-jointly/</guid><description>中外合办相关信息 # 本信息可能有一定的迟滞 以下是关于中外合办大学/专业的一些内容，但因信源单一，可能许多内容不适合所有合办大学/专业，请注意核实每个细节所需要的具体文件、资质证明等内容。
-神经多样性和性多样性群体 # 神经多样性方面存在名义上的支持，但在实际看来效果并不明显。例如，ADHD 患者可以获得延长截止日期/考试时间，ASD 患者可以得到「帮助你和他人交流」的支持。
-性多样性群体方面，总体而言，大部分情况下不会有人关注你的性别表达等方面。最多的可能就是进宿舍时会被问一些问题，认识之后就不怎么问了。
-心理咨询 # 学校提供相对专业的心理咨询服务，注册后每个学期可以有几个咨询机会，往往有了解且对性多样性群体友善的咨询老师。
-宿舍安排 # 往往低年级可能住宿条件差一点，但也会是比较新的多人间。大三大四后有机会申请到套间或单人间，单人间可能与其他性别混住。每个房间都有独立的浴室。
-其他特点 # 学费往往在十万元左右。 签到要求可能会较严格。 进入此类学校需要经过高考。 若想出国，还需要准备相关的语言考试，并在本科阶段保持良好的GPA。 对于精神状态不好的人来说，这可能只是一条比较轻松自在的路线，但每个人的感受肯定不同。 未来规划 # 往往合办是双学位的，也就是可以获得国内大学的学位证书与国外合办大学的学位证书。如果整个学位的所有课程都是以英语为授课/考试/考核等的语言，理论上可以在后续申请中不需要再进行语言考试。但也请注意，是所有课程都是英语或至少 xx 学分的英语课程，也就是说，这里可能需要额外的换算，比如中国的学分和欧洲标准学分（ECTS）往往不同，可能需要额外的证明文件等，都可能是需要注意的。
-同时，不同学校要求不同，比如很多学校只要「在xxx国家完全以英语授课/评估的学位」，但也有部分学校宽限到「授予学位的机构位于xx国家，那么在该国家意外的在线、离岸校园（应该合作办学属于这类）的学习可证明语言技能」。需要注意的是，这里的「xx国家」指的是学位授予机构所在的国家，而不是学校所在的国家。也就是说，如果我在中国 A 高校和 X 国 B 高校合作办学中，获得的双学位，那么你需要确认 X 国在认可列表中，并符合后续的其它要求。
-但无论如何，现在可以考虑一下自己未来可能会选择的国家范围，然后从网路上可以找到更多资讯，来帮助自己现在的学校或专业选择。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>东亚地区 on 跨性别选校手册</title><link>https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/</link><description>Recent content in 东亚地区 on 跨性别选校手册</description><generator>Hugo</generator><language>zh-hans</language><atom:link href="https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/index.xml" rel="self" type="application/rss+xml"/><item><title>中国本科志愿填报</title><link>https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-undergraduate/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-undergraduate/</guid><description>&lt;h1 id="中国本科志愿填报">
+ 中国本科志愿填报
+ &lt;a class="anchor" href="#%e4%b8%ad%e5%9b%bd%e6%9c%ac%e7%a7%91%e5%bf%97%e6%84%bf%e5%a1%ab%e6%8a%a5">#&lt;/a>
+&lt;/h1>
+&lt;p>对于统招，流程往往比较明确，主要准备时间是高考后。而非统招，材料的准备时间是当年三四月份开始，因而建议提前准备。&lt;/p>
+&lt;p>关于学校的状况与跨性别友善程度，可以参考：&lt;/p>
+&lt;ul>
+&lt;li>
+ &lt;a href="https://colleges.chat/">colleges chat&lt;/a>&lt;/li>
+&lt;li>
+ &lt;a href="https://rle.wiki/">RLE.wiki&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>其中，
+ &lt;a href="https://colleges.chat/">colleges chat&lt;/a> 亦提供了一定 
+ &lt;a href="https://colleges.chat/choose-a-college/%E5%87%BA%E5%9B%BD%E5%8F%97%E9%98%BB/">出国相关信息&lt;/a> 与 
+ &lt;a href="https://colleges.chat/choose-a-college/%E5%A6%82%E4%BD%95%E6%AD%A3%E4%B9%89%E5%8A%9D%E9%80%80%EF%BC%9F/">择校细节&lt;/a> 。&lt;/p>
+&lt;h2 id="统招">
+ 统招
+ &lt;a class="anchor" href="#%e7%bb%9f%e6%8b%9b">#&lt;/a>
+&lt;/h2>
+&lt;p>对于绝大部分考生，统招是必须经过的阶段，无论 ta 是否参加了下述的 
+ &lt;a href="https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-undergraduate/#%e9%9d%9e%e7%bb%9f%e6%8b%9b">非统招计划&lt;/a>，如 
+ &lt;a href="https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-undergraduate/#%e5%bc%ba%e5%9f%ba%e8%ae%a1%e5%88%92">强基计划&lt;/a>、 
+ &lt;a href="https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-undergraduate/#%e7%bb%bc%e5%90%88%e7%b4%a0%e8%b4%a8%e6%8b%9b%e7%94%9f">综合素质招生&lt;/a> 等。因而我们建议所有志愿的填报都要认真对待。&lt;/p>
+&lt;p>注意部分专业存在「定向」、「委托培养（委培）」。定向生往往是以低分录取，但毕业后就业去向受到限制。委培是定向的一个子类，国家委培往往是希望毕业生前往比较艰苦的地点/行业；企业委培相对好一点，但毕业后也必须进入该企业工作。部分地区也会出现「国防生」、「师范生」等，填报前需仔细研读其条款，大部分情况下毕业后的去向都有较严格的限制。&lt;/p>
+&lt;h3 id="分析前的声明与准备">
+ 分析前的声明与准备
+ &lt;a class="anchor" href="#%e5%88%86%e6%9e%90%e5%89%8d%e7%9a%84%e5%a3%b0%e6%98%8e%e4%b8%8e%e5%87%86%e5%a4%87">#&lt;/a>
+&lt;/h3>
+&lt;p>在实际的录取中，分数不是决定目标高校的标准，起到决定作用的是排名。比如同样的分数，在河南可能只能上一个 211，而在同样考卷的广东就可以上一个 985。原因是河南、山东、河北等地的考生数量非常多，而各高校给出的招生名额又不与考生数量成比例关系，因而考生多的省份更吃亏、考生多且各高中都在卷省份的考生更难受。因而，我们在这里不使用分数作为讨论主题，所有讨论都关注：你的排名、你所在省份今年的总考生人数、各高校的历年在你所在省份的招生人数。&lt;/p>
+&lt;p>我们做一点最初步的假设，可能和实际有一定差别，但误差在可接受范围内：&lt;/p>
+&lt;ul>
+&lt;li>每一年高考的人数没有较大变化（即增长速度较缓）；&lt;/li>
+&lt;li>各高校在你所在省份的招生人数没有较大变化；&lt;/li>
+&lt;/ul>
+&lt;p>在以上两点假设下，我们可以使用过去两三年的信息来分析今年的趋势。&lt;/p>
+&lt;h3 id="第一步找一分一段表">
+ 第一步：找一分一段表
+ &lt;a class="anchor" href="#%e7%ac%ac%e4%b8%80%e6%ad%a5%e6%89%be%e4%b8%80%e5%88%86%e4%b8%80%e6%ae%b5%e8%a1%a8">#&lt;/a>
+&lt;/h3>
+&lt;p>部分地区是五分一段表、三分一段表等，为行文简洁，统称一分一段表。且因保护前 n 名学生，往往此类表格除表头外第一行是从几十名开始计数的。&lt;/p>
+&lt;p>首先，找今年的一分一段表，往往由该省份教育招生考试院发布。然后找历年该省份一分一段表，建议至少找一年。若今年或去年的题目过难/过简单（容易影响排名分佈情况），可以适当多选一两年。&lt;/p>
+&lt;h3 id="第二步获得历年排名对应分数">
+ 第二步：获得历年排名对应分数
+ &lt;a class="anchor" href="#%e7%ac%ac%e4%ba%8c%e6%ad%a5%e8%8e%b7%e5%be%97%e5%8e%86%e5%b9%b4%e6%8e%92%e5%90%8d%e5%af%b9%e5%ba%94%e5%88%86%e6%95%b0">#&lt;/a>
+&lt;/h3>
+&lt;p>虽然我们在一开始假设了「每年高考的人数没有较大变化」，但实际上这是一个简化，如果你愿意的话可以尝试用几年的数据来拟合一个线型模型（就几年的数据，就不要玩非线性了）。不过为了让更多的人，如非理科考生，能够理解本文思路，我们以最简单的模型，即常数模型（认为每年高考的人数不变）来进行接下来的分析。&lt;/p>
+&lt;p>然后我们去在第一步中获取的历年一分一段表中，找到你所在的排名对应的分数，然后将其记录在一个表格中，我们使用一个例子来说明。&lt;/p>
+&lt;p>假设 Alex 在 2023 年高考，分数为 660 分，排名为 1,000 名。Ta 查询到在以往年份 1,000 名的对应分数，然后 ta 把表格做成这样：&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">年份&lt;/th>
+ &lt;th style="text-align: center">2022&lt;/th>
+ &lt;th style="text-align: center">2021&lt;/th>
+ &lt;th style="text-align: center">2020&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">排名&lt;/td>
+ &lt;td style="text-align: center">1000&lt;/td>
+ &lt;td style="text-align: center">1000&lt;/td>
+ &lt;td style="text-align: center">1000&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">对应分数&lt;/td>
+ &lt;td style="text-align: center">650&lt;/td>
+ &lt;td style="text-align: center">645&lt;/td>
+ &lt;td style="text-align: center">640&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;em>此处留空&lt;/em>&lt;/td>
+ &lt;td style="text-align: center">&lt;/td>
+ &lt;td style="text-align: center">&lt;/td>
+ &lt;td style="text-align: center">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;em>多留几行&lt;/em>&lt;/td>
+ &lt;td style="text-align: center">&lt;/td>
+ &lt;td style="text-align: center">&lt;/td>
+ &lt;td style="text-align: center">&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="第三步查询历年分数线">
+ 第三步：查询历年分数线
+ &lt;a class="anchor" href="#%e7%ac%ac%e4%b8%89%e6%ad%a5%e6%9f%a5%e8%af%a2%e5%8e%86%e5%b9%b4%e5%88%86%e6%95%b0%e7%ba%bf">#&lt;/a>
+&lt;/h3>
+&lt;p>这一步可以通过各种的公开资料获取，比如搜索「XX 大学 分数线」，网络上就会有非常多的公开信息，许多高考信息整合平台也会提供不同学校、不同专业、在不同省份、不同选科情况下的分数线。&lt;/p></description></item><item><title>中国专业分析与选择</title><link>https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-majors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-majors/</guid><description>&lt;h1 id="中国专业分析与选择">
+ 中国专业分析与选择
+ &lt;a class="anchor" href="#%e4%b8%ad%e5%9b%bd%e4%b8%93%e4%b8%9a%e5%88%86%e6%9e%90%e4%b8%8e%e9%80%89%e6%8b%a9">#&lt;/a>
+&lt;/h1>
+&lt;p>在 
+ &lt;a href="https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-undergraduate/">中国本科志愿填报&lt;/a> 中，我们阐明了专业对于我们的重要意义。因而，本文主要讲解在确定学校的大致范围后，如何了解自己感兴趣的专业，以及如何缩小选择范围。&lt;/p>
+&lt;h2 id="方向和大类">
+ 方向和大类
+ &lt;a class="anchor" href="#%e6%96%b9%e5%90%91%e5%92%8c%e5%a4%a7%e7%b1%bb">#&lt;/a>
+&lt;/h2>
+&lt;p>首先，我们可以通过各种网络、媒体等来对专业大类进行一个了解。比如工、理、文、经、管、法、教、农、医等，具体可以在下属，各包含了什麽专业、有什麽子类、其特点是什麽等等。比如下面是几个可以选择的相对可靠的信息源，如 wiki 可以在不同层级点入浏览，但部分词条不全；而国家标准则是最为正式的分类，但缺少进一步的解释。&lt;/p>
+&lt;ul>
+&lt;li>
+ &lt;a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%AD%A6%E7%A7%91%E5%88%86%E7%B1%BB">中华人民共和国学科分类 - Wikipedia&lt;/a>&lt;/li>
+&lt;li>
+ &lt;a href="https://xkb.pku.edu.cn/docs/2018-10/20220328083301969071.pdf">中华人民共和国国家标准学科分类与代码 - 北京大学&lt;/a>, 
+ &lt;a href="https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4C13F521FD6ECB6E5EC026FCD779986E">中华人民共和国国家标准学科分类与代码 - 国家标准全文公开系统&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>然后，我们可以根据兴趣、就业、赚钱等多个因素，对大方向进行筛选。尽管各来源等信息可能存在一定的偏颇，但若没有更好的渠道，且我们只是做大方向的筛选的话，其准确率是可以接受的——自然，如果您有更准确的指导/资源会更好。在了解了整体方向之后，我们可以开始筛除自己不喜欢的方向。然后在大方向内寻找自己喜欢的类目。&lt;/p>
+&lt;h2 id="专业">
+ 专业
+ &lt;a class="anchor" href="#%e4%b8%93%e4%b8%9a">#&lt;/a>
+&lt;/h2>
+&lt;p>然后进行下一步，即对具体专业细节的筛选。&lt;/p>
+&lt;p>以计算机大类为例，计算机科学与技术有许多不同的类别。按具体专业设施（而不是标准学科分类）来说，从软件工程到计算机科学与技术（也就是偏理论），再有的学校还可能提供更具体的专业，如人工智能和大数据等。然而，如此多的学科若要进行进一步的筛选则需要更多的知识，而在这里，我们可能就要减少对搜索引擎上信息的依赖了。搜索引擎上提供的宽泛的信息只能帮助你（一定程度上）排除你绝对不喜欢的学科，但如果要继续查看自己志愿可以选择的内容，则往往需要结合自己的分数信息/目标院校。&lt;/p>
+&lt;h2 id="培养计划">
+ 培养计划
+ &lt;a class="anchor" href="#%e5%9f%b9%e5%85%bb%e8%ae%a1%e5%88%92">#&lt;/a>
+&lt;/h2>
+&lt;p>分数信息和目标院校是为了让你更好的获得你所选择专业的具体细节。特别是对于最新兴起的大数据、人工智能、半导体等专业，因为其设立可能只是为了迎合热潮，学校并不一定有足够的教学经验和资源帮助你获得应有的教育。一些新开设的专业和原理工/文法等有偏重的院校扩展招生范围/希望成为综合性大学的院校，往往会存在这样的情况。当然，许多时候我们的选择还是受限的，如前所述，许多因素制约着我们的选择。&lt;/p>
+&lt;p>那麽，为了对我们列入计划的学校专业进行更详细的了解，我们需要查阅该专业的培养计划。&lt;/p>
+&lt;p>假设我们选择了一个名为 XYZ 的专业，我们同时有目标院校「A 大学」等，那麽我们可以登入 A 大学的官网-院系主页-培养计划找到相关文件。同时，如果其主页提供了搜索功能，甚至可能部分文件也被搜索引擎收录了。但请注意核实自己所查看的版本是否是最新版。&lt;/p>
+&lt;p>在找到《A 大学 XYZ 专业 培养计划》后，我们可以向下滑动，找到其课程设置，如选修课、必修课、通识课等。这些组成了该专业的具体培养方案，如果对某些课程不熟悉，也可以借助搜索引擎/维基百科或者找到教材查阅目录以了解其主要学习的内容。&lt;/p>
+&lt;p>同样需要注意的是，由于不同学校情况不同，因而对于相同专业名称可能会有不同的培养计划设置，因而建议每个学校+专业的搭配都要看一下。此外，还可以使用一个表格来对比相同点和不同点。&lt;/p>
+&lt;p>最后要注意的是，一些学校还可能进行大类招生，然后再进行专业分流。着名的「计算机大类变成土木工程」的经历，就来自使用这种方法的大学。因而，如果您报考了大类招生的专业，也需要注意分流的子专业情况。比如，其中可能会存在热门专业和冷门专业，我们也需要考虑如果自己无法进入热门专业，是否能够接受冷门专业。&lt;/p></description></item><item><title>获得本科学历的相关资讯</title><link>https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-college/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-college/</guid><description>&lt;h1 id="获得本科学历的相关资讯">
+ 获得本科学历的相关资讯
+ &lt;a class="anchor" href="#%e8%8e%b7%e5%be%97%e6%9c%ac%e7%a7%91%e5%ad%a6%e5%8e%86%e7%9a%84%e7%9b%b8%e5%85%b3%e8%b5%84%e8%ae%af">#&lt;/a>
+&lt;/h1>
+&lt;p>在许多情况下，大学本科所提供的「学位证」是非常重要的，因而我们将会在这个章节中讨论一些如何获得本科学历相关的资讯。&lt;/p>
+&lt;h2 id="获得本科学历">
+ 获得本科学历
+ &lt;a class="anchor" href="#%e8%8e%b7%e5%be%97%e6%9c%ac%e7%a7%91%e5%ad%a6%e5%8e%86">#&lt;/a>
+&lt;/h2>
+&lt;h3 id="自学考试">
+ 自学考试
+ &lt;a class="anchor" href="#%e8%87%aa%e5%ad%a6%e8%80%83%e8%af%95">#&lt;/a>
+&lt;/h3>
+&lt;p>自考的学习过程主要依靠自学，学生可以根据自己的时间和能力安排学习计划，并通过自学教材进行学习。学生可以在考试前自行报名。&lt;/p>
+&lt;p>与普通高考和成人高考在招生对象、考试时间及学制不同，自考是「宽进严出」。考生参加国家考试机构统一组织的单科考试，合格一门，发一门的合格证书，所有科目合格后，方可申请毕业(申请本科毕业的学生还需提供国家承认的专科毕业证)。因而可能有一定难度。&lt;/p>
+&lt;h3 id="成人高等教育考试">
+ 成人高等教育考试
+ &lt;a class="anchor" href="#%e6%88%90%e4%ba%ba%e9%ab%98%e7%ad%89%e6%95%99%e8%82%b2%e8%80%83%e8%af%95">#&lt;/a>
+&lt;/h3>
+&lt;p>考生在参加全国招生统一考试后，各省、自治区统一组织录取。&lt;/p>
+&lt;p>根据起点和终点可以分为三种：成人高等学历教育分为专科起点本科（简称专升本）、高中起点本科（简称高起本）和高中起点专科（简称高起专）。同时学习形式有：函授、脱产（全日制）、业余（半脱产、夜校）。&lt;/p>
+&lt;p>远程教育，业余和函授（也就是非全日制）最短学习年限为：专升本两年半，高起本五年，高起专两年半。虽然时间长，但理论上可以做其他的工作来赚钱。此外，如果希望离开父母或家庭环境，也完全可以选择脱产的方式。脱产最短学习年限为：专升本两年，高起本五年，高起专两年；&lt;/p>
+&lt;p>这个的通过率就比上面的高很多，也就是更容易获得本科证明。&lt;/p>
+&lt;h3 id="远程教育">
+ 远程教育
+ &lt;a class="anchor" href="#%e8%bf%9c%e7%a8%8b%e6%95%99%e8%82%b2">#&lt;/a>
+&lt;/h3>
+&lt;p>许多大学提供了远程教育，也就是上网课。如果通过了考试，也可以获得本科证明。&lt;/p>
+&lt;p>这个的考试听说非常简单，而且申请远程教育有些学校只要求初中或高中的毕业证明。&lt;/p>
+&lt;h2 id="随后可以做什麽">
+ 随后可以做什麽
+ &lt;a class="anchor" href="#%e9%9a%8f%e5%90%8e%e5%8f%af%e4%bb%a5%e5%81%9a%e4%bb%80%e9%ba%bd">#&lt;/a>
+&lt;/h2>
+&lt;h3 id="准备研究生考试">
+ 准备研究生考试
+ &lt;a class="anchor" href="#%e5%87%86%e5%a4%87%e7%a0%94%e7%a9%b6%e7%94%9f%e8%80%83%e8%af%95">#&lt;/a>
+&lt;/h3>
+&lt;p>可以申请许多学校的研究生，据说部分学校的研究生经常招收不满人，但不清楚近几年如何。&lt;/p>
+&lt;h3 id="准备出国留学">
+ 准备出国留学
+ &lt;a class="anchor" href="#%e5%87%86%e5%a4%87%e5%87%ba%e5%9b%bd%e7%95%99%e5%ad%a6">#&lt;/a>
+&lt;/h3>
+&lt;p>获得本科学位证后，可以申请国外的学术型硕士，也可以选择申请国外的职业导向的其他项目。&lt;/p>
+&lt;h3 id="国内就业">
+ 国内就业
+ &lt;a class="anchor" href="#%e5%9b%bd%e5%86%85%e5%b0%b1%e4%b8%9a">#&lt;/a>
+&lt;/h3>
+&lt;p>获得本科学位证后，起码会更容易一点，虽然当下（2023年）的就业形势仍然严峻。&lt;/p>
+&lt;h3 id="国外就业">
+ 国外就业
+ &lt;a class="anchor" href="#%e5%9b%bd%e5%a4%96%e5%b0%b1%e4%b8%9a">#&lt;/a>
+&lt;/h3>
+&lt;p>许多国家的部分专业和岗位比较缺人，因而开放了许多工作签证，比如澳大利亚和新西兰都有工作假期签证和临时工作签证。&lt;/p></description></item><item><title>中外合办相关信息</title><link>https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-jointly/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hans/docs/universities/asia/east-asia/china-jointly/</guid><description>&lt;h1 id="中外合办相关信息">
+ 中外合办相关信息
+ &lt;a class="anchor" href="#%e4%b8%ad%e5%a4%96%e5%90%88%e5%8a%9e%e7%9b%b8%e5%85%b3%e4%bf%a1%e6%81%af">#&lt;/a>
+&lt;/h1>
+&lt;blockquote class="book-hint info">
+ &lt;strong>本信息可能有一定的迟滞&lt;/strong>
+&lt;/blockquote>
+
+&lt;p>以下是关于中外合办大学/专业的一些内容，但因信源单一，可能许多内容不适合所有合办大学/专业，请注意核实每个细节所需要的具体文件、资质证明等内容。&lt;/p>
+&lt;h2 id="神经多样性和性多样性群体">
+ 神经多样性和性多样性群体
+ &lt;a class="anchor" href="#%e7%a5%9e%e7%bb%8f%e5%a4%9a%e6%a0%b7%e6%80%a7%e5%92%8c%e6%80%a7%e5%a4%9a%e6%a0%b7%e6%80%a7%e7%be%a4%e4%bd%93">#&lt;/a>
+&lt;/h2>
+&lt;p>神经多样性方面存在名义上的支持，但在实际看来效果并不明显。例如，ADHD 患者可以获得延长截止日期/考试时间，ASD 患者可以得到「帮助你和他人交流」的支持。&lt;/p>
+&lt;p>性多样性群体方面，总体而言，大部分情况下不会有人关注你的性别表达等方面。最多的可能就是进宿舍时会被问一些问题，认识之后就不怎么问了。&lt;/p>
+&lt;h2 id="心理咨询">
+ 心理咨询
+ &lt;a class="anchor" href="#%e5%bf%83%e7%90%86%e5%92%a8%e8%af%a2">#&lt;/a>
+&lt;/h2>
+&lt;p>学校提供相对专业的心理咨询服务，注册后每个学期可以有几个咨询机会，往往有了解且对性多样性群体友善的咨询老师。&lt;/p>
+&lt;h2 id="宿舍安排">
+ 宿舍安排
+ &lt;a class="anchor" href="#%e5%ae%bf%e8%88%8d%e5%ae%89%e6%8e%92">#&lt;/a>
+&lt;/h2>
+&lt;p>往往低年级可能住宿条件差一点，但也会是比较新的多人间。大三大四后有机会申请到套间或单人间，单人间可能与其他性别混住。每个房间都有独立的浴室。&lt;/p>
+&lt;h2 id="其他特点">
+ 其他特点
+ &lt;a class="anchor" href="#%e5%85%b6%e4%bb%96%e7%89%b9%e7%82%b9">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>学费往往在十万元左右。&lt;/li>
+&lt;li>签到要求可能会较严格。&lt;/li>
+&lt;li>进入此类学校需要经过高考。&lt;/li>
+&lt;li>若想出国，还需要准备相关的语言考试，并在本科阶段保持良好的GPA。&lt;/li>
+&lt;li>对于精神状态不好的人来说，这可能只是一条比较轻松自在的路线，但每个人的感受肯定不同。&lt;/li>
+&lt;/ul>
+&lt;h2 id="未来规划">
+ 未来规划
+ &lt;a class="anchor" href="#%e6%9c%aa%e6%9d%a5%e8%a7%84%e5%88%92">#&lt;/a>
+&lt;/h2>
+&lt;p>往往合办是双学位的，也就是可以获得国内大学的学位证书与国外合办大学的学位证书。如果整个学位的所有课程都是以英语为授课/考试/考核等的语言，理论上可以在后续申请中不需要再进行语言考试。但也请注意，是所有课程都是英语或至少 xx 学分的英语课程，也就是说，这里可能需要额外的换算，比如中国的学分和欧洲标准学分（ECTS）往往不同，可能需要额外的证明文件等，都可能是需要注意的。&lt;/p>
+&lt;p>同时，不同学校要求不同，比如很多学校只要「在xxx国家完全以英语授课/评估的学位」，但也有部分学校宽限到「授予学位的机构位于xx国家，那么在该国家意外的在线、离岸校园（应该合作办学属于这类）的学习可证明语言技能」。需要注意的是，这里的「xx国家」指的是学位授予机构所在的国家，而不是学校所在的国家。也就是说，如果我在中国 A 高校和 X 国 B 高校合作办学中，获得的双学位，那么你需要确认 X 国在认可列表中，并符合后续的其它要求。&lt;/p>
+&lt;p>但无论如何，现在可以考虑一下自己未来可能会选择的国家范围，然后从网路上可以找到更多资讯，来帮助自己现在的学校或专业选择。&lt;/p></description></item></channel></rss>

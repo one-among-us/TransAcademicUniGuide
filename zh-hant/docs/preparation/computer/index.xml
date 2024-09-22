@@ -1,15 +1,93 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>計算機相關專業 on 跨性別選校手冊</title><link>https://uniguide.transacademic.org/zh-hant/docs/preparation/computer/</link><description>Recent content in 計算機相關專業 on 跨性別選校手冊</description><generator>Hugo</generator><language>zh-hant</language><atom:link href="https://uniguide.transacademic.org/zh-hant/docs/preparation/computer/index.xml" rel="self" type="application/rss+xml"/><item><title>計算機科學與技術</title><link>https://uniguide.transacademic.org/zh-hant/docs/preparation/computer/computer-science/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hant/docs/preparation/computer/computer-science/</guid><description>計算機科學 # 計算機科學、計算機技術、軟體工程等系在申請時差距不算特別大，但部分要求較嚴的大學還是會稍微對軟體工程挑剔一點。
-課程與資料 # CSDIY.wiki</description></item><item><title>數據科學</title><link>https://uniguide.transacademic.org/zh-hant/docs/preparation/computer/data-science/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hant/docs/preparation/computer/data-science/</guid><description>數據科學 # 隨著人工智慧、數據科學的發展和應用，百度、華為等許多企業也都增加了這方面的比賽，並且給予了豐厚的獎金等。
-學習 # 如果您的學院已經開設了相關的課程，如機器學習之類的，可以提前試聽、嘗試上手練習。但請不要因為許多library已經實現了部分功能而不去了解原理。
-競賽 # 以下只列出一些相對來說認可度比較高的、或可能有所幫助的，不是窮舉所有比賽。因而，如果有興趣，請使用搜索或其它方式，獲取更符合您研究方向的比賽。
-世界範圍 # Kaggle # Kaggle 既提供數據集，也提供論壇，還提供競賽，非常有價值的網站。
-KDD # KDD ，ACM旗下，認可度高、難度大。
-Drivendata # 各種比賽 ，有獎金。
-ICME # 每年都有，但網址每年都變，所以請搜索「ICME」獲取最新地址。
-中國大陸 # 阿里巴巴 天池 # 天池大賽 不僅提供了一些實習的機會，如果想要在國內工作的話，也提供了豐富的獎金。
-百度 AI studio # AI studio 也是提供實習和獎金的平臺，還可以和Google Colab一樣蹭免費計算卡（可以使用巧妙的方法安裝Tensorflow等表面上不支持的框架）
-華為 # 華為 同樣，也是獎金+實習機會。
-京東 # 京東 ，獎金+實習機會。</description></item><item><title>網路安全</title><link>https://uniguide.transacademic.org/zh-hant/docs/preparation/computer/network-security/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hant/docs/preparation/computer/network-security/</guid><description>網路安全 # 從找工作的角度來講，網路安全雖然能找到不錯的工作條件、不錯的報酬，但是也因為這個行業的敏感性，導致實際的選擇是受限的，在外國學校畢業後，可能只能選擇企業等單位。
-因而，雖然並不推薦網路安全作為首選的專業，但如果真的喜歡這個專業，也是完全可以考慮的。
-資源 # CTF Wiki 也提供了很好的入门与进阶内容。
-ctf.mzy0.com</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>計算機相關專業 on 跨性別選校手冊</title><link>https://uniguide.transacademic.org/zh-hant/docs/preparation/computer/</link><description>Recent content in 計算機相關專業 on 跨性別選校手冊</description><generator>Hugo</generator><language>zh-hant</language><atom:link href="https://uniguide.transacademic.org/zh-hant/docs/preparation/computer/index.xml" rel="self" type="application/rss+xml"/><item><title>計算機科學與技術</title><link>https://uniguide.transacademic.org/zh-hant/docs/preparation/computer/computer-science/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hant/docs/preparation/computer/computer-science/</guid><description>&lt;h1 id="計算機科學">
+ 計算機科學
+ &lt;a class="anchor" href="#%e8%a8%88%e7%ae%97%e6%a9%9f%e7%a7%91%e5%ad%b8">#&lt;/a>
+&lt;/h1>
+&lt;p>計算機科學、計算機技術、軟體工程等系在申請時差距不算特別大，但部分要求較嚴的大學還是會稍微對軟體工程挑剔一點。&lt;/p>
+&lt;h2 id="課程與資料">
+ 課程與資料
+ &lt;a class="anchor" href="#%e8%aa%b2%e7%a8%8b%e8%88%87%e8%b3%87%e6%96%99">#&lt;/a>
+&lt;/h2>
+&lt;p>
+ &lt;a href="https://csdiy.wiki/zh-hant/">CSDIY.wiki&lt;/a>&lt;/p></description></item><item><title>數據科學</title><link>https://uniguide.transacademic.org/zh-hant/docs/preparation/computer/data-science/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hant/docs/preparation/computer/data-science/</guid><description>&lt;h1 id="數據科學">
+ 數據科學
+ &lt;a class="anchor" href="#%e6%95%b8%e6%93%9a%e7%a7%91%e5%ad%b8">#&lt;/a>
+&lt;/h1>
+&lt;p>隨著人工智慧、數據科學的發展和應用，百度、華為等許多企業也都增加了這方面的比賽，並且給予了豐厚的獎金等。&lt;/p>
+&lt;h2 id="學習">
+ 學習
+ &lt;a class="anchor" href="#%e5%ad%b8%e7%bf%92">#&lt;/a>
+&lt;/h2>
+&lt;p>如果您的學院已經開設了相關的課程，如機器學習之類的，可以提前試聽、嘗試上手練習。但請不要因為許多library已經實現了部分功能而不去了解原理。&lt;/p>
+&lt;h2 id="競賽">
+ 競賽
+ &lt;a class="anchor" href="#%e7%ab%b6%e8%b3%bd">#&lt;/a>
+&lt;/h2>
+&lt;p>以下只列出一些相對來說認可度比較高的、或可能有所幫助的，不是窮舉所有比賽。因而，如果有興趣，請使用搜索或其它方式，獲取更符合您研究方向的比賽。&lt;/p>
+&lt;h3 id="世界範圍">
+ 世界範圍
+ &lt;a class="anchor" href="#%e4%b8%96%e7%95%8c%e7%af%84%e5%9c%8d">#&lt;/a>
+&lt;/h3>
+&lt;h4 id="kaggle">
+ Kaggle
+ &lt;a class="anchor" href="#kaggle">#&lt;/a>
+&lt;/h4>
+&lt;p>
+ &lt;a href="https://www.kaggle.com/competitions">Kaggle&lt;/a> 既提供數據集，也提供論壇，還提供競賽，非常有價值的網站。&lt;/p>
+&lt;h4 id="kdd">
+ KDD
+ &lt;a class="anchor" href="#kdd">#&lt;/a>
+&lt;/h4>
+&lt;p>
+ &lt;a href="https://www.kdd.org/">KDD&lt;/a> ，ACM旗下，認可度高、難度大。&lt;/p>
+&lt;h4 id="drivendata">
+ Drivendata
+ &lt;a class="anchor" href="#drivendata">#&lt;/a>
+&lt;/h4>
+&lt;p>
+ &lt;a href="https://www.drivendata.org/">各種比賽&lt;/a> ，有獎金。&lt;/p>
+&lt;h4 id="icme">
+ ICME
+ &lt;a class="anchor" href="#icme">#&lt;/a>
+&lt;/h4>
+&lt;p>每年都有，但網址每年都變，所以請搜索「ICME」獲取最新地址。&lt;/p>
+&lt;h3 id="中國大陸">
+ 中國大陸
+ &lt;a class="anchor" href="#%e4%b8%ad%e5%9c%8b%e5%a4%a7%e9%99%b8">#&lt;/a>
+&lt;/h3>
+&lt;h4 id="阿里巴巴-天池">
+ 阿里巴巴 天池
+ &lt;a class="anchor" href="#%e9%98%bf%e9%87%8c%e5%b7%b4%e5%b7%b4-%e5%a4%a9%e6%b1%a0">#&lt;/a>
+&lt;/h4>
+&lt;p>
+ &lt;a href="https://tianchi.aliyun.com/competition/activeList">天池大賽&lt;/a> 不僅提供了一些實習的機會，如果想要在國內工作的話，也提供了豐富的獎金。&lt;/p>
+&lt;h4 id="百度-ai-studio">
+ 百度 AI studio
+ &lt;a class="anchor" href="#%e7%99%be%e5%ba%a6-ai-studio">#&lt;/a>
+&lt;/h4>
+&lt;p>
+ &lt;a href="https://aistudio.baidu.com/aistudio/competition">AI studio&lt;/a> 也是提供實習和獎金的平臺，還可以和Google Colab一樣蹭免費計算卡（可以使用巧妙的方法安裝Tensorflow等表面上不支持的框架）&lt;/p>
+&lt;h4 id="華為">
+ 華為
+ &lt;a class="anchor" href="#%e8%8f%af%e7%82%ba">#&lt;/a>
+&lt;/h4>
+&lt;p>
+ &lt;a href="https://developer.huawei.com/consumer/cn/activity/digixActivity/digixHome">華為&lt;/a> 同樣，也是獎金+實習機會。&lt;/p>
+&lt;h4 id="京東">
+ 京東
+ &lt;a class="anchor" href="#%e4%ba%ac%e6%9d%b1">#&lt;/a>
+&lt;/h4>
+&lt;p>
+ &lt;a href="https://jdata.jd.com/html/list.html">京東&lt;/a> ，獎金+實習機會。&lt;/p></description></item><item><title>網路安全</title><link>https://uniguide.transacademic.org/zh-hant/docs/preparation/computer/network-security/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uniguide.transacademic.org/zh-hant/docs/preparation/computer/network-security/</guid><description>&lt;h1 id="網路安全">
+ 網路安全
+ &lt;a class="anchor" href="#%e7%b6%b2%e8%b7%af%e5%ae%89%e5%85%a8">#&lt;/a>
+&lt;/h1>
+&lt;p>從找工作的角度來講，網路安全雖然能找到不錯的工作條件、不錯的報酬，但是也因為這個行業的敏感性，導致實際的選擇是受限的，在外國學校畢業後，可能只能選擇企業等單位。&lt;/p>
+&lt;p>因而，雖然並不推薦網路安全作為首選的專業，但如果真的喜歡這個專業，也是完全可以考慮的。&lt;/p>
+&lt;h2 id="資源">
+ 資源
+ &lt;a class="anchor" href="#%e8%b3%87%e6%ba%90">#&lt;/a>
+&lt;/h2>
+&lt;p>
+ &lt;a href="https://ctf-wiki.org/">CTF Wiki&lt;/a> 也提供了很好的入门与进阶内容。&lt;/p>
+&lt;p>
+ &lt;a href="https://ctf.mzy0.com/">ctf.mzy0.com&lt;/a>&lt;/p></description></item></channel></rss>
