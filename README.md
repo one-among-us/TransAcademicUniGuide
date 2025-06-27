@@ -1,5 +1,5 @@
 # TransAcademicUniGuidance
-本站已经迁移至 [RLE.wiki](https://RLE.wiki)，原网站将备份存档，不再更新。
+本站已经迁移至 [neo-RLEwiki](https://rle.oau.app)，原网站将备份存档，不再更新。
 
 ---
 
